@@ -1,0 +1,1872 @@
+ticker,statement,fiscal_date,metric,value
+ZGN,balance_sheet,2025-12-31,Treasury Shares Number,34464296.0
+ZGN,balance_sheet,2025-12-31,Ordinary Shares Number,268240430.0
+ZGN,balance_sheet,2025-12-31,Share Issued,302704726.0
+ZGN,balance_sheet,2025-12-31,Net Debt,26068000.0
+ZGN,balance_sheet,2025-12-31,Total Debt,977778000.0
+ZGN,balance_sheet,2025-12-31,Tangible Book Value,476925000.0
+ZGN,balance_sheet,2025-12-31,Invested Capital,1277200000.0
+ZGN,balance_sheet,2025-12-31,Working Capital,439821000.0
+ZGN,balance_sheet,2025-12-31,Net Tangible Assets,476925000.0
+ZGN,balance_sheet,2025-12-31,Capital Lease Obligations,731589000.0
+ZGN,balance_sheet,2025-12-31,Common Stock Equity,1031011000.0
+ZGN,balance_sheet,2025-12-31,Total Capitalization,1193134000.0
+ZGN,balance_sheet,2025-12-31,Total Equity Gross Minority Interest,1099081000.0
+ZGN,balance_sheet,2025-12-31,Minority Interest,68070000.0
+ZGN,balance_sheet,2025-12-31,Stockholders Equity,1031011000.0
+ZGN,balance_sheet,2025-12-31,Gains Losses Not Affecting Retained Earnings,-213152000.0
+ZGN,balance_sheet,2025-12-31,Other Equity Adjustments,-161371000.0
+ZGN,balance_sheet,2025-12-31,Foreign Currency Translation Adjustments,-54302000.0
+ZGN,balance_sheet,2025-12-31,Minimum Pension Liabilities,2603000.0
+ZGN,balance_sheet,2025-12-31,Unrealized Gain Loss,-82000.0
+ZGN,balance_sheet,2025-12-31,Treasury Stock,287203000.0
+ZGN,balance_sheet,2025-12-31,Retained Earnings,739625000.0
+ZGN,balance_sheet,2025-12-31,Additional Paid In Capital,782587000.0
+ZGN,balance_sheet,2025-12-31,Capital Stock,9154000.0
+ZGN,balance_sheet,2025-12-31,Common Stock,9154000.0
+ZGN,balance_sheet,2025-12-31,Total Liabilities Net Minority Interest,1735627000.0
+ZGN,balance_sheet,2025-12-31,Total Non Current Liabilities Net Minority Interest,985235000.0
+ZGN,balance_sheet,2025-12-31,Derivative Product Liabilities,105632000.0
+ZGN,balance_sheet,2025-12-31,Employee Benefits,30100000.0
+ZGN,balance_sheet,2025-12-31,Non Current Deferred Liabilities,76031000.0
+ZGN,balance_sheet,2025-12-31,Non Current Deferred Taxes Liabilities,76031000.0
+ZGN,balance_sheet,2025-12-31,Long Term Debt And Capital Lease Obligation,752775000.0
+ZGN,balance_sheet,2025-12-31,Long Term Capital Lease Obligation,590652000.0
+ZGN,balance_sheet,2025-12-31,Long Term Debt,162123000.0
+ZGN,balance_sheet,2025-12-31,Long Term Provisions,20697000.0
+ZGN,balance_sheet,2025-12-31,Current Liabilities,750392000.0
+ZGN,balance_sheet,2025-12-31,Other Current Liabilities,16190000.0
+ZGN,balance_sheet,2025-12-31,Current Deferred Liabilities,78072000.0
+ZGN,balance_sheet,2025-12-31,Current Deferred Revenue,78072000.0
+ZGN,balance_sheet,2025-12-31,Current Debt And Capital Lease Obligation,225003000.0
+ZGN,balance_sheet,2025-12-31,Current Capital Lease Obligation,140937000.0
+ZGN,balance_sheet,2025-12-31,Current Debt,84066000.0
+ZGN,balance_sheet,2025-12-31,Other Current Borrowings,84066000.0
+ZGN,balance_sheet,2025-12-31,Pensionand Other Post Retirement Benefit Plans Current,12197000.0
+ZGN,balance_sheet,2025-12-31,Current Provisions,23098000.0
+ZGN,balance_sheet,2025-12-31,Payables And Accrued Expenses,395832000.0
+ZGN,balance_sheet,2025-12-31,Current Accrued Expenses,27593000.0
+ZGN,balance_sheet,2025-12-31,Payables,368239000.0
+ZGN,balance_sheet,2025-12-31,Other Payable,53980000.0
+ZGN,balance_sheet,2025-12-31,Total Tax Payable,58129000.0
+ZGN,balance_sheet,2025-12-31,Accounts Payable,256130000.0
+ZGN,balance_sheet,2025-12-31,Total Assets,2834708000.0
+ZGN,balance_sheet,2025-12-31,Total Non Current Assets,1644495000.0
+ZGN,balance_sheet,2025-12-31,Non Current Deferred Assets,164047000.0
+ZGN,balance_sheet,2025-12-31,Non Current Deferred Taxes Assets,164047000.0
+ZGN,balance_sheet,2025-12-31,Non Current Accounts Receivable,1235000.0
+ZGN,balance_sheet,2025-12-31,Investments And Advances,61442000.0
+ZGN,balance_sheet,2025-12-31,Investmentin Financial Assets,37261000.0
+ZGN,balance_sheet,2025-12-31,Available For Sale Securities,37261000.0
+ZGN,balance_sheet,2025-12-31,Long Term Equity Investment,24181000.0
+ZGN,balance_sheet,2025-12-31,Goodwill And Other Intangible Assets,554086000.0
+ZGN,balance_sheet,2025-12-31,Other Intangible Assets,306852000.0
+ZGN,balance_sheet,2025-12-31,Goodwill,247234000.0
+ZGN,balance_sheet,2025-12-31,Net PPE,863685000.0
+ZGN,balance_sheet,2025-12-31,Accumulated Depreciation,-1136038000.0
+ZGN,balance_sheet,2025-12-31,Gross PPE,1999723000.0
+ZGN,balance_sheet,2025-12-31,Leases,1588673000.0
+ZGN,balance_sheet,2025-12-31,Construction In Progress,23768000.0
+ZGN,balance_sheet,2025-12-31,Other Properties,196378000.0
+ZGN,balance_sheet,2025-12-31,Machinery Furniture Equipment,172412000.0
+ZGN,balance_sheet,2025-12-31,Land And Improvements,18492000.0
+ZGN,balance_sheet,2025-12-31,Properties,0.0
+ZGN,balance_sheet,2025-12-31,Current Assets,1190213000.0
+ZGN,balance_sheet,2025-12-31,Other Current Assets,118473000.0
+ZGN,balance_sheet,2025-12-31,Hedging Assets Current,7055000.0
+ZGN,balance_sheet,2025-12-31,Inventory,506903000.0
+ZGN,balance_sheet,2025-12-31,Finished Goods,343764000.0
+ZGN,balance_sheet,2025-12-31,Work In Process,49898000.0
+ZGN,balance_sheet,2025-12-31,Raw Materials,113241000.0
+ZGN,balance_sheet,2025-12-31,Receivables,260487000.0
+ZGN,balance_sheet,2025-12-31,Other Receivables,258000.0
+ZGN,balance_sheet,2025-12-31,Taxes Receivable,33142000.0
+ZGN,balance_sheet,2025-12-31,Accounts Receivable,227087000.0
+ZGN,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-23052000.0
+ZGN,balance_sheet,2025-12-31,Gross Accounts Receivable,250139000.0
+ZGN,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,297295000.0
+ZGN,balance_sheet,2025-12-31,Other Short Term Investments,77174000.0
+ZGN,balance_sheet,2025-12-31,Cash And Cash Equivalents,220121000.0
+ZGN,balance_sheet,2025-12-31,Cash Financial,220121000.0
+ZGN,balance_sheet,2024-12-31,Treasury Shares Number,50201247.0
+ZGN,balance_sheet,2024-12-31,Ordinary Shares Number,252503479.0
+ZGN,balance_sheet,2024-12-31,Share Issued,302704726.0
+ZGN,balance_sheet,2024-12-31,Net Debt,154437000.0
+ZGN,balance_sheet,2024-12-31,Total Debt,1035252000.0
+ZGN,balance_sheet,2024-12-31,Tangible Book Value,301757000.0
+ZGN,balance_sheet,2024-12-31,Invested Capital,1289687000.0
+ZGN,balance_sheet,2024-12-31,Working Capital,353277000.0
+ZGN,balance_sheet,2024-12-31,Net Tangible Assets,301757000.0
+ZGN,balance_sheet,2024-12-31,Capital Lease Obligations,661685000.0
+ZGN,balance_sheet,2024-12-31,Common Stock Equity,916120000.0
+ZGN,balance_sheet,2024-12-31,Total Capitalization,1112521000.0
+ZGN,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,982887000.0
+ZGN,balance_sheet,2024-12-31,Minority Interest,66767000.0
+ZGN,balance_sheet,2024-12-31,Stockholders Equity,916120000.0
+ZGN,balance_sheet,2024-12-31,Gains Losses Not Affecting Retained Earnings,-126007000.0
+ZGN,balance_sheet,2024-12-31,Other Equity Adjustments,-150086000.0
+ZGN,balance_sheet,2024-12-31,Foreign Currency Translation Adjustments,21282000.0
+ZGN,balance_sheet,2024-12-31,Minimum Pension Liabilities,2742000.0
+ZGN,balance_sheet,2024-12-31,Unrealized Gain Loss,55000.0
+ZGN,balance_sheet,2024-12-31,Treasury Stock,418345000.0
+ZGN,balance_sheet,2024-12-31,Retained Earnings,668731000.0
+ZGN,balance_sheet,2024-12-31,Additional Paid In Capital,782587000.0
+ZGN,balance_sheet,2024-12-31,Capital Stock,9154000.0
+ZGN,balance_sheet,2024-12-31,Common Stock,9154000.0
+ZGN,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,1851086000.0
+ZGN,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,998201000.0
+ZGN,balance_sheet,2024-12-31,Other Non Current Liabilities,110000.0
+ZGN,balance_sheet,2024-12-31,Derivative Product Liabilities,146338000.0
+ZGN,balance_sheet,2024-12-31,Employee Benefits,34945000.0
+ZGN,balance_sheet,2024-12-31,Non Current Deferred Liabilities,78129000.0
+ZGN,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,78129000.0
+ZGN,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,715129000.0
+ZGN,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,518728000.0
+ZGN,balance_sheet,2024-12-31,Long Term Debt,196401000.0
+ZGN,balance_sheet,2024-12-31,Long Term Provisions,23550000.0
+ZGN,balance_sheet,2024-12-31,Current Liabilities,852885000.0
+ZGN,balance_sheet,2024-12-31,Other Current Liabilities,31664000.0
+ZGN,balance_sheet,2024-12-31,Current Deferred Liabilities,69273000.0
+ZGN,balance_sheet,2024-12-31,Current Deferred Revenue,69273000.0
+ZGN,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,320123000.0
+ZGN,balance_sheet,2024-12-31,Current Capital Lease Obligation,142957000.0
+ZGN,balance_sheet,2024-12-31,Current Debt,177166000.0
+ZGN,balance_sheet,2024-12-31,Other Current Borrowings,177166000.0
+ZGN,balance_sheet,2024-12-31,Pensionand Other Post Retirement Benefit Plans Current,14202000.0
+ZGN,balance_sheet,2024-12-31,Current Provisions,16792000.0
+ZGN,balance_sheet,2024-12-31,Payables And Accrued Expenses,400831000.0
+ZGN,balance_sheet,2024-12-31,Current Accrued Expenses,36432000.0
+ZGN,balance_sheet,2024-12-31,Payables,364399000.0
+ZGN,balance_sheet,2024-12-31,Other Payable,52177000.0
+ZGN,balance_sheet,2024-12-31,Total Tax Payable,63617000.0
+ZGN,balance_sheet,2024-12-31,Accounts Payable,248605000.0
+ZGN,balance_sheet,2024-12-31,Total Assets,2833973000.0
+ZGN,balance_sheet,2024-12-31,Total Non Current Assets,1627811000.0
+ZGN,balance_sheet,2024-12-31,Non Current Deferred Assets,166029000.0
+ZGN,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,166029000.0
+ZGN,balance_sheet,2024-12-31,Non Current Accounts Receivable,1585000.0
+ZGN,balance_sheet,2024-12-31,Investments And Advances,59591000.0
+ZGN,balance_sheet,2024-12-31,Investmentin Financial Assets,39901000.0
+ZGN,balance_sheet,2024-12-31,Available For Sale Securities,39901000.0
+ZGN,balance_sheet,2024-12-31,Long Term Equity Investment,19690000.0
+ZGN,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,614363000.0
+ZGN,balance_sheet,2024-12-31,Other Intangible Assets,338733000.0
+ZGN,balance_sheet,2024-12-31,Goodwill,275630000.0
+ZGN,balance_sheet,2024-12-31,Net PPE,786243000.0
+ZGN,balance_sheet,2024-12-31,Accumulated Depreciation,-1038389000.0
+ZGN,balance_sheet,2024-12-31,Gross PPE,1824632000.0
+ZGN,balance_sheet,2024-12-31,Leases,1437767000.0
+ZGN,balance_sheet,2024-12-31,Construction In Progress,10902000.0
+ZGN,balance_sheet,2024-12-31,Other Properties,191696000.0
+ZGN,balance_sheet,2024-12-31,Machinery Furniture Equipment,166874000.0
+ZGN,balance_sheet,2024-12-31,Land And Improvements,17393000.0
+ZGN,balance_sheet,2024-12-31,Properties,0.0
+ZGN,balance_sheet,2024-12-31,Current Assets,1206162000.0
+ZGN,balance_sheet,2024-12-31,Other Current Assets,105742000.0
+ZGN,balance_sheet,2024-12-31,Hedging Assets Current,1711000.0
+ZGN,balance_sheet,2024-12-31,Inventory,521015000.0
+ZGN,balance_sheet,2024-12-31,Finished Goods,381112000.0
+ZGN,balance_sheet,2024-12-31,Work In Process,49442000.0
+ZGN,balance_sheet,2024-12-31,Raw Materials,90461000.0
+ZGN,balance_sheet,2024-12-31,Receivables,281565000.0
+ZGN,balance_sheet,2024-12-31,Other Receivables,270000.0
+ZGN,balance_sheet,2024-12-31,Taxes Receivable,32505000.0
+ZGN,balance_sheet,2024-12-31,Accounts Receivable,248790000.0
+ZGN,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-14590000.0
+ZGN,balance_sheet,2024-12-31,Gross Accounts Receivable,263380000.0
+ZGN,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,296129000.0
+ZGN,balance_sheet,2024-12-31,Other Short Term Investments,76999000.0
+ZGN,balance_sheet,2024-12-31,Cash And Cash Equivalents,219130000.0
+ZGN,balance_sheet,2024-12-31,Cash Financial,219130000.0
+ZGN,balance_sheet,2023-12-31,Treasury Shares Number,52394463.0
+ZGN,balance_sheet,2023-12-31,Ordinary Shares Number,250310263.0
+ZGN,balance_sheet,2023-12-31,Share Issued,302704726.0
+ZGN,balance_sheet,2023-12-31,Net Debt,106343000.0
+ZGN,balance_sheet,2023-12-31,Total Debt,996347000.0
+ZGN,balance_sheet,2023-12-31,Tangible Book Value,268020000.0
+ZGN,balance_sheet,2023-12-31,Invested Capital,1242916000.0
+ZGN,balance_sheet,2023-12-31,Working Capital,275513000.0
+ZGN,balance_sheet,2023-12-31,Net Tangible Assets,268020000.0
+ZGN,balance_sheet,2023-12-31,Capital Lease Obligations,593725000.0
+ZGN,balance_sheet,2023-12-31,Common Stock Equity,840294000.0
+ZGN,balance_sheet,2023-12-31,Total Capitalization,953579000.0
+ZGN,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,900896000.0
+ZGN,balance_sheet,2023-12-31,Minority Interest,60602000.0
+ZGN,balance_sheet,2023-12-31,Stockholders Equity,840294000.0
+ZGN,balance_sheet,2023-12-31,Gains Losses Not Affecting Retained Earnings,-133678000.0
+ZGN,balance_sheet,2023-12-31,Other Equity Adjustments,-126037000.0
+ZGN,balance_sheet,2023-12-31,Foreign Currency Translation Adjustments,-9856000.0
+ZGN,balance_sheet,2023-12-31,Minimum Pension Liabilities,2375000.0
+ZGN,balance_sheet,2023-12-31,Unrealized Gain Loss,-160000.0
+ZGN,balance_sheet,2023-12-31,Treasury Stock,436622000.0
+ZGN,balance_sheet,2023-12-31,Retained Earnings,618853000.0
+ZGN,balance_sheet,2023-12-31,Additional Paid In Capital,782587000.0
+ZGN,balance_sheet,2023-12-31,Capital Stock,9154000.0
+ZGN,balance_sheet,2023-12-31,Common Stock,9154000.0
+ZGN,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,1866115000.0
+ZGN,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,853992000.0
+ZGN,balance_sheet,2023-12-31,Other Non Current Liabilities,9779000.0
+ZGN,balance_sheet,2023-12-31,Derivative Product Liabilities,136466000.0
+ZGN,balance_sheet,2023-12-31,Employee Benefits,29645000.0
+ZGN,balance_sheet,2023-12-31,Non Current Deferred Liabilities,73885000.0
+ZGN,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,73885000.0
+ZGN,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,584368000.0
+ZGN,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,471083000.0
+ZGN,balance_sheet,2023-12-31,Long Term Debt,113285000.0
+ZGN,balance_sheet,2023-12-31,Long Term Provisions,19849000.0
+ZGN,balance_sheet,2023-12-31,Current Liabilities,1012123000.0
+ZGN,balance_sheet,2023-12-31,Other Current Liabilities,52486000.0
+ZGN,balance_sheet,2023-12-31,Current Deferred Liabilities,62828000.0
+ZGN,balance_sheet,2023-12-31,Current Deferred Revenue,62828000.0
+ZGN,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,411979000.0
+ZGN,balance_sheet,2023-12-31,Current Capital Lease Obligation,122642000.0
+ZGN,balance_sheet,2023-12-31,Current Debt,289337000.0
+ZGN,balance_sheet,2023-12-31,Other Current Borrowings,289337000.0
+ZGN,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,21260000.0
+ZGN,balance_sheet,2023-12-31,Current Provisions,16019000.0
+ZGN,balance_sheet,2023-12-31,Payables And Accrued Expenses,447551000.0
+ZGN,balance_sheet,2023-12-31,Current Accrued Expenses,28512000.0
+ZGN,balance_sheet,2023-12-31,Payables,419039000.0
+ZGN,balance_sheet,2023-12-31,Other Payable,90864000.0
+ZGN,balance_sheet,2023-12-31,Total Tax Payable,67076000.0
+ZGN,balance_sheet,2023-12-31,Accounts Payable,261099000.0
+ZGN,balance_sheet,2023-12-31,Total Assets,2767011000.0
+ZGN,balance_sheet,2023-12-31,Total Non Current Assets,1479375000.0
+ZGN,balance_sheet,2023-12-31,Non Current Deferred Assets,160878000.0
+ZGN,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,160878000.0
+ZGN,balance_sheet,2023-12-31,Non Current Note Receivables,0.0
+ZGN,balance_sheet,2023-12-31,Non Current Accounts Receivable,1115000.0
+ZGN,balance_sheet,2023-12-31,Investments And Advances,51548000.0
+ZGN,balance_sheet,2023-12-31,Investmentin Financial Assets,32783000.0
+ZGN,balance_sheet,2023-12-31,Available For Sale Securities,32783000.0
+ZGN,balance_sheet,2023-12-31,Long Term Equity Investment,18765000.0
+ZGN,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,572274000.0
+ZGN,balance_sheet,2023-12-31,Other Intangible Assets,316004000.0
+ZGN,balance_sheet,2023-12-31,Goodwill,256270000.0
+ZGN,balance_sheet,2023-12-31,Net PPE,693560000.0
+ZGN,balance_sheet,2023-12-31,Accumulated Depreciation,-880707000.0
+ZGN,balance_sheet,2023-12-31,Gross PPE,1574267000.0
+ZGN,balance_sheet,2023-12-31,Leases,1222598000.0
+ZGN,balance_sheet,2023-12-31,Construction In Progress,5426000.0
+ZGN,balance_sheet,2023-12-31,Other Properties,175739000.0
+ZGN,balance_sheet,2023-12-31,Machinery Furniture Equipment,161923000.0
+ZGN,balance_sheet,2023-12-31,Land And Improvements,8581000.0
+ZGN,balance_sheet,2023-12-31,Properties,0.0
+ZGN,balance_sheet,2023-12-31,Current Assets,1287636000.0
+ZGN,balance_sheet,2023-12-31,Other Current Assets,95260000.0
+ZGN,balance_sheet,2023-12-31,Hedging Assets Current,11110000.0
+ZGN,balance_sheet,2023-12-31,Inventory,522589000.0
+ZGN,balance_sheet,2023-12-31,Finished Goods,385394000.0
+ZGN,balance_sheet,2023-12-31,Work In Process,46735000.0
+ZGN,balance_sheet,2023-12-31,Raw Materials,90460000.0
+ZGN,balance_sheet,2023-12-31,Receivables,271647000.0
+ZGN,balance_sheet,2023-12-31,Other Receivables,166000.0
+ZGN,balance_sheet,2023-12-31,Taxes Receivable,31024000.0
+ZGN,balance_sheet,2023-12-31,Accounts Receivable,240457000.0
+ZGN,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-6681000.0
+ZGN,balance_sheet,2023-12-31,Gross Accounts Receivable,247138000.0
+ZGN,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,387030000.0
+ZGN,balance_sheet,2023-12-31,Other Short Term Investments,90751000.0
+ZGN,balance_sheet,2023-12-31,Cash And Cash Equivalents,296279000.0
+ZGN,balance_sheet,2023-12-31,Cash Financial,296279000.0
+ZGN,balance_sheet,2022-12-31,Treasury Shares Number,54140913.0
+ZGN,balance_sheet,2022-12-31,Ordinary Shares Number,242802746.0
+ZGN,balance_sheet,2022-12-31,Share Issued,296943659.0
+ZGN,balance_sheet,2022-12-31,Net Debt,216734000.0
+ZGN,balance_sheet,2022-12-31,Total Debt,914562000.0
+ZGN,balance_sheet,2022-12-31,Tangible Book Value,223041000.0
+ZGN,balance_sheet,2022-12-31,Invested Capital,1150004000.0
+ZGN,balance_sheet,2022-12-31,Working Capital,418673000.0
+ZGN,balance_sheet,2022-12-31,Net Tangible Assets,223041000.0
+ZGN,balance_sheet,2022-12-31,Capital Lease Obligations,443507000.0
+ZGN,balance_sheet,2022-12-31,Common Stock Equity,678949000.0
+ZGN,balance_sheet,2022-12-31,Total Capitalization,863829000.0
+ZGN,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,732321000.0
+ZGN,balance_sheet,2022-12-31,Minority Interest,53372000.0
+ZGN,balance_sheet,2022-12-31,Stockholders Equity,678949000.0
+ZGN,balance_sheet,2022-12-31,Other Equity Interest,88557000.0
+ZGN,balance_sheet,2022-12-31,Gains Losses Not Affecting Retained Earnings,-125323000.0
+ZGN,balance_sheet,2022-12-31,Other Equity Adjustments,-131075000.0
+ZGN,balance_sheet,2022-12-31,Foreign Currency Translation Adjustments,5295000.0
+ZGN,balance_sheet,2022-12-31,Minimum Pension Liabilities,1252000.0
+ZGN,balance_sheet,2022-12-31,Unrealized Gain Loss,-795000.0
+ZGN,balance_sheet,2022-12-31,Treasury Stock,451174000.0
+ZGN,balance_sheet,2022-12-31,Retained Earnings,528320000.0
+ZGN,balance_sheet,2022-12-31,Additional Paid In Capital,721187000.0
+ZGN,balance_sheet,2022-12-31,Capital Stock,5939000.0
+ZGN,balance_sheet,2022-12-31,Common Stock,5939000.0
+ZGN,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,1694406000.0
+ZGN,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,827422000.0
+ZGN,balance_sheet,2022-12-31,Other Non Current Liabilities,27000.0
+ZGN,balance_sheet,2022-12-31,Derivative Product Liabilities,178766000.0
+ZGN,balance_sheet,2022-12-31,Employee Benefits,51584000.0
+ZGN,balance_sheet,2022-12-31,Non Current Deferred Liabilities,60534000.0
+ZGN,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,60534000.0
+ZGN,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,516930000.0
+ZGN,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,332050000.0
+ZGN,balance_sheet,2022-12-31,Long Term Debt,184880000.0
+ZGN,balance_sheet,2022-12-31,Long Term Provisions,19581000.0
+ZGN,balance_sheet,2022-12-31,Current Liabilities,866984000.0
+ZGN,balance_sheet,2022-12-31,Other Current Liabilities,56169000.0
+ZGN,balance_sheet,2022-12-31,Current Deferred Liabilities,57797000.0
+ZGN,balance_sheet,2022-12-31,Current Deferred Revenue,57797000.0
+ZGN,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,397632000.0
+ZGN,balance_sheet,2022-12-31,Current Capital Lease Obligation,111457000.0
+ZGN,balance_sheet,2022-12-31,Current Debt,286175000.0
+ZGN,balance_sheet,2022-12-31,Other Current Borrowings,286175000.0
+ZGN,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,11660000.0
+ZGN,balance_sheet,2022-12-31,Current Provisions,13969000.0
+ZGN,balance_sheet,2022-12-31,Payables And Accrued Expenses,329757000.0
+ZGN,balance_sheet,2022-12-31,Current Accrued Expenses,23162000.0
+ZGN,balance_sheet,2022-12-31,Payables,306595000.0
+ZGN,balance_sheet,2022-12-31,Other Payable,44705000.0
+ZGN,balance_sheet,2022-12-31,Total Tax Payable,41101000.0
+ZGN,balance_sheet,2022-12-31,Accounts Payable,220789000.0
+ZGN,balance_sheet,2022-12-31,Total Assets,2426727000.0
+ZGN,balance_sheet,2022-12-31,Total Non Current Assets,1141070000.0
+ZGN,balance_sheet,2022-12-31,Non Current Deferred Assets,124627000.0
+ZGN,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,124627000.0
+ZGN,balance_sheet,2022-12-31,Non Current Note Receivables,4102000.0
+ZGN,balance_sheet,2022-12-31,Non Current Accounts Receivable,1366000.0
+ZGN,balance_sheet,2022-12-31,Investments And Advances,53420000.0
+ZGN,balance_sheet,2022-12-31,Investmentin Financial Assets,30772000.0
+ZGN,balance_sheet,2022-12-31,Available For Sale Securities,30772000.0
+ZGN,balance_sheet,2022-12-31,Long Term Equity Investment,22648000.0
+ZGN,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,455908000.0
+ZGN,balance_sheet,2022-12-31,Other Intangible Assets,216199000.0
+ZGN,balance_sheet,2022-12-31,Goodwill,239709000.0
+ZGN,balance_sheet,2022-12-31,Net PPE,501647000.0
+ZGN,balance_sheet,2022-12-31,Accumulated Depreciation,-825060000.0
+ZGN,balance_sheet,2022-12-31,Gross PPE,1326707000.0
+ZGN,balance_sheet,2022-12-31,Leases,997113000.0
+ZGN,balance_sheet,2022-12-31,Construction In Progress,4999000.0
+ZGN,balance_sheet,2022-12-31,Other Properties,162016000.0
+ZGN,balance_sheet,2022-12-31,Machinery Furniture Equipment,154031000.0
+ZGN,balance_sheet,2022-12-31,Land And Improvements,8548000.0
+ZGN,balance_sheet,2022-12-31,Properties,0.0
+ZGN,balance_sheet,2022-12-31,Current Assets,1285657000.0
+ZGN,balance_sheet,2022-12-31,Other Current Assets,84574000.0
+ZGN,balance_sheet,2022-12-31,Hedging Assets Current,22454000.0
+ZGN,balance_sheet,2022-12-31,Inventory,410851000.0
+ZGN,balance_sheet,2022-12-31,Finished Goods,286010000.0
+ZGN,balance_sheet,2022-12-31,Work In Process,63019000.0
+ZGN,balance_sheet,2022-12-31,Raw Materials,61822000.0
+ZGN,balance_sheet,2022-12-31,Receivables,194787000.0
+ZGN,balance_sheet,2022-12-31,Other Receivables,2224000.0
+ZGN,balance_sheet,2022-12-31,Taxes Receivable,15350000.0
+ZGN,balance_sheet,2022-12-31,Accounts Receivable,177213000.0
+ZGN,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-6512000.0
+ZGN,balance_sheet,2022-12-31,Gross Accounts Receivable,183725000.0
+ZGN,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,572991000.0
+ZGN,balance_sheet,2022-12-31,Other Short Term Investments,318670000.0
+ZGN,balance_sheet,2022-12-31,Cash And Cash Equivalents,254321000.0
+ZGN,balance_sheet,2022-12-31,Cash Financial,254321000.0
+BC.MI,balance_sheet,2025-12-31,Treasury Shares Number,0.0
+BC.MI,balance_sheet,2025-12-31,Ordinary Shares Number,68000000.0
+BC.MI,balance_sheet,2025-12-31,Share Issued,68000000.0
+BC.MI,balance_sheet,2025-12-31,Net Debt,197323000.0
+BC.MI,balance_sheet,2025-12-31,Total Debt,1187356000.0
+BC.MI,balance_sheet,2025-12-31,Tangible Book Value,524095000.0
+BC.MI,balance_sheet,2025-12-31,Invested Capital,946191000.0
+BC.MI,balance_sheet,2025-12-31,Working Capital,225899000.0
+BC.MI,balance_sheet,2025-12-31,Net Tangible Assets,524095000.0
+BC.MI,balance_sheet,2025-12-31,Capital Lease Obligations,787185000.0
+BC.MI,balance_sheet,2025-12-31,Common Stock Equity,546020000.0
+BC.MI,balance_sheet,2025-12-31,Total Capitalization,770897000.0
+BC.MI,balance_sheet,2025-12-31,Total Equity Gross Minority Interest,564005000.0
+BC.MI,balance_sheet,2025-12-31,Minority Interest,17985000.0
+BC.MI,balance_sheet,2025-12-31,Stockholders Equity,546020000.0
+BC.MI,balance_sheet,2025-12-31,Retained Earnings,135034000.0
+BC.MI,balance_sheet,2025-12-31,Additional Paid In Capital,57915000.0
+BC.MI,balance_sheet,2025-12-31,Capital Stock,13600000.0
+BC.MI,balance_sheet,2025-12-31,Common Stock,13600000.0
+BC.MI,balance_sheet,2025-12-31,Total Liabilities Net Minority Interest,1458255000.0
+BC.MI,balance_sheet,2025-12-31,Total Non Current Liabilities Net Minority Interest,914208000.0
+BC.MI,balance_sheet,2025-12-31,Derivative Product Liabilities,411000.0
+BC.MI,balance_sheet,2025-12-31,Non Current Pension And Other Postretirement Benefit Plans,3345000.0
+BC.MI,balance_sheet,2025-12-31,Non Current Deferred Revenue,120000.0
+BC.MI,balance_sheet,2025-12-31,Non Current Deferred Taxes Liabilities,9674000.0
+BC.MI,balance_sheet,2025-12-31,Long Term Debt And Capital Lease Obligation,896657000.0
+BC.MI,balance_sheet,2025-12-31,Long Term Capital Lease Obligation,671780000.0
+BC.MI,balance_sheet,2025-12-31,Long Term Debt,224877000.0
+BC.MI,balance_sheet,2025-12-31,Long Term Provisions,4001000.0
+BC.MI,balance_sheet,2025-12-31,Current Liabilities,544047000.0
+BC.MI,balance_sheet,2025-12-31,Current Debt And Capital Lease Obligation,290699000.0
+BC.MI,balance_sheet,2025-12-31,Current Capital Lease Obligation,115405000.0
+BC.MI,balance_sheet,2025-12-31,Current Debt,175294000.0
+BC.MI,balance_sheet,2025-12-31,Pensionand Other Post Retirement Benefit Plans Current,9083000.0
+BC.MI,balance_sheet,2025-12-31,Payables,227365000.0
+BC.MI,balance_sheet,2025-12-31,Other Payable,29170000.0
+BC.MI,balance_sheet,2025-12-31,Total Tax Payable,21088000.0
+BC.MI,balance_sheet,2025-12-31,Accounts Payable,177107000.0
+BC.MI,balance_sheet,2025-12-31,Total Assets,2022260000.0
+BC.MI,balance_sheet,2025-12-31,Total Non Current Assets,1252314000.0
+BC.MI,balance_sheet,2025-12-31,Non Current Prepaid Assets,30807000.0
+BC.MI,balance_sheet,2025-12-31,Non Current Deferred Taxes Assets,111357000.0
+BC.MI,balance_sheet,2025-12-31,Financial Assets,337000.0
+BC.MI,balance_sheet,2025-12-31,Long Term Equity Investment,16718000.0
+BC.MI,balance_sheet,2025-12-31,Investmentsin Associatesat Cost,16718000.0
+BC.MI,balance_sheet,2025-12-31,Investment Properties,10300000.0
+BC.MI,balance_sheet,2025-12-31,Goodwill And Other Intangible Assets,21925000.0
+BC.MI,balance_sheet,2025-12-31,Other Intangible Assets,21925000.0
+BC.MI,balance_sheet,2025-12-31,Net PPE,1058442000.0
+BC.MI,balance_sheet,2025-12-31,Accumulated Depreciation,-878157000.0
+BC.MI,balance_sheet,2025-12-31,Gross PPE,1936599000.0
+BC.MI,balance_sheet,2025-12-31,Construction In Progress,53940000.0
+BC.MI,balance_sheet,2025-12-31,Other Properties,130723000.0
+BC.MI,balance_sheet,2025-12-31,Machinery Furniture Equipment,24920000.0
+BC.MI,balance_sheet,2025-12-31,Buildings And Improvements,1697983000.0
+BC.MI,balance_sheet,2025-12-31,Land And Improvements,29033000.0
+BC.MI,balance_sheet,2025-12-31,Properties,0.0
+BC.MI,balance_sheet,2025-12-31,Current Assets,769946000.0
+BC.MI,balance_sheet,2025-12-31,Hedging Assets Current,10629000.0
+BC.MI,balance_sheet,2025-12-31,Prepaid Assets,5479000.0
+BC.MI,balance_sheet,2025-12-31,Inventory,398341000.0
+BC.MI,balance_sheet,2025-12-31,Inventories Adjustments Allowances,-112523000.0
+BC.MI,balance_sheet,2025-12-31,Finished Goods,429275000.0
+BC.MI,balance_sheet,2025-12-31,Work In Process,13367000.0
+BC.MI,balance_sheet,2025-12-31,Raw Materials,68222000.0
+BC.MI,balance_sheet,2025-12-31,Other Receivables,28034000.0
+BC.MI,balance_sheet,2025-12-31,Taxes Receivable,20805000.0
+BC.MI,balance_sheet,2025-12-31,Accounts Receivable,101622000.0
+BC.MI,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-13744000.0
+BC.MI,balance_sheet,2025-12-31,Gross Accounts Receivable,115366000.0
+BC.MI,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,203841000.0
+BC.MI,balance_sheet,2025-12-31,Other Short Term Investments,993000.0
+BC.MI,balance_sheet,2025-12-31,Cash And Cash Equivalents,202848000.0
+BC.MI,balance_sheet,2025-12-31,Cash Equivalents,201749000.0
+BC.MI,balance_sheet,2025-12-31,Cash Financial,1099000.0
+BC.MI,balance_sheet,2024-12-31,Treasury Shares Number,50000.0
+BC.MI,balance_sheet,2024-12-31,Ordinary Shares Number,67950000.0
+BC.MI,balance_sheet,2024-12-31,Share Issued,68000000.0
+BC.MI,balance_sheet,2024-12-31,Net Debt,101088000.0
+BC.MI,balance_sheet,2024-12-31,Total Debt,961987000.0
+BC.MI,balance_sheet,2024-12-31,Tangible Book Value,473506000.0
+BC.MI,balance_sheet,2024-12-31,Invested Capital,773076000.0
+BC.MI,balance_sheet,2024-12-31,Working Capital,197320000.0
+BC.MI,balance_sheet,2024-12-31,Net Tangible Assets,473506000.0
+BC.MI,balance_sheet,2024-12-31,Capital Lease Obligations,678849000.0
+BC.MI,balance_sheet,2024-12-31,Common Stock Equity,489938000.0
+BC.MI,balance_sheet,2024-12-31,Total Capitalization,648400000.0
+BC.MI,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,506593000.0
+BC.MI,balance_sheet,2024-12-31,Minority Interest,16655000.0
+BC.MI,balance_sheet,2024-12-31,Stockholders Equity,489938000.0
+BC.MI,balance_sheet,2024-12-31,Retained Earnings,119478000.0
+BC.MI,balance_sheet,2024-12-31,Additional Paid In Capital,57915000.0
+BC.MI,balance_sheet,2024-12-31,Capital Stock,13600000.0
+BC.MI,balance_sheet,2024-12-31,Common Stock,13600000.0
+BC.MI,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,1238300000.0
+BC.MI,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,747741000.0
+BC.MI,balance_sheet,2024-12-31,Derivative Product Liabilities,1296000.0
+BC.MI,balance_sheet,2024-12-31,Non Current Pension And Other Postretirement Benefit Plans,3836000.0
+BC.MI,balance_sheet,2024-12-31,Non Current Deferred Revenue,136000.0
+BC.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,7924000.0
+BC.MI,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,731177000.0
+BC.MI,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,572715000.0
+BC.MI,balance_sheet,2024-12-31,Long Term Debt,158462000.0
+BC.MI,balance_sheet,2024-12-31,Long Term Provisions,3372000.0
+BC.MI,balance_sheet,2024-12-31,Current Liabilities,490559000.0
+BC.MI,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,230810000.0
+BC.MI,balance_sheet,2024-12-31,Current Capital Lease Obligation,106134000.0
+BC.MI,balance_sheet,2024-12-31,Current Debt,124676000.0
+BC.MI,balance_sheet,2024-12-31,Pensionand Other Post Retirement Benefit Plans Current,8244000.0
+BC.MI,balance_sheet,2024-12-31,Payables,222280000.0
+BC.MI,balance_sheet,2024-12-31,Other Payable,32429000.0
+BC.MI,balance_sheet,2024-12-31,Total Tax Payable,20634000.0
+BC.MI,balance_sheet,2024-12-31,Accounts Payable,169217000.0
+BC.MI,balance_sheet,2024-12-31,Total Assets,1744893000.0
+BC.MI,balance_sheet,2024-12-31,Total Non Current Assets,1057014000.0
+BC.MI,balance_sheet,2024-12-31,Non Current Prepaid Assets,29272000.0
+BC.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,103273000.0
+BC.MI,balance_sheet,2024-12-31,Financial Assets,53000.0
+BC.MI,balance_sheet,2024-12-31,Long Term Equity Investment,15316000.0
+BC.MI,balance_sheet,2024-12-31,Investmentsin Associatesat Cost,15316000.0
+BC.MI,balance_sheet,2024-12-31,Investment Properties,9766000.0
+BC.MI,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,16432000.0
+BC.MI,balance_sheet,2024-12-31,Other Intangible Assets,16432000.0
+BC.MI,balance_sheet,2024-12-31,Net PPE,880481000.0
+BC.MI,balance_sheet,2024-12-31,Accumulated Depreciation,-795267000.0
+BC.MI,balance_sheet,2024-12-31,Gross PPE,1675748000.0
+BC.MI,balance_sheet,2024-12-31,Construction In Progress,50621000.0
+BC.MI,balance_sheet,2024-12-31,Other Properties,115497000.0
+BC.MI,balance_sheet,2024-12-31,Machinery Furniture Equipment,23257000.0
+BC.MI,balance_sheet,2024-12-31,Buildings And Improvements,1458987000.0
+BC.MI,balance_sheet,2024-12-31,Land And Improvements,27386000.0
+BC.MI,balance_sheet,2024-12-31,Properties,0.0
+BC.MI,balance_sheet,2024-12-31,Current Assets,687879000.0
+BC.MI,balance_sheet,2024-12-31,Hedging Assets Current,1554000.0
+BC.MI,balance_sheet,2024-12-31,Prepaid Assets,4427000.0
+BC.MI,balance_sheet,2024-12-31,Inventory,369953000.0
+BC.MI,balance_sheet,2024-12-31,Inventories Adjustments Allowances,-99658000.0
+BC.MI,balance_sheet,2024-12-31,Finished Goods,392946000.0
+BC.MI,balance_sheet,2024-12-31,Work In Process,14890000.0
+BC.MI,balance_sheet,2024-12-31,Raw Materials,61775000.0
+BC.MI,balance_sheet,2024-12-31,Other Receivables,24891000.0
+BC.MI,balance_sheet,2024-12-31,Taxes Receivable,21272000.0
+BC.MI,balance_sheet,2024-12-31,Accounts Receivable,82092000.0
+BC.MI,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-6774000.0
+BC.MI,balance_sheet,2024-12-31,Gross Accounts Receivable,88866000.0
+BC.MI,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,182745000.0
+BC.MI,balance_sheet,2024-12-31,Other Short Term Investments,695000.0
+BC.MI,balance_sheet,2024-12-31,Cash And Cash Equivalents,182050000.0
+BC.MI,balance_sheet,2024-12-31,Cash Equivalents,181013000.0
+BC.MI,balance_sheet,2024-12-31,Cash Financial,1037000.0
+BC.MI,balance_sheet,2023-12-31,Treasury Shares Number,0.0
+BC.MI,balance_sheet,2023-12-31,Ordinary Shares Number,68000000.0
+BC.MI,balance_sheet,2023-12-31,Share Issued,68000000.0
+BC.MI,balance_sheet,2023-12-31,Net Debt,2159000.0
+BC.MI,balance_sheet,2023-12-31,Total Debt,666998000.0
+BC.MI,balance_sheet,2023-12-31,Tangible Book Value,427967000.0
+BC.MI,balance_sheet,2023-12-31,Invested Capital,550894000.0
+BC.MI,balance_sheet,2023-12-31,Working Capital,102572000.0
+BC.MI,balance_sheet,2023-12-31,Net Tangible Assets,427967000.0
+BC.MI,balance_sheet,2023-12-31,Capital Lease Obligations,557895000.0
+BC.MI,balance_sheet,2023-12-31,Common Stock Equity,441791000.0
+BC.MI,balance_sheet,2023-12-31,Total Capitalization,463951000.0
+BC.MI,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,453613000.0
+BC.MI,balance_sheet,2023-12-31,Minority Interest,11822000.0
+BC.MI,balance_sheet,2023-12-31,Stockholders Equity,441791000.0
+BC.MI,balance_sheet,2023-12-31,Retained Earnings,114617000.0
+BC.MI,balance_sheet,2023-12-31,Additional Paid In Capital,57915000.0
+BC.MI,balance_sheet,2023-12-31,Capital Stock,13600000.0
+BC.MI,balance_sheet,2023-12-31,Common Stock,13600000.0
+BC.MI,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,926267000.0
+BC.MI,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,502489000.0
+BC.MI,balance_sheet,2023-12-31,Derivative Product Liabilities,0.0
+BC.MI,balance_sheet,2023-12-31,Non Current Pension And Other Postretirement Benefit Plans,3672000.0
+BC.MI,balance_sheet,2023-12-31,Non Current Accrued Expenses,0.0
+BC.MI,balance_sheet,2023-12-31,Non Current Deferred Revenue,209000.0
+BC.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,10256000.0
+BC.MI,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,482557000.0
+BC.MI,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,460397000.0
+BC.MI,balance_sheet,2023-12-31,Long Term Debt,22160000.0
+BC.MI,balance_sheet,2023-12-31,Long Term Provisions,3023000.0
+BC.MI,balance_sheet,2023-12-31,Current Liabilities,423778000.0
+BC.MI,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,184441000.0
+BC.MI,balance_sheet,2023-12-31,Current Capital Lease Obligation,97498000.0
+BC.MI,balance_sheet,2023-12-31,Current Debt,86943000.0
+BC.MI,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,7154000.0
+BC.MI,balance_sheet,2023-12-31,Payables,218964000.0
+BC.MI,balance_sheet,2023-12-31,Other Payable,25635000.0
+BC.MI,balance_sheet,2023-12-31,Total Tax Payable,27085000.0
+BC.MI,balance_sheet,2023-12-31,Accounts Payable,166244000.0
+BC.MI,balance_sheet,2023-12-31,Total Assets,1379880000.0
+BC.MI,balance_sheet,2023-12-31,Total Non Current Assets,853530000.0
+BC.MI,balance_sheet,2023-12-31,Non Current Prepaid Assets,18571000.0
+BC.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,79503000.0
+BC.MI,balance_sheet,2023-12-31,Financial Assets,243000.0
+BC.MI,balance_sheet,2023-12-31,Long Term Equity Investment,13958000.0
+BC.MI,balance_sheet,2023-12-31,Investmentsin Associatesat Cost,13958000.0
+BC.MI,balance_sheet,2023-12-31,Investment Properties,10072000.0
+BC.MI,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,13824000.0
+BC.MI,balance_sheet,2023-12-31,Other Intangible Assets,13824000.0
+BC.MI,balance_sheet,2023-12-31,Net PPE,714087000.0
+BC.MI,balance_sheet,2023-12-31,Accumulated Depreciation,-653953000.0
+BC.MI,balance_sheet,2023-12-31,Gross PPE,1368040000.0
+BC.MI,balance_sheet,2023-12-31,Construction In Progress,14579000.0
+BC.MI,balance_sheet,2023-12-31,Other Properties,96113000.0
+BC.MI,balance_sheet,2023-12-31,Machinery Furniture Equipment,19743000.0
+BC.MI,balance_sheet,2023-12-31,Buildings And Improvements,1215467000.0
+BC.MI,balance_sheet,2023-12-31,Land And Improvements,22138000.0
+BC.MI,balance_sheet,2023-12-31,Properties,0.0
+BC.MI,balance_sheet,2023-12-31,Current Assets,526350000.0
+BC.MI,balance_sheet,2023-12-31,Hedging Assets Current,8711000.0
+BC.MI,balance_sheet,2023-12-31,Prepaid Assets,1812000.0
+BC.MI,balance_sheet,2023-12-31,Inventory,287291000.0
+BC.MI,balance_sheet,2023-12-31,Inventories Adjustments Allowances,-78411000.0
+BC.MI,balance_sheet,2023-12-31,Finished Goods,304344000.0
+BC.MI,balance_sheet,2023-12-31,Work In Process,14270000.0
+BC.MI,balance_sheet,2023-12-31,Raw Materials,61358000.0
+BC.MI,balance_sheet,2023-12-31,Other Receivables,26143000.0
+BC.MI,balance_sheet,2023-12-31,Taxes Receivable,13442000.0
+BC.MI,balance_sheet,2023-12-31,Accounts Receivable,78170000.0
+BC.MI,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-5017000.0
+BC.MI,balance_sheet,2023-12-31,Gross Accounts Receivable,83187000.0
+BC.MI,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,107827000.0
+BC.MI,balance_sheet,2023-12-31,Other Short Term Investments,883000.0
+BC.MI,balance_sheet,2023-12-31,Cash And Cash Equivalents,106944000.0
+BC.MI,balance_sheet,2023-12-31,Cash Equivalents,104826000.0
+BC.MI,balance_sheet,2023-12-31,Cash Financial,2118000.0
+BC.MI,balance_sheet,2022-12-31,Ordinary Shares Number,68000000.0
+BC.MI,balance_sheet,2022-12-31,Share Issued,68000000.0
+BC.MI,balance_sheet,2022-12-31,Net Debt,5243000.0
+BC.MI,balance_sheet,2022-12-31,Total Debt,687640000.0
+BC.MI,balance_sheet,2022-12-31,Tangible Book Value,368573000.0
+BC.MI,balance_sheet,2022-12-31,Invested Capital,505186000.0
+BC.MI,balance_sheet,2022-12-31,Working Capital,93838000.0
+BC.MI,balance_sheet,2022-12-31,Net Tangible Assets,368573000.0
+BC.MI,balance_sheet,2022-12-31,Capital Lease Obligations,564997000.0
+BC.MI,balance_sheet,2022-12-31,Common Stock Equity,382543000.0
+BC.MI,balance_sheet,2022-12-31,Total Capitalization,430180000.0
+BC.MI,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,392976000.0
+BC.MI,balance_sheet,2022-12-31,Minority Interest,10433000.0
+BC.MI,balance_sheet,2022-12-31,Stockholders Equity,382543000.0
+BC.MI,balance_sheet,2022-12-31,Retained Earnings,80599000.0
+BC.MI,balance_sheet,2022-12-31,Additional Paid In Capital,57915000.0
+BC.MI,balance_sheet,2022-12-31,Capital Stock,13600000.0
+BC.MI,balance_sheet,2022-12-31,Common Stock,13600000.0
+BC.MI,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,930012000.0
+BC.MI,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,541507000.0
+BC.MI,balance_sheet,2022-12-31,Derivative Product Liabilities,0.0
+BC.MI,balance_sheet,2022-12-31,Non Current Pension And Other Postretirement Benefit Plans,3060000.0
+BC.MI,balance_sheet,2022-12-31,Non Current Accrued Expenses,3000.0
+BC.MI,balance_sheet,2022-12-31,Non Current Deferred Revenue,383000.0
+BC.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,12478000.0
+BC.MI,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,522568000.0
+BC.MI,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,474931000.0
+BC.MI,balance_sheet,2022-12-31,Long Term Debt,47637000.0
+BC.MI,balance_sheet,2022-12-31,Long Term Provisions,3015000.0
+BC.MI,balance_sheet,2022-12-31,Current Liabilities,388505000.0
+BC.MI,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,165072000.0
+BC.MI,balance_sheet,2022-12-31,Current Capital Lease Obligation,90066000.0
+BC.MI,balance_sheet,2022-12-31,Current Debt,75006000.0
+BC.MI,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,5715000.0
+BC.MI,balance_sheet,2022-12-31,Payables,203863000.0
+BC.MI,balance_sheet,2022-12-31,Other Payable,22216000.0
+BC.MI,balance_sheet,2022-12-31,Total Tax Payable,44607000.0
+BC.MI,balance_sheet,2022-12-31,Accounts Payable,137040000.0
+BC.MI,balance_sheet,2022-12-31,Total Assets,1322988000.0
+BC.MI,balance_sheet,2022-12-31,Total Non Current Assets,840645000.0
+BC.MI,balance_sheet,2022-12-31,Non Current Prepaid Assets,16540000.0
+BC.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,65337000.0
+BC.MI,balance_sheet,2022-12-31,Financial Assets,1101000.0
+BC.MI,balance_sheet,2022-12-31,Long Term Equity Investment,22083000.0
+BC.MI,balance_sheet,2022-12-31,Investmentsin Associatesat Cost,22083000.0
+BC.MI,balance_sheet,2022-12-31,Investment Properties,7223000.0
+BC.MI,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,13970000.0
+BC.MI,balance_sheet,2022-12-31,Other Intangible Assets,13970000.0
+BC.MI,balance_sheet,2022-12-31,Goodwill,0.0
+BC.MI,balance_sheet,2022-12-31,Net PPE,708758000.0
+BC.MI,balance_sheet,2022-12-31,Accumulated Depreciation,-596133000.0
+BC.MI,balance_sheet,2022-12-31,Gross PPE,1304891000.0
+BC.MI,balance_sheet,2022-12-31,Construction In Progress,7623000.0
+BC.MI,balance_sheet,2022-12-31,Other Properties,92397000.0
+BC.MI,balance_sheet,2022-12-31,Machinery Furniture Equipment,17388000.0
+BC.MI,balance_sheet,2022-12-31,Buildings And Improvements,1170180000.0
+BC.MI,balance_sheet,2022-12-31,Land And Improvements,17303000.0
+BC.MI,balance_sheet,2022-12-31,Properties,0.0
+BC.MI,balance_sheet,2022-12-31,Current Assets,482343000.0
+BC.MI,balance_sheet,2022-12-31,Hedging Assets Current,6626000.0
+BC.MI,balance_sheet,2022-12-31,Prepaid Assets,1590000.0
+BC.MI,balance_sheet,2022-12-31,Inventory,242844000.0
+BC.MI,balance_sheet,2022-12-31,Inventories Adjustments Allowances,-43486000.0
+BC.MI,balance_sheet,2022-12-31,Finished Goods,226502000.0
+BC.MI,balance_sheet,2022-12-31,Work In Process,11929000.0
+BC.MI,balance_sheet,2022-12-31,Raw Materials,47899000.0
+BC.MI,balance_sheet,2022-12-31,Other Receivables,20940000.0
+BC.MI,balance_sheet,2022-12-31,Taxes Receivable,13599000.0
+BC.MI,balance_sheet,2022-12-31,Accounts Receivable,76608000.0
+BC.MI,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-3586000.0
+BC.MI,balance_sheet,2022-12-31,Gross Accounts Receivable,80194000.0
+BC.MI,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,117508000.0
+BC.MI,balance_sheet,2022-12-31,Other Short Term Investments,108000.0
+BC.MI,balance_sheet,2022-12-31,Cash And Cash Equivalents,117400000.0
+BC.MI,balance_sheet,2022-12-31,Cash Equivalents,116272000.0
+BC.MI,balance_sheet,2022-12-31,Cash Financial,1128000.0
+MONC.MI,balance_sheet,2025-12-31,Treasury Shares Number,3207654.0
+MONC.MI,balance_sheet,2025-12-31,Ordinary Shares Number,271598300.0
+MONC.MI,balance_sheet,2025-12-31,Share Issued,274805954.0
+MONC.MI,balance_sheet,2025-12-31,Total Debt,1128458000.0
+MONC.MI,balance_sheet,2025-12-31,Tangible Book Value,2137632000.0
+MONC.MI,balance_sheet,2025-12-31,Invested Capital,3868781000.0
+MONC.MI,balance_sheet,2025-12-31,Working Capital,1392875000.0
+MONC.MI,balance_sheet,2025-12-31,Net Tangible Assets,2137632000.0
+MONC.MI,balance_sheet,2025-12-31,Capital Lease Obligations,1109371000.0
+MONC.MI,balance_sheet,2025-12-31,Common Stock Equity,3849694000.0
+MONC.MI,balance_sheet,2025-12-31,Total Capitalization,3855728000.0
+MONC.MI,balance_sheet,2025-12-31,Total Equity Gross Minority Interest,3849789000.0
+MONC.MI,balance_sheet,2025-12-31,Minority Interest,95000.0
+MONC.MI,balance_sheet,2025-12-31,Stockholders Equity,3849694000.0
+MONC.MI,balance_sheet,2025-12-31,Retained Earnings,626670000.0
+MONC.MI,balance_sheet,2025-12-31,Additional Paid In Capital,745309000.0
+MONC.MI,balance_sheet,2025-12-31,Capital Stock,54961000.0
+MONC.MI,balance_sheet,2025-12-31,Common Stock,54961000.0
+MONC.MI,balance_sheet,2025-12-31,Total Liabilities Net Minority Interest,2109715000.0
+MONC.MI,balance_sheet,2025-12-31,Total Non Current Liabilities Net Minority Interest,1129951000.0
+MONC.MI,balance_sheet,2025-12-31,Non Current Pension And Other Postretirement Benefit Plans,12149000.0
+MONC.MI,balance_sheet,2025-12-31,Non Current Deferred Revenue,35000.0
+MONC.MI,balance_sheet,2025-12-31,Non Current Deferred Taxes Liabilities,155052000.0
+MONC.MI,balance_sheet,2025-12-31,Long Term Debt And Capital Lease Obligation,938490000.0
+MONC.MI,balance_sheet,2025-12-31,Long Term Capital Lease Obligation,932456000.0
+MONC.MI,balance_sheet,2025-12-31,Long Term Debt,6034000.0
+MONC.MI,balance_sheet,2025-12-31,Long Term Provisions,24225000.0
+MONC.MI,balance_sheet,2025-12-31,Current Liabilities,979764000.0
+MONC.MI,balance_sheet,2025-12-31,Current Debt And Capital Lease Obligation,189968000.0
+MONC.MI,balance_sheet,2025-12-31,Current Capital Lease Obligation,176915000.0
+MONC.MI,balance_sheet,2025-12-31,Current Debt,13053000.0
+MONC.MI,balance_sheet,2025-12-31,Payables,773725000.0
+MONC.MI,balance_sheet,2025-12-31,Other Payable,77126000.0
+MONC.MI,balance_sheet,2025-12-31,Total Tax Payable,169277000.0
+MONC.MI,balance_sheet,2025-12-31,Accounts Payable,527322000.0
+MONC.MI,balance_sheet,2025-12-31,Total Assets,5959504000.0
+MONC.MI,balance_sheet,2025-12-31,Total Non Current Assets,3586865000.0
+MONC.MI,balance_sheet,2025-12-31,Non Current Prepaid Assets,51416000.0
+MONC.MI,balance_sheet,2025-12-31,Non Current Deferred Taxes Assets,317583000.0
+MONC.MI,balance_sheet,2025-12-31,Investmentin Financial Assets,166000.0
+MONC.MI,balance_sheet,2025-12-31,Available For Sale Securities,166000.0
+MONC.MI,balance_sheet,2025-12-31,Long Term Equity Investment,2532000.0
+MONC.MI,balance_sheet,2025-12-31,Investmentsin Associatesat Cost,2532000.0
+MONC.MI,balance_sheet,2025-12-31,Goodwill And Other Intangible Assets,1712062000.0
+MONC.MI,balance_sheet,2025-12-31,Other Intangible Assets,1108645000.0
+MONC.MI,balance_sheet,2025-12-31,Goodwill,603417000.0
+MONC.MI,balance_sheet,2025-12-31,Net PPE,1498380000.0
+MONC.MI,balance_sheet,2025-12-31,Accumulated Depreciation,-1432282000.0
+MONC.MI,balance_sheet,2025-12-31,Gross PPE,2930662000.0
+MONC.MI,balance_sheet,2025-12-31,Construction In Progress,107019000.0
+MONC.MI,balance_sheet,2025-12-31,Other Properties,58569000.0
+MONC.MI,balance_sheet,2025-12-31,Machinery Furniture Equipment,325440000.0
+MONC.MI,balance_sheet,2025-12-31,Buildings And Improvements,521793000.0
+MONC.MI,balance_sheet,2025-12-31,Land And Improvements,1917841000.0
+MONC.MI,balance_sheet,2025-12-31,Properties,0.0
+MONC.MI,balance_sheet,2025-12-31,Current Assets,2372639000.0
+MONC.MI,balance_sheet,2025-12-31,Other Current Assets,28000.0
+MONC.MI,balance_sheet,2025-12-31,Hedging Assets Current,16100000.0
+MONC.MI,balance_sheet,2025-12-31,Prepaid Assets,215000000.0
+MONC.MI,balance_sheet,2025-12-31,Inventory,538827000.0
+MONC.MI,balance_sheet,2025-12-31,Inventories Adjustments Allowances,-333241000.0
+MONC.MI,balance_sheet,2025-12-31,Finished Goods,623252000.0
+MONC.MI,balance_sheet,2025-12-31,Work In Process,55132000.0
+MONC.MI,balance_sheet,2025-12-31,Raw Materials,193684000.0
+MONC.MI,balance_sheet,2025-12-31,Other Receivables,56246000.0
+MONC.MI,balance_sheet,2025-12-31,Taxes Receivable,8028000.0
+MONC.MI,balance_sheet,2025-12-31,Accounts Receivable,292133000.0
+MONC.MI,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-15325000.0
+MONC.MI,balance_sheet,2025-12-31,Gross Accounts Receivable,307458000.0
+MONC.MI,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,1246277000.0
+MONC.MI,balance_sheet,2025-12-31,Other Short Term Investments,20000000.0
+MONC.MI,balance_sheet,2025-12-31,Cash And Cash Equivalents,1226277000.0
+MONC.MI,balance_sheet,2024-12-31,Treasury Shares Number,4199510.0
+MONC.MI,balance_sheet,2024-12-31,Ordinary Shares Number,270606444.0
+MONC.MI,balance_sheet,2024-12-31,Share Issued,274805954.0
+MONC.MI,balance_sheet,2024-12-31,Total Debt,957308000.0
+MONC.MI,balance_sheet,2024-12-31,Tangible Book Value,1876379000.0
+MONC.MI,balance_sheet,2024-12-31,Invested Capital,3619683000.0
+MONC.MI,balance_sheet,2024-12-31,Working Capital,1182811000.0
+MONC.MI,balance_sheet,2024-12-31,Net Tangible Assets,1876379000.0
+MONC.MI,balance_sheet,2024-12-31,Capital Lease Obligations,924205000.0
+MONC.MI,balance_sheet,2024-12-31,Common Stock Equity,3586580000.0
+MONC.MI,balance_sheet,2024-12-31,Total Capitalization,3601847000.0
+MONC.MI,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,3586668000.0
+MONC.MI,balance_sheet,2024-12-31,Minority Interest,88000.0
+MONC.MI,balance_sheet,2024-12-31,Stockholders Equity,3586580000.0
+MONC.MI,balance_sheet,2024-12-31,Retained Earnings,639596000.0
+MONC.MI,balance_sheet,2024-12-31,Additional Paid In Capital,745309000.0
+MONC.MI,balance_sheet,2024-12-31,Capital Stock,54961000.0
+MONC.MI,balance_sheet,2024-12-31,Common Stock,54961000.0
+MONC.MI,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,1917922000.0
+MONC.MI,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,899253000.0
+MONC.MI,balance_sheet,2024-12-31,Non Current Pension And Other Postretirement Benefit Plans,11882000.0
+MONC.MI,balance_sheet,2024-12-31,Non Current Deferred Revenue,73000.0
+MONC.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,103282000.0
+MONC.MI,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,761188000.0
+MONC.MI,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,745921000.0
+MONC.MI,balance_sheet,2024-12-31,Long Term Debt,15267000.0
+MONC.MI,balance_sheet,2024-12-31,Long Term Provisions,22828000.0
+MONC.MI,balance_sheet,2024-12-31,Current Liabilities,1018669000.0
+MONC.MI,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,196120000.0
+MONC.MI,balance_sheet,2024-12-31,Current Capital Lease Obligation,178284000.0
+MONC.MI,balance_sheet,2024-12-31,Current Debt,17836000.0
+MONC.MI,balance_sheet,2024-12-31,Payables,800390000.0
+MONC.MI,balance_sheet,2024-12-31,Other Payable,88684000.0
+MONC.MI,balance_sheet,2024-12-31,Total Tax Payable,170792000.0
+MONC.MI,balance_sheet,2024-12-31,Accounts Payable,540914000.0
+MONC.MI,balance_sheet,2024-12-31,Total Assets,5504590000.0
+MONC.MI,balance_sheet,2024-12-31,Total Non Current Assets,3303110000.0
+MONC.MI,balance_sheet,2024-12-31,Non Current Prepaid Assets,46581000.0
+MONC.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,286780000.0
+MONC.MI,balance_sheet,2024-12-31,Investmentin Financial Assets,160000.0
+MONC.MI,balance_sheet,2024-12-31,Available For Sale Securities,160000.0
+MONC.MI,balance_sheet,2024-12-31,Long Term Equity Investment,3854000.0
+MONC.MI,balance_sheet,2024-12-31,Investmentsin Associatesat Cost,3854000.0
+MONC.MI,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,1710201000.0
+MONC.MI,balance_sheet,2024-12-31,Other Intangible Assets,1106784000.0
+MONC.MI,balance_sheet,2024-12-31,Goodwill,603417000.0
+MONC.MI,balance_sheet,2024-12-31,Net PPE,1250879000.0
+MONC.MI,balance_sheet,2024-12-31,Accumulated Depreciation,-1374360000.0
+MONC.MI,balance_sheet,2024-12-31,Gross PPE,2625239000.0
+MONC.MI,balance_sheet,2024-12-31,Construction In Progress,80204000.0
+MONC.MI,balance_sheet,2024-12-31,Other Properties,55131000.0
+MONC.MI,balance_sheet,2024-12-31,Machinery Furniture Equipment,284209000.0
+MONC.MI,balance_sheet,2024-12-31,Buildings And Improvements,507357000.0
+MONC.MI,balance_sheet,2024-12-31,Land And Improvements,1698338000.0
+MONC.MI,balance_sheet,2024-12-31,Properties,0.0
+MONC.MI,balance_sheet,2024-12-31,Current Assets,2201480000.0
+MONC.MI,balance_sheet,2024-12-31,Other Current Assets,4000.0
+MONC.MI,balance_sheet,2024-12-31,Hedging Assets Current,4600000.0
+MONC.MI,balance_sheet,2024-12-31,Prepaid Assets,80000000.0
+MONC.MI,balance_sheet,2024-12-31,Inventory,470080000.0
+MONC.MI,balance_sheet,2024-12-31,Inventories Adjustments Allowances,-309967000.0
+MONC.MI,balance_sheet,2024-12-31,Finished Goods,558659000.0
+MONC.MI,balance_sheet,2024-12-31,Work In Process,59876000.0
+MONC.MI,balance_sheet,2024-12-31,Raw Materials,161512000.0
+MONC.MI,balance_sheet,2024-12-31,Other Receivables,50829000.0
+MONC.MI,balance_sheet,2024-12-31,Taxes Receivable,12207000.0
+MONC.MI,balance_sheet,2024-12-31,Accounts Receivable,326382000.0
+MONC.MI,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-15400000.0
+MONC.MI,balance_sheet,2024-12-31,Gross Accounts Receivable,341782000.0
+MONC.MI,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,1257378000.0
+MONC.MI,balance_sheet,2024-12-31,Other Short Term Investments,69400000.0
+MONC.MI,balance_sheet,2024-12-31,Cash And Cash Equivalents,1187978000.0
+MONC.MI,balance_sheet,2023-12-31,Treasury Shares Number,4490875.0
+MONC.MI,balance_sheet,2023-12-31,Ordinary Shares Number,270136798.0
+MONC.MI,balance_sheet,2023-12-31,Share Issued,274627673.0
+MONC.MI,balance_sheet,2023-12-31,Total Debt,848591000.0
+MONC.MI,balance_sheet,2023-12-31,Tangible Book Value,1514445000.0
+MONC.MI,balance_sheet,2023-12-31,Invested Capital,3257595000.0
+MONC.MI,balance_sheet,2023-12-31,Working Capital,896613000.0
+MONC.MI,balance_sheet,2023-12-31,Net Tangible Assets,1514445000.0
+MONC.MI,balance_sheet,2023-12-31,Capital Lease Obligations,805331000.0
+MONC.MI,balance_sheet,2023-12-31,Common Stock Equity,3214335000.0
+MONC.MI,balance_sheet,2023-12-31,Total Capitalization,3240851000.0
+MONC.MI,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,3214429000.0
+MONC.MI,balance_sheet,2023-12-31,Minority Interest,94000.0
+MONC.MI,balance_sheet,2023-12-31,Stockholders Equity,3214335000.0
+MONC.MI,balance_sheet,2023-12-31,Retained Earnings,611931000.0
+MONC.MI,balance_sheet,2023-12-31,Additional Paid In Capital,745309000.0
+MONC.MI,balance_sheet,2023-12-31,Capital Stock,54926000.0
+MONC.MI,balance_sheet,2023-12-31,Common Stock,54926000.0
+MONC.MI,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,1777591000.0
+MONC.MI,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,767159000.0
+MONC.MI,balance_sheet,2023-12-31,Non Current Pension And Other Postretirement Benefit Plans,12144000.0
+MONC.MI,balance_sheet,2023-12-31,Non Current Deferred Revenue,103000.0
+MONC.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,63034000.0
+MONC.MI,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,664188000.0
+MONC.MI,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,637672000.0
+MONC.MI,balance_sheet,2023-12-31,Long Term Debt,26516000.0
+MONC.MI,balance_sheet,2023-12-31,Long Term Provisions,27690000.0
+MONC.MI,balance_sheet,2023-12-31,Current Liabilities,1010432000.0
+MONC.MI,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,184403000.0
+MONC.MI,balance_sheet,2023-12-31,Current Capital Lease Obligation,167659000.0
+MONC.MI,balance_sheet,2023-12-31,Current Debt,16744000.0
+MONC.MI,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,78575000.0
+MONC.MI,balance_sheet,2023-12-31,Payables,801694000.0
+MONC.MI,balance_sheet,2023-12-31,Other Payable,91599000.0
+MONC.MI,balance_sheet,2023-12-31,Total Tax Payable,171509000.0
+MONC.MI,balance_sheet,2023-12-31,Accounts Payable,538586000.0
+MONC.MI,balance_sheet,2023-12-31,Total Assets,4992020000.0
+MONC.MI,balance_sheet,2023-12-31,Total Non Current Assets,3084975000.0
+MONC.MI,balance_sheet,2023-12-31,Non Current Prepaid Assets,43567000.0
+MONC.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,252197000.0
+MONC.MI,balance_sheet,2023-12-31,Investmentin Financial Assets,110000.0
+MONC.MI,balance_sheet,2023-12-31,Available For Sale Securities,110000.0
+MONC.MI,balance_sheet,2023-12-31,Long Term Equity Investment,3452000.0
+MONC.MI,balance_sheet,2023-12-31,Investmentsin Associatesat Cost,3452000.0
+MONC.MI,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,1699890000.0
+MONC.MI,balance_sheet,2023-12-31,Other Intangible Assets,1096473000.0
+MONC.MI,balance_sheet,2023-12-31,Goodwill,603417000.0
+MONC.MI,balance_sheet,2023-12-31,Net PPE,1082480000.0
+MONC.MI,balance_sheet,2023-12-31,Accumulated Depreciation,-1135430000.0
+MONC.MI,balance_sheet,2023-12-31,Gross PPE,2217910000.0
+MONC.MI,balance_sheet,2023-12-31,Construction In Progress,57906000.0
+MONC.MI,balance_sheet,2023-12-31,Other Properties,49679000.0
+MONC.MI,balance_sheet,2023-12-31,Machinery Furniture Equipment,255454000.0
+MONC.MI,balance_sheet,2023-12-31,Buildings And Improvements,441456000.0
+MONC.MI,balance_sheet,2023-12-31,Land And Improvements,1413415000.0
+MONC.MI,balance_sheet,2023-12-31,Properties,0.0
+MONC.MI,balance_sheet,2023-12-31,Current Assets,1907045000.0
+MONC.MI,balance_sheet,2023-12-31,Other Current Assets,8000.0
+MONC.MI,balance_sheet,2023-12-31,Hedging Assets Current,9700000.0
+MONC.MI,balance_sheet,2023-12-31,Inventory,453178000.0
+MONC.MI,balance_sheet,2023-12-31,Inventories Adjustments Allowances,-262437000.0
+MONC.MI,balance_sheet,2023-12-31,Finished Goods,519529000.0
+MONC.MI,balance_sheet,2023-12-31,Work In Process,54173000.0
+MONC.MI,balance_sheet,2023-12-31,Raw Materials,141913000.0
+MONC.MI,balance_sheet,2023-12-31,Other Receivables,41901000.0
+MONC.MI,balance_sheet,2023-12-31,Taxes Receivable,9251000.0
+MONC.MI,balance_sheet,2023-12-31,Accounts Receivable,325608000.0
+MONC.MI,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-15547000.0
+MONC.MI,balance_sheet,2023-12-31,Gross Accounts Receivable,341155000.0
+MONC.MI,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,1067399000.0
+MONC.MI,balance_sheet,2023-12-31,Other Short Term Investments,68600000.0
+MONC.MI,balance_sheet,2023-12-31,Cash And Cash Equivalents,998799000.0
+MONC.MI,balance_sheet,2023-12-31,Cash Equivalents,0.0
+MONC.MI,balance_sheet,2023-12-31,Cash Financial,998799000.0
+MONC.MI,balance_sheet,2022-12-31,Treasury Shares Number,4858416.0
+MONC.MI,balance_sheet,2022-12-31,Ordinary Shares Number,268824374.0
+MONC.MI,balance_sheet,2022-12-31,Share Issued,273682790.0
+MONC.MI,balance_sheet,2022-12-31,Total Debt,912779000.0
+MONC.MI,balance_sheet,2022-12-31,Tangible Book Value,1212047000.0
+MONC.MI,balance_sheet,2022-12-31,Invested Capital,2977470000.0
+MONC.MI,balance_sheet,2022-12-31,Working Capital,657283000.0
+MONC.MI,balance_sheet,2022-12-31,Net Tangible Assets,1212047000.0
+MONC.MI,balance_sheet,2022-12-31,Capital Lease Obligations,837479000.0
+MONC.MI,balance_sheet,2022-12-31,Common Stock Equity,2902170000.0
+MONC.MI,balance_sheet,2022-12-31,Total Capitalization,2946594000.0
+MONC.MI,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,2902286000.0
+MONC.MI,balance_sheet,2022-12-31,Minority Interest,116000.0
+MONC.MI,balance_sheet,2022-12-31,Stockholders Equity,2902170000.0
+MONC.MI,balance_sheet,2022-12-31,Retained Earnings,606697000.0
+MONC.MI,balance_sheet,2022-12-31,Additional Paid In Capital,745309000.0
+MONC.MI,balance_sheet,2022-12-31,Capital Stock,54737000.0
+MONC.MI,balance_sheet,2022-12-31,Common Stock,54737000.0
+MONC.MI,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,1737026000.0
+MONC.MI,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,773313000.0
+MONC.MI,balance_sheet,2022-12-31,Non Current Pension And Other Postretirement Benefit Plans,12036000.0
+MONC.MI,balance_sheet,2022-12-31,Non Current Deferred Revenue,117000.0
+MONC.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,15190000.0
+MONC.MI,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,718709000.0
+MONC.MI,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,674285000.0
+MONC.MI,balance_sheet,2022-12-31,Long Term Debt,44424000.0
+MONC.MI,balance_sheet,2022-12-31,Long Term Provisions,27261000.0
+MONC.MI,balance_sheet,2022-12-31,Current Liabilities,963713000.0
+MONC.MI,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,194070000.0
+MONC.MI,balance_sheet,2022-12-31,Current Capital Lease Obligation,163194000.0
+MONC.MI,balance_sheet,2022-12-31,Current Debt,30876000.0
+MONC.MI,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,56039000.0
+MONC.MI,balance_sheet,2022-12-31,Payables,748907000.0
+MONC.MI,balance_sheet,2022-12-31,Other Payable,67851000.0
+MONC.MI,balance_sheet,2022-12-31,Total Tax Payable,198631000.0
+MONC.MI,balance_sheet,2022-12-31,Accounts Payable,482425000.0
+MONC.MI,balance_sheet,2022-12-31,Total Assets,4639312000.0
+MONC.MI,balance_sheet,2022-12-31,Total Non Current Assets,3018316000.0
+MONC.MI,balance_sheet,2022-12-31,Non Current Prepaid Assets,44702000.0
+MONC.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,205932000.0
+MONC.MI,balance_sheet,2022-12-31,Long Term Equity Investment,944000.0
+MONC.MI,balance_sheet,2022-12-31,Investmentsin Associatesat Cost,944000.0
+MONC.MI,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,1690123000.0
+MONC.MI,balance_sheet,2022-12-31,Other Intangible Assets,1086706000.0
+MONC.MI,balance_sheet,2022-12-31,Goodwill,603417000.0
+MONC.MI,balance_sheet,2022-12-31,Net PPE,1074490000.0
+MONC.MI,balance_sheet,2022-12-31,Accumulated Depreciation,-925782000.0
+MONC.MI,balance_sheet,2022-12-31,Gross PPE,2000272000.0
+MONC.MI,balance_sheet,2022-12-31,Construction In Progress,53279000.0
+MONC.MI,balance_sheet,2022-12-31,Other Properties,43717000.0
+MONC.MI,balance_sheet,2022-12-31,Machinery Furniture Equipment,220385000.0
+MONC.MI,balance_sheet,2022-12-31,Buildings And Improvements,386389000.0
+MONC.MI,balance_sheet,2022-12-31,Land And Improvements,1296502000.0
+MONC.MI,balance_sheet,2022-12-31,Properties,0.0
+MONC.MI,balance_sheet,2022-12-31,Current Assets,1620996000.0
+MONC.MI,balance_sheet,2022-12-31,Hedging Assets Current,11351000.0
+MONC.MI,balance_sheet,2022-12-31,Inventory,377549000.0
+MONC.MI,balance_sheet,2022-12-31,Inventories Adjustments Allowances,-241829000.0
+MONC.MI,balance_sheet,2022-12-31,Finished Goods,424143000.0
+MONC.MI,balance_sheet,2022-12-31,Work In Process,60714000.0
+MONC.MI,balance_sheet,2022-12-31,Raw Materials,134521000.0
+MONC.MI,balance_sheet,2022-12-31,Other Receivables,47352000.0
+MONC.MI,balance_sheet,2022-12-31,Taxes Receivable,5940000.0
+MONC.MI,balance_sheet,2022-12-31,Accounts Receivable,296550000.0
+MONC.MI,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-15141000.0
+MONC.MI,balance_sheet,2022-12-31,Gross Accounts Receivable,311691000.0
+MONC.MI,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,882254000.0
+MONC.MI,balance_sheet,2022-12-31,Cash And Cash Equivalents,882254000.0
+MONC.MI,balance_sheet,2022-12-31,Cash Equivalents,0.0
+MONC.MI,balance_sheet,2022-12-31,Cash Financial,882254000.0
+1913.HK,balance_sheet,2025-12-31,Ordinary Shares Number,2558824000.0
+1913.HK,balance_sheet,2025-12-31,Share Issued,2558824000.0
+1913.HK,balance_sheet,2025-12-31,Net Debt,464330000.0
+1913.HK,balance_sheet,2025-12-31,Total Debt,4817885000.0
+1913.HK,balance_sheet,2025-12-31,Tangible Book Value,2744242000.0
+1913.HK,balance_sheet,2025-12-31,Invested Capital,6370235000.0
+1913.HK,balance_sheet,2025-12-31,Working Capital,842809000.0
+1913.HK,balance_sheet,2025-12-31,Net Tangible Assets,2744242000.0
+1913.HK,balance_sheet,2025-12-31,Capital Lease Obligations,3091879000.0
+1913.HK,balance_sheet,2025-12-31,Common Stock Equity,4644229000.0
+1913.HK,balance_sheet,2025-12-31,Total Capitalization,5930374000.0
+1913.HK,balance_sheet,2025-12-31,Total Equity Gross Minority Interest,4665767000.0
+1913.HK,balance_sheet,2025-12-31,Minority Interest,21538000.0
+1913.HK,balance_sheet,2025-12-31,Stockholders Equity,4644229000.0
+1913.HK,balance_sheet,2025-12-31,Retained Earnings,851936000.0
+1913.HK,balance_sheet,2025-12-31,Additional Paid In Capital,410047000.0
+1913.HK,balance_sheet,2025-12-31,Capital Stock,255882000.0
+1913.HK,balance_sheet,2025-12-31,Common Stock,255882000.0
+1913.HK,balance_sheet,2025-12-31,Total Liabilities Net Minority Interest,6347170000.0
+1913.HK,balance_sheet,2025-12-31,Total Non Current Liabilities Net Minority Interest,4147729000.0
+1913.HK,balance_sheet,2025-12-31,Other Non Current Liabilities,1421000.0
+1913.HK,balance_sheet,2025-12-31,Derivative Product Liabilities,0.0
+1913.HK,balance_sheet,2025-12-31,Non Current Pension And Other Postretirement Benefit Plans,75928000.0
+1913.HK,balance_sheet,2025-12-31,Non Current Accrued Expenses,3697000.0
+1913.HK,balance_sheet,2025-12-31,Non Current Deferred Revenue,80765000.0
+1913.HK,balance_sheet,2025-12-31,Non Current Deferred Taxes Liabilities,42897000.0
+1913.HK,balance_sheet,2025-12-31,Long Term Debt And Capital Lease Obligation,3853325000.0
+1913.HK,balance_sheet,2025-12-31,Long Term Capital Lease Obligation,2567180000.0
+1913.HK,balance_sheet,2025-12-31,Long Term Debt,1286145000.0
+1913.HK,balance_sheet,2025-12-31,Long Term Provisions,83336000.0
+1913.HK,balance_sheet,2025-12-31,Current Liabilities,2199441000.0
+1913.HK,balance_sheet,2025-12-31,Other Current Liabilities,6535000.0
+1913.HK,balance_sheet,2025-12-31,Current Debt And Capital Lease Obligation,964560000.0
+1913.HK,balance_sheet,2025-12-31,Current Capital Lease Obligation,524699000.0
+1913.HK,balance_sheet,2025-12-31,Current Debt,439861000.0
+1913.HK,balance_sheet,2025-12-31,Pensionand Other Post Retirement Benefit Plans Current,157293000.0
+1913.HK,balance_sheet,2025-12-31,Current Provisions,75510000.0
+1913.HK,balance_sheet,2025-12-31,Payables,882577000.0
+1913.HK,balance_sheet,2025-12-31,Other Payable,125404000.0
+1913.HK,balance_sheet,2025-12-31,Total Tax Payable,129007000.0
+1913.HK,balance_sheet,2025-12-31,Accounts Payable,628166000.0
+1913.HK,balance_sheet,2025-12-31,Total Assets,11012937000.0
+1913.HK,balance_sheet,2025-12-31,Total Non Current Assets,7970687000.0
+1913.HK,balance_sheet,2025-12-31,Other Non Current Assets,19415000.0
+1913.HK,balance_sheet,2025-12-31,Defined Pension Benefit,4097000.0
+1913.HK,balance_sheet,2025-12-31,Non Current Prepaid Assets,134315000.0
+1913.HK,balance_sheet,2025-12-31,Non Current Deferred Taxes Assets,391997000.0
+1913.HK,balance_sheet,2025-12-31,Financial Assets,5761000.0
+1913.HK,balance_sheet,2025-12-31,Investmentin Financial Assets,4817000.0
+1913.HK,balance_sheet,2025-12-31,Available For Sale Securities,4817000.0
+1913.HK,balance_sheet,2025-12-31,Long Term Equity Investment,67523000.0
+1913.HK,balance_sheet,2025-12-31,Investments In Other Ventures Under Equity Method,46945000.0
+1913.HK,balance_sheet,2025-12-31,Investmentsin Associatesat Cost,20578000.0
+1913.HK,balance_sheet,2025-12-31,Goodwill And Other Intangible Assets,1899987000.0
+1913.HK,balance_sheet,2025-12-31,Other Intangible Assets,382085000.0
+1913.HK,balance_sheet,2025-12-31,Goodwill,1517902000.0
+1913.HK,balance_sheet,2025-12-31,Net PPE,5442775000.0
+1913.HK,balance_sheet,2025-12-31,Accumulated Depreciation,-2429090000.0
+1913.HK,balance_sheet,2025-12-31,Gross PPE,7871865000.0
+1913.HK,balance_sheet,2025-12-31,Construction In Progress,155367000.0
+1913.HK,balance_sheet,2025-12-31,Other Properties,242480000.0
+1913.HK,balance_sheet,2025-12-31,Machinery Furniture Equipment,1202939000.0
+1913.HK,balance_sheet,2025-12-31,Buildings And Improvements,4724307000.0
+1913.HK,balance_sheet,2025-12-31,Land And Improvements,1546772000.0
+1913.HK,balance_sheet,2025-12-31,Properties,0.0
+1913.HK,balance_sheet,2025-12-31,Current Assets,3042250000.0
+1913.HK,balance_sheet,2025-12-31,Other Current Assets,94395000.0
+1913.HK,balance_sheet,2025-12-31,Hedging Assets Current,20592000.0
+1913.HK,balance_sheet,2025-12-31,Prepaid Assets,32488000.0
+1913.HK,balance_sheet,2025-12-31,Inventory,1059042000.0
+1913.HK,balance_sheet,2025-12-31,Inventories Adjustments Allowances,-193124000.0
+1913.HK,balance_sheet,2025-12-31,Other Inventories,24176000.0
+1913.HK,balance_sheet,2025-12-31,Finished Goods,1020172000.0
+1913.HK,balance_sheet,2025-12-31,Work In Process,59237000.0
+1913.HK,balance_sheet,2025-12-31,Raw Materials,148581000.0
+1913.HK,balance_sheet,2025-12-31,Other Receivables,122000.0
+1913.HK,balance_sheet,2025-12-31,Taxes Receivable,105406000.0
+1913.HK,balance_sheet,2025-12-31,Accounts Receivable,468466000.0
+1913.HK,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-34548000.0
+1913.HK,balance_sheet,2025-12-31,Gross Accounts Receivable,503014000.0
+1913.HK,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,1261739000.0
+1913.HK,balance_sheet,2025-12-31,Other Short Term Investments,63000.0
+1913.HK,balance_sheet,2025-12-31,Cash And Cash Equivalents,1261676000.0
+1913.HK,balance_sheet,2025-12-31,Cash Equivalents,1027762000.0
+1913.HK,balance_sheet,2025-12-31,Cash Financial,233914000.0
+1913.HK,balance_sheet,2024-12-31,Ordinary Shares Number,2558824000.0
+1913.HK,balance_sheet,2024-12-31,Share Issued,2558824000.0
+1913.HK,balance_sheet,2024-12-31,Total Debt,2787450000.0
+1913.HK,balance_sheet,2024-12-31,Tangible Book Value,3465392000.0
+1913.HK,balance_sheet,2024-12-31,Invested Capital,4745649000.0
+1913.HK,balance_sheet,2024-12-31,Working Capital,809903000.0
+1913.HK,balance_sheet,2024-12-31,Net Tangible Assets,3465392000.0
+1913.HK,balance_sheet,2024-12-31,Capital Lease Obligations,2375113000.0
+1913.HK,balance_sheet,2024-12-31,Common Stock Equity,4333312000.0
+1913.HK,balance_sheet,2024-12-31,Total Capitalization,4554253000.0
+1913.HK,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,4353377000.0
+1913.HK,balance_sheet,2024-12-31,Minority Interest,20065000.0
+1913.HK,balance_sheet,2024-12-31,Stockholders Equity,4333312000.0
+1913.HK,balance_sheet,2024-12-31,Retained Earnings,838907000.0
+1913.HK,balance_sheet,2024-12-31,Additional Paid In Capital,410047000.0
+1913.HK,balance_sheet,2024-12-31,Capital Stock,255882000.0
+1913.HK,balance_sheet,2024-12-31,Common Stock,255882000.0
+1913.HK,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,4130529000.0
+1913.HK,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,2447077000.0
+1913.HK,balance_sheet,2024-12-31,Other Non Current Liabilities,37000.0
+1913.HK,balance_sheet,2024-12-31,Derivative Product Liabilities,399000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Pension And Other Postretirement Benefit Plans,81749000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Accrued Expenses,5534000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Deferred Revenue,89739000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,43416000.0
+1913.HK,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,2161919000.0
+1913.HK,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,1940978000.0
+1913.HK,balance_sheet,2024-12-31,Long Term Debt,220941000.0
+1913.HK,balance_sheet,2024-12-31,Long Term Provisions,64284000.0
+1913.HK,balance_sheet,2024-12-31,Current Liabilities,1683452000.0
+1913.HK,balance_sheet,2024-12-31,Other Current Liabilities,1775000.0
+1913.HK,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,625531000.0
+1913.HK,balance_sheet,2024-12-31,Current Capital Lease Obligation,434135000.0
+1913.HK,balance_sheet,2024-12-31,Current Debt,191396000.0
+1913.HK,balance_sheet,2024-12-31,Pensionand Other Post Retirement Benefit Plans Current,121969000.0
+1913.HK,balance_sheet,2024-12-31,Current Provisions,50451000.0
+1913.HK,balance_sheet,2024-12-31,Payables,783046000.0
+1913.HK,balance_sheet,2024-12-31,Other Payable,124293000.0
+1913.HK,balance_sheet,2024-12-31,Total Tax Payable,177138000.0
+1913.HK,balance_sheet,2024-12-31,Accounts Payable,481615000.0
+1913.HK,balance_sheet,2024-12-31,Total Assets,8483906000.0
+1913.HK,balance_sheet,2024-12-31,Total Non Current Assets,5990551000.0
+1913.HK,balance_sheet,2024-12-31,Other Non Current Assets,8067000.0
+1913.HK,balance_sheet,2024-12-31,Defined Pension Benefit,4773000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Prepaid Assets,126246000.0
+1913.HK,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,408971000.0
+1913.HK,balance_sheet,2024-12-31,Financial Assets,2571000.0
+1913.HK,balance_sheet,2024-12-31,Investmentin Financial Assets,369000.0
+1913.HK,balance_sheet,2024-12-31,Available For Sale Securities,369000.0
+1913.HK,balance_sheet,2024-12-31,Long Term Equity Investment,37624000.0
+1913.HK,balance_sheet,2024-12-31,Investments In Other Ventures Under Equity Method,0.0
+1913.HK,balance_sheet,2024-12-31,Investmentsin Associatesat Cost,37624000.0
+1913.HK,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,867920000.0
+1913.HK,balance_sheet,2024-12-31,Other Intangible Assets,352413000.0
+1913.HK,balance_sheet,2024-12-31,Goodwill,515507000.0
+1913.HK,balance_sheet,2024-12-31,Net PPE,4534010000.0
+1913.HK,balance_sheet,2024-12-31,Accumulated Depreciation,-2191367000.0
+1913.HK,balance_sheet,2024-12-31,Gross PPE,6725377000.0
+1913.HK,balance_sheet,2024-12-31,Construction In Progress,100361000.0
+1913.HK,balance_sheet,2024-12-31,Other Properties,239792000.0
+1913.HK,balance_sheet,2024-12-31,Machinery Furniture Equipment,1082956000.0
+1913.HK,balance_sheet,2024-12-31,Buildings And Improvements,3825665000.0
+1913.HK,balance_sheet,2024-12-31,Land And Improvements,1476603000.0
+1913.HK,balance_sheet,2024-12-31,Properties,0.0
+1913.HK,balance_sheet,2024-12-31,Current Assets,2493355000.0
+1913.HK,balance_sheet,2024-12-31,Other Current Assets,49063000.0
+1913.HK,balance_sheet,2024-12-31,Hedging Assets Current,12487000.0
+1913.HK,balance_sheet,2024-12-31,Prepaid Assets,30092000.0
+1913.HK,balance_sheet,2024-12-31,Inventory,866160000.0
+1913.HK,balance_sheet,2024-12-31,Inventories Adjustments Allowances,-128822000.0
+1913.HK,balance_sheet,2024-12-31,Other Inventories,16862000.0
+1913.HK,balance_sheet,2024-12-31,Finished Goods,799772000.0
+1913.HK,balance_sheet,2024-12-31,Work In Process,45893000.0
+1913.HK,balance_sheet,2024-12-31,Raw Materials,132455000.0
+1913.HK,balance_sheet,2024-12-31,Other Receivables,134000.0
+1913.HK,balance_sheet,2024-12-31,Taxes Receivable,100116000.0
+1913.HK,balance_sheet,2024-12-31,Accounts Receivable,423733000.0
+1913.HK,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-14062000.0
+1913.HK,balance_sheet,2024-12-31,Gross Accounts Receivable,437795000.0
+1913.HK,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,1011570000.0
+1913.HK,balance_sheet,2024-12-31,Other Short Term Investments,7000.0
+1913.HK,balance_sheet,2024-12-31,Cash And Cash Equivalents,1011563000.0
+1913.HK,balance_sheet,2024-12-31,Cash Equivalents,794693000.0
+1913.HK,balance_sheet,2024-12-31,Cash Financial,216870000.0
+1913.HK,balance_sheet,2023-12-31,Ordinary Shares Number,2558824000.0
+1913.HK,balance_sheet,2023-12-31,Share Issued,2558824000.0
+1913.HK,balance_sheet,2023-12-31,Total Debt,2603501000.0
+1913.HK,balance_sheet,2023-12-31,Tangible Book Value,3007771000.0
+1913.HK,balance_sheet,2023-12-31,Invested Capital,4346408000.0
+1913.HK,balance_sheet,2023-12-31,Working Capital,712367000.0
+1913.HK,balance_sheet,2023-12-31,Net Tangible Assets,3007771000.0
+1913.HK,balance_sheet,2023-12-31,Capital Lease Obligations,2110888000.0
+1913.HK,balance_sheet,2023-12-31,Common Stock Equity,3853795000.0
+1913.HK,balance_sheet,2023-12-31,Total Capitalization,4192217000.0
+1913.HK,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,3876809000.0
+1913.HK,balance_sheet,2023-12-31,Minority Interest,23014000.0
+1913.HK,balance_sheet,2023-12-31,Stockholders Equity,3853795000.0
+1913.HK,balance_sheet,2023-12-31,Retained Earnings,671026000.0
+1913.HK,balance_sheet,2023-12-31,Additional Paid In Capital,410047000.0
+1913.HK,balance_sheet,2023-12-31,Capital Stock,255882000.0
+1913.HK,balance_sheet,2023-12-31,Common Stock,255882000.0
+1913.HK,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,3738242000.0
+1913.HK,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,2287861000.0
+1913.HK,balance_sheet,2023-12-31,Other Non Current Liabilities,38000.0
+1913.HK,balance_sheet,2023-12-31,Derivative Product Liabilities,0.0
+1913.HK,balance_sheet,2023-12-31,Non Current Pension And Other Postretirement Benefit Plans,60875000.0
+1913.HK,balance_sheet,2023-12-31,Non Current Accrued Expenses,4616000.0
+1913.HK,balance_sheet,2023-12-31,Non Current Deferred Revenue,98713000.0
+1913.HK,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,35731000.0
+1913.HK,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,2038021000.0
+1913.HK,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,1699599000.0
+1913.HK,balance_sheet,2023-12-31,Long Term Debt,338422000.0
+1913.HK,balance_sheet,2023-12-31,Long Term Provisions,49867000.0
+1913.HK,balance_sheet,2023-12-31,Current Liabilities,1450381000.0
+1913.HK,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,565480000.0
+1913.HK,balance_sheet,2023-12-31,Current Capital Lease Obligation,411289000.0
+1913.HK,balance_sheet,2023-12-31,Current Debt,154191000.0
+1913.HK,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,115066000.0
+1913.HK,balance_sheet,2023-12-31,Current Provisions,35450000.0
+1913.HK,balance_sheet,2023-12-31,Payables,670053000.0
+1913.HK,balance_sheet,2023-12-31,Other Payable,94843000.0
+1913.HK,balance_sheet,2023-12-31,Total Tax Payable,121823000.0
+1913.HK,balance_sheet,2023-12-31,Accounts Payable,453387000.0
+1913.HK,balance_sheet,2023-12-31,Total Assets,7615051000.0
+1913.HK,balance_sheet,2023-12-31,Total Non Current Assets,5452303000.0
+1913.HK,balance_sheet,2023-12-31,Other Non Current Assets,10435000.0
+1913.HK,balance_sheet,2023-12-31,Defined Pension Benefit,4652000.0
+1913.HK,balance_sheet,2023-12-31,Non Current Prepaid Assets,116417000.0
+1913.HK,balance_sheet,2023-12-31,Non Current Deferred Assets,0.0
+1913.HK,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,374847000.0
+1913.HK,balance_sheet,2023-12-31,Financial Assets,890000.0
+1913.HK,balance_sheet,2023-12-31,Long Term Equity Investment,41610000.0
+1913.HK,balance_sheet,2023-12-31,Investments In Other Ventures Under Equity Method,5184000.0
+1913.HK,balance_sheet,2023-12-31,Investmentsin Associatesat Cost,36426000.0
+1913.HK,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,846024000.0
+1913.HK,balance_sheet,2023-12-31,Other Intangible Assets,330517000.0
+1913.HK,balance_sheet,2023-12-31,Goodwill,515507000.0
+1913.HK,balance_sheet,2023-12-31,Net PPE,4057428000.0
+1913.HK,balance_sheet,2023-12-31,Accumulated Depreciation,-2106679000.0
+1913.HK,balance_sheet,2023-12-31,Gross PPE,6164107000.0
+1913.HK,balance_sheet,2023-12-31,Construction In Progress,71307000.0
+1913.HK,balance_sheet,2023-12-31,Other Properties,236674000.0
+1913.HK,balance_sheet,2023-12-31,Machinery Furniture Equipment,990251000.0
+1913.HK,balance_sheet,2023-12-31,Buildings And Improvements,3464301000.0
+1913.HK,balance_sheet,2023-12-31,Land And Improvements,1401574000.0
+1913.HK,balance_sheet,2023-12-31,Properties,0.0
+1913.HK,balance_sheet,2023-12-31,Current Assets,2162748000.0
+1913.HK,balance_sheet,2023-12-31,Other Current Assets,455000.0
+1913.HK,balance_sheet,2023-12-31,Hedging Assets Current,17550000.0
+1913.HK,balance_sheet,2023-12-31,Prepaid Assets,137672000.0
+1913.HK,balance_sheet,2023-12-31,Inventory,782978000.0
+1913.HK,balance_sheet,2023-12-31,Inventories Adjustments Allowances,-110370000.0
+1913.HK,balance_sheet,2023-12-31,Other Inventories,12942000.0
+1913.HK,balance_sheet,2023-12-31,Finished Goods,726295000.0
+1913.HK,balance_sheet,2023-12-31,Work In Process,38580000.0
+1913.HK,balance_sheet,2023-12-31,Raw Materials,115531000.0
+1913.HK,balance_sheet,2023-12-31,Other Receivables,8253000.0
+1913.HK,balance_sheet,2023-12-31,Taxes Receivable,121170000.0
+1913.HK,balance_sheet,2023-12-31,Accounts Receivable,405151000.0
+1913.HK,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-11341000.0
+1913.HK,balance_sheet,2023-12-31,Gross Accounts Receivable,416492000.0
+1913.HK,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,689519000.0
+1913.HK,balance_sheet,2023-12-31,Cash And Cash Equivalents,689519000.0
+1913.HK,balance_sheet,2023-12-31,Cash Equivalents,438506000.0
+1913.HK,balance_sheet,2023-12-31,Cash Financial,251013000.0
+1913.HK,balance_sheet,2022-12-31,Ordinary Shares Number,2558824000.0
+1913.HK,balance_sheet,2022-12-31,Share Issued,2558824000.0
+1913.HK,balance_sheet,2022-12-31,Total Debt,2667648000.0
+1913.HK,balance_sheet,2022-12-31,Tangible Book Value,2664408000.0
+1913.HK,balance_sheet,2022-12-31,Invested Capital,4042288000.0
+1913.HK,balance_sheet,2022-12-31,Working Capital,934900000.0
+1913.HK,balance_sheet,2022-12-31,Net Tangible Assets,2664408000.0
+1913.HK,balance_sheet,2022-12-31,Capital Lease Obligations,2107577000.0
+1913.HK,balance_sheet,2022-12-31,Common Stock Equity,3482217000.0
+1913.HK,balance_sheet,2022-12-31,Total Capitalization,3877873000.0
+1913.HK,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,3501022000.0
+1913.HK,balance_sheet,2022-12-31,Minority Interest,18805000.0
+1913.HK,balance_sheet,2022-12-31,Stockholders Equity,3482217000.0
+1913.HK,balance_sheet,2022-12-31,Retained Earnings,465193000.0
+1913.HK,balance_sheet,2022-12-31,Additional Paid In Capital,410047000.0
+1913.HK,balance_sheet,2022-12-31,Capital Stock,255882000.0
+1913.HK,balance_sheet,2022-12-31,Common Stock,255882000.0
+1913.HK,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,3876556000.0
+1913.HK,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,2386689000.0
+1913.HK,balance_sheet,2022-12-31,Other Non Current Liabilities,573000.0
+1913.HK,balance_sheet,2022-12-31,Derivative Product Liabilities,0.0
+1913.HK,balance_sheet,2022-12-31,Non Current Pension And Other Postretirement Benefit Plans,67571000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Accrued Expenses,7410000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Deferred Revenue,107687000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,40855000.0
+1913.HK,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,2111107000.0
+1913.HK,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,1715451000.0
+1913.HK,balance_sheet,2022-12-31,Long Term Debt,395656000.0
+1913.HK,balance_sheet,2022-12-31,Long Term Provisions,51486000.0
+1913.HK,balance_sheet,2022-12-31,Current Liabilities,1489867000.0
+1913.HK,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,556541000.0
+1913.HK,balance_sheet,2022-12-31,Current Capital Lease Obligation,392126000.0
+1913.HK,balance_sheet,2022-12-31,Current Debt,164415000.0
+1913.HK,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,91844000.0
+1913.HK,balance_sheet,2022-12-31,Current Provisions,24805000.0
+1913.HK,balance_sheet,2022-12-31,Payables,754223000.0
+1913.HK,balance_sheet,2022-12-31,Other Payable,74768000.0
+1913.HK,balance_sheet,2022-12-31,Total Tax Payable,277656000.0
+1913.HK,balance_sheet,2022-12-31,Accounts Payable,401799000.0
+1913.HK,balance_sheet,2022-12-31,Total Assets,7377578000.0
+1913.HK,balance_sheet,2022-12-31,Total Non Current Assets,4952811000.0
+1913.HK,balance_sheet,2022-12-31,Other Non Current Assets,18449000.0
+1913.HK,balance_sheet,2022-12-31,Defined Pension Benefit,6426000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Prepaid Assets,114296000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Deferred Assets,231000.0
+1913.HK,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,373090000.0
+1913.HK,balance_sheet,2022-12-31,Financial Assets,5812000.0
+1913.HK,balance_sheet,2022-12-31,Long Term Equity Investment,26974000.0
+1913.HK,balance_sheet,2022-12-31,Investments In Other Ventures Under Equity Method,3551000.0
+1913.HK,balance_sheet,2022-12-31,Investmentsin Associatesat Cost,23423000.0
+1913.HK,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,817809000.0
+1913.HK,balance_sheet,2022-12-31,Other Intangible Assets,304128000.0
+1913.HK,balance_sheet,2022-12-31,Goodwill,513681000.0
+1913.HK,balance_sheet,2022-12-31,Net PPE,3588599000.0
+1913.HK,balance_sheet,2022-12-31,Accumulated Depreciation,-2041918000.0
+1913.HK,balance_sheet,2022-12-31,Gross PPE,5630517000.0
+1913.HK,balance_sheet,2022-12-31,Construction In Progress,61981000.0
+1913.HK,balance_sheet,2022-12-31,Other Properties,225172000.0
+1913.HK,balance_sheet,2022-12-31,Machinery Furniture Equipment,938397000.0
+1913.HK,balance_sheet,2022-12-31,Buildings And Improvements,3396482000.0
+1913.HK,balance_sheet,2022-12-31,Land And Improvements,1008485000.0
+1913.HK,balance_sheet,2022-12-31,Properties,0.0
+1913.HK,balance_sheet,2022-12-31,Current Assets,2424767000.0
+1913.HK,balance_sheet,2022-12-31,Other Current Assets,1204000.0
+1913.HK,balance_sheet,2022-12-31,Hedging Assets Current,22483000.0
+1913.HK,balance_sheet,2022-12-31,Prepaid Assets,100364000.0
+1913.HK,balance_sheet,2022-12-31,Inventory,760457000.0
+1913.HK,balance_sheet,2022-12-31,Inventories Adjustments Allowances,-88444000.0
+1913.HK,balance_sheet,2022-12-31,Other Inventories,10493000.0
+1913.HK,balance_sheet,2022-12-31,Finished Goods,699849000.0
+1913.HK,balance_sheet,2022-12-31,Work In Process,30109000.0
+1913.HK,balance_sheet,2022-12-31,Raw Materials,108450000.0
+1913.HK,balance_sheet,2022-12-31,Other Receivables,6320000.0
+1913.HK,balance_sheet,2022-12-31,Taxes Receivable,110402000.0
+1913.HK,balance_sheet,2022-12-31,Accounts Receivable,331915000.0
+1913.HK,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-11595000.0
+1913.HK,balance_sheet,2022-12-31,Gross Accounts Receivable,343510000.0
+1913.HK,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,1091622000.0
+1913.HK,balance_sheet,2022-12-31,Cash And Cash Equivalents,1091622000.0
+1913.HK,balance_sheet,2022-12-31,Cash Equivalents,781358000.0
+1913.HK,balance_sheet,2022-12-31,Cash Financial,310264000.0
+SFER.MI,balance_sheet,2024-12-31,Treasury Shares Number,3113302.0
+SFER.MI,balance_sheet,2024-12-31,Ordinary Shares Number,165676698.0
+SFER.MI,balance_sheet,2024-12-31,Share Issued,168790000.0
+SFER.MI,balance_sheet,2024-12-31,Total Debt,789637000.0
+SFER.MI,balance_sheet,2024-12-31,Tangible Book Value,580540000.0
+SFER.MI,balance_sheet,2024-12-31,Invested Capital,732382000.0
+SFER.MI,balance_sheet,2024-12-31,Working Capital,279737000.0
+SFER.MI,balance_sheet,2024-12-31,Net Tangible Assets,580540000.0
+SFER.MI,balance_sheet,2024-12-31,Capital Lease Obligations,676346000.0
+SFER.MI,balance_sheet,2024-12-31,Common Stock Equity,619091000.0
+SFER.MI,balance_sheet,2024-12-31,Total Capitalization,619091000.0
+SFER.MI,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,620086000.0
+SFER.MI,balance_sheet,2024-12-31,Minority Interest,995000.0
+SFER.MI,balance_sheet,2024-12-31,Stockholders Equity,619091000.0
+SFER.MI,balance_sheet,2024-12-31,Other Equity Interest,-1183000.0
+SFER.MI,balance_sheet,2024-12-31,Treasury Stock,53676000.0
+SFER.MI,balance_sheet,2024-12-31,Retained Earnings,-32532000.0
+SFER.MI,balance_sheet,2024-12-31,Additional Paid In Capital,2995000.0
+SFER.MI,balance_sheet,2024-12-31,Capital Stock,16879000.0
+SFER.MI,balance_sheet,2024-12-31,Common Stock,16879000.0
+SFER.MI,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,1080760000.0
+SFER.MI,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,601289000.0
+SFER.MI,balance_sheet,2024-12-31,Non Current Pension And Other Postretirement Benefit Plans,6026000.0
+SFER.MI,balance_sheet,2024-12-31,Tradeand Other Payables Non Current,14723000.0
+SFER.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,5682000.0
+SFER.MI,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,552344000.0
+SFER.MI,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,552344000.0
+SFER.MI,balance_sheet,2024-12-31,Long Term Provisions,22514000.0
+SFER.MI,balance_sheet,2024-12-31,Current Liabilities,479471000.0
+SFER.MI,balance_sheet,2024-12-31,Other Current Liabilities,11481000.0
+SFER.MI,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,237293000.0
+SFER.MI,balance_sheet,2024-12-31,Current Capital Lease Obligation,124002000.0
+SFER.MI,balance_sheet,2024-12-31,Current Debt,113291000.0
+SFER.MI,balance_sheet,2024-12-31,Payables,214779000.0
+SFER.MI,balance_sheet,2024-12-31,Other Payable,32722000.0
+SFER.MI,balance_sheet,2024-12-31,Total Tax Payable,19256000.0
+SFER.MI,balance_sheet,2024-12-31,Accounts Payable,162801000.0
+SFER.MI,balance_sheet,2024-12-31,Total Assets,1700846000.0
+SFER.MI,balance_sheet,2024-12-31,Total Non Current Assets,941638000.0
+SFER.MI,balance_sheet,2024-12-31,Other Non Current Assets,1396000.0
+SFER.MI,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,145142000.0
+SFER.MI,balance_sheet,2024-12-31,Investmentin Financial Assets,13583000.0
+SFER.MI,balance_sheet,2024-12-31,Available For Sale Securities,13583000.0
+SFER.MI,balance_sheet,2024-12-31,Investment Properties,6463000.0
+SFER.MI,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,38551000.0
+SFER.MI,balance_sheet,2024-12-31,Other Intangible Assets,31872000.0
+SFER.MI,balance_sheet,2024-12-31,Goodwill,6679000.0
+SFER.MI,balance_sheet,2024-12-31,Net PPE,734187000.0
+SFER.MI,balance_sheet,2024-12-31,Accumulated Depreciation,-1171015000.0
+SFER.MI,balance_sheet,2024-12-31,Gross PPE,1905202000.0
+SFER.MI,balance_sheet,2024-12-31,Construction In Progress,20826000.0
+SFER.MI,balance_sheet,2024-12-31,Other Properties,240532000.0
+SFER.MI,balance_sheet,2024-12-31,Machinery Furniture Equipment,69877000.0
+SFER.MI,balance_sheet,2024-12-31,Buildings And Improvements,1545638000.0
+SFER.MI,balance_sheet,2024-12-31,Land And Improvements,28329000.0
+SFER.MI,balance_sheet,2024-12-31,Properties,0.0
+SFER.MI,balance_sheet,2024-12-31,Current Assets,759208000.0
+SFER.MI,balance_sheet,2024-12-31,Other Current Assets,5911000.0
+SFER.MI,balance_sheet,2024-12-31,Hedging Assets Current,1919000.0
+SFER.MI,balance_sheet,2024-12-31,Assets Held For Sale Current,67000.0
+SFER.MI,balance_sheet,2024-12-31,Prepaid Assets,7615000.0
+SFER.MI,balance_sheet,2024-12-31,Inventory,307888000.0
+SFER.MI,balance_sheet,2024-12-31,Finished Goods,284218000.0
+SFER.MI,balance_sheet,2024-12-31,Raw Materials,23670000.0
+SFER.MI,balance_sheet,2024-12-31,Other Receivables,36798000.0
+SFER.MI,balance_sheet,2024-12-31,Taxes Receivable,25822000.0
+SFER.MI,balance_sheet,2024-12-31,Accounts Receivable,84580000.0
+SFER.MI,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-4673000.0
+SFER.MI,balance_sheet,2024-12-31,Gross Accounts Receivable,89253000.0
+SFER.MI,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,288608000.0
+SFER.MI,balance_sheet,2024-12-31,Other Short Term Investments,50414000.0
+SFER.MI,balance_sheet,2024-12-31,Cash And Cash Equivalents,238194000.0
+SFER.MI,balance_sheet,2024-12-31,Cash Equivalents,237207000.0
+SFER.MI,balance_sheet,2024-12-31,Cash Financial,987000.0
+SFER.MI,balance_sheet,2023-12-31,Treasury Shares Number,3261034.0
+SFER.MI,balance_sheet,2023-12-31,Ordinary Shares Number,165528966.0
+SFER.MI,balance_sheet,2023-12-31,Share Issued,168790000.0
+SFER.MI,balance_sheet,2023-12-31,Total Debt,791171000.0
+SFER.MI,balance_sheet,2023-12-31,Tangible Book Value,677615000.0
+SFER.MI,balance_sheet,2023-12-31,Invested Capital,801295000.0
+SFER.MI,balance_sheet,2023-12-31,Working Capital,348581000.0
+SFER.MI,balance_sheet,2023-12-31,Net Tangible Assets,677615000.0
+SFER.MI,balance_sheet,2023-12-31,Capital Lease Obligations,711042000.0
+SFER.MI,balance_sheet,2023-12-31,Common Stock Equity,721166000.0
+SFER.MI,balance_sheet,2023-12-31,Total Capitalization,721166000.0
+SFER.MI,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,722163000.0
+SFER.MI,balance_sheet,2023-12-31,Minority Interest,997000.0
+SFER.MI,balance_sheet,2023-12-31,Stockholders Equity,721166000.0
+SFER.MI,balance_sheet,2023-12-31,Other Equity Interest,-1271000.0
+SFER.MI,balance_sheet,2023-12-31,Treasury Stock,56223000.0
+SFER.MI,balance_sheet,2023-12-31,Retained Earnings,123253000.0
+SFER.MI,balance_sheet,2023-12-31,Additional Paid In Capital,2995000.0
+SFER.MI,balance_sheet,2023-12-31,Capital Stock,16879000.0
+SFER.MI,balance_sheet,2023-12-31,Common Stock,16879000.0
+SFER.MI,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,1090769000.0
+SFER.MI,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,650540000.0
+SFER.MI,balance_sheet,2023-12-31,Non Current Pension And Other Postretirement Benefit Plans,6954000.0
+SFER.MI,balance_sheet,2023-12-31,Tradeand Other Payables Non Current,16223000.0
+SFER.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,6832000.0
+SFER.MI,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,596603000.0
+SFER.MI,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,596603000.0
+SFER.MI,balance_sheet,2023-12-31,Long Term Provisions,23928000.0
+SFER.MI,balance_sheet,2023-12-31,Current Liabilities,440229000.0
+SFER.MI,balance_sheet,2023-12-31,Other Current Liabilities,9563000.0
+SFER.MI,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,194568000.0
+SFER.MI,balance_sheet,2023-12-31,Current Capital Lease Obligation,114439000.0
+SFER.MI,balance_sheet,2023-12-31,Current Debt,80129000.0
+SFER.MI,balance_sheet,2023-12-31,Payables,230714000.0
+SFER.MI,balance_sheet,2023-12-31,Other Payable,41085000.0
+SFER.MI,balance_sheet,2023-12-31,Total Tax Payable,17629000.0
+SFER.MI,balance_sheet,2023-12-31,Accounts Payable,172000000.0
+SFER.MI,balance_sheet,2023-12-31,Total Assets,1812932000.0
+SFER.MI,balance_sheet,2023-12-31,Total Non Current Assets,1024122000.0
+SFER.MI,balance_sheet,2023-12-31,Other Non Current Assets,2075000.0
+SFER.MI,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,122349000.0
+SFER.MI,balance_sheet,2023-12-31,Investmentin Financial Assets,13760000.0
+SFER.MI,balance_sheet,2023-12-31,Available For Sale Securities,13760000.0
+SFER.MI,balance_sheet,2023-12-31,Investment Properties,22666000.0
+SFER.MI,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,43551000.0
+SFER.MI,balance_sheet,2023-12-31,Other Intangible Assets,36872000.0
+SFER.MI,balance_sheet,2023-12-31,Goodwill,6679000.0
+SFER.MI,balance_sheet,2023-12-31,Net PPE,817300000.0
+SFER.MI,balance_sheet,2023-12-31,Accumulated Depreciation,-974616000.0
+SFER.MI,balance_sheet,2023-12-31,Gross PPE,1791916000.0
+SFER.MI,balance_sheet,2023-12-31,Construction In Progress,18509000.0
+SFER.MI,balance_sheet,2023-12-31,Other Properties,223996000.0
+SFER.MI,balance_sheet,2023-12-31,Machinery Furniture Equipment,69768000.0
+SFER.MI,balance_sheet,2023-12-31,Buildings And Improvements,1450645000.0
+SFER.MI,balance_sheet,2023-12-31,Land And Improvements,28998000.0
+SFER.MI,balance_sheet,2023-12-31,Properties,0.0
+SFER.MI,balance_sheet,2023-12-31,Current Assets,788810000.0
+SFER.MI,balance_sheet,2023-12-31,Other Current Assets,6044000.0
+SFER.MI,balance_sheet,2023-12-31,Hedging Assets Current,8348000.0
+SFER.MI,balance_sheet,2023-12-31,Assets Held For Sale Current,63000.0
+SFER.MI,balance_sheet,2023-12-31,Prepaid Assets,7301000.0
+SFER.MI,balance_sheet,2023-12-31,Inventory,298345000.0
+SFER.MI,balance_sheet,2023-12-31,Finished Goods,269602000.0
+SFER.MI,balance_sheet,2023-12-31,Raw Materials,28743000.0
+SFER.MI,balance_sheet,2023-12-31,Other Receivables,23598000.0
+SFER.MI,balance_sheet,2023-12-31,Taxes Receivable,34025000.0
+SFER.MI,balance_sheet,2023-12-31,Accounts Receivable,106821000.0
+SFER.MI,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-5278000.0
+SFER.MI,balance_sheet,2023-12-31,Gross Accounts Receivable,112099000.0
+SFER.MI,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,304265000.0
+SFER.MI,balance_sheet,2023-12-31,Other Short Term Investments,35277000.0
+SFER.MI,balance_sheet,2023-12-31,Cash And Cash Equivalents,268988000.0
+SFER.MI,balance_sheet,2023-12-31,Cash Equivalents,267121000.0
+SFER.MI,balance_sheet,2023-12-31,Cash Financial,1867000.0
+SFER.MI,balance_sheet,2022-12-31,Treasury Shares Number,3375800.0
+SFER.MI,balance_sheet,2022-12-31,Ordinary Shares Number,165414200.0
+SFER.MI,balance_sheet,2022-12-31,Share Issued,168790000.0
+SFER.MI,balance_sheet,2022-12-31,Total Debt,604587000.0
+SFER.MI,balance_sheet,2022-12-31,Tangible Book Value,710228000.0
+SFER.MI,balance_sheet,2022-12-31,Invested Capital,781074000.0
+SFER.MI,balance_sheet,2022-12-31,Working Capital,425040000.0
+SFER.MI,balance_sheet,2022-12-31,Net Tangible Assets,710228000.0
+SFER.MI,balance_sheet,2022-12-31,Capital Lease Obligations,575323000.0
+SFER.MI,balance_sheet,2022-12-31,Common Stock Equity,751810000.0
+SFER.MI,balance_sheet,2022-12-31,Total Capitalization,751810000.0
+SFER.MI,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,775409000.0
+SFER.MI,balance_sheet,2022-12-31,Minority Interest,23599000.0
+SFER.MI,balance_sheet,2022-12-31,Stockholders Equity,751810000.0
+SFER.MI,balance_sheet,2022-12-31,Other Equity Interest,-1424000.0
+SFER.MI,balance_sheet,2022-12-31,Treasury Stock,58202000.0
+SFER.MI,balance_sheet,2022-12-31,Retained Earnings,207996000.0
+SFER.MI,balance_sheet,2022-12-31,Additional Paid In Capital,2995000.0
+SFER.MI,balance_sheet,2022-12-31,Capital Stock,16879000.0
+SFER.MI,balance_sheet,2022-12-31,Common Stock,16879000.0
+SFER.MI,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,944881000.0
+SFER.MI,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,520768000.0
+SFER.MI,balance_sheet,2022-12-31,Other Non Current Liabilities,15298000.0
+SFER.MI,balance_sheet,2022-12-31,Non Current Pension And Other Postretirement Benefit Plans,7581000.0
+SFER.MI,balance_sheet,2022-12-31,Tradeand Other Payables Non Current,17128000.0
+SFER.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,6071000.0
+SFER.MI,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,468737000.0
+SFER.MI,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,468737000.0
+SFER.MI,balance_sheet,2022-12-31,Long Term Debt,0.0
+SFER.MI,balance_sheet,2022-12-31,Long Term Provisions,21251000.0
+SFER.MI,balance_sheet,2022-12-31,Current Liabilities,424113000.0
+SFER.MI,balance_sheet,2022-12-31,Other Current Liabilities,10100000.0
+SFER.MI,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,135850000.0
+SFER.MI,balance_sheet,2022-12-31,Current Capital Lease Obligation,106586000.0
+SFER.MI,balance_sheet,2022-12-31,Current Debt,29264000.0
+SFER.MI,balance_sheet,2022-12-31,Payables,265888000.0
+SFER.MI,balance_sheet,2022-12-31,Other Payable,48974000.0
+SFER.MI,balance_sheet,2022-12-31,Total Tax Payable,44322000.0
+SFER.MI,balance_sheet,2022-12-31,Accounts Payable,172592000.0
+SFER.MI,balance_sheet,2022-12-31,Total Assets,1720290000.0
+SFER.MI,balance_sheet,2022-12-31,Total Non Current Assets,871137000.0
+SFER.MI,balance_sheet,2022-12-31,Other Non Current Assets,2757000.0
+SFER.MI,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,109090000.0
+SFER.MI,balance_sheet,2022-12-31,Investmentin Financial Assets,15570000.0
+SFER.MI,balance_sheet,2022-12-31,Available For Sale Securities,15570000.0
+SFER.MI,balance_sheet,2022-12-31,Investment Properties,27747000.0
+SFER.MI,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,41582000.0
+SFER.MI,balance_sheet,2022-12-31,Other Intangible Assets,34903000.0
+SFER.MI,balance_sheet,2022-12-31,Goodwill,6679000.0
+SFER.MI,balance_sheet,2022-12-31,Net PPE,671288000.0
+SFER.MI,balance_sheet,2022-12-31,Accumulated Depreciation,-872065000.0
+SFER.MI,balance_sheet,2022-12-31,Gross PPE,1543353000.0
+SFER.MI,balance_sheet,2022-12-31,Construction In Progress,8299000.0
+SFER.MI,balance_sheet,2022-12-31,Other Properties,213818000.0
+SFER.MI,balance_sheet,2022-12-31,Machinery Furniture Equipment,64306000.0
+SFER.MI,balance_sheet,2022-12-31,Buildings And Improvements,1227317000.0
+SFER.MI,balance_sheet,2022-12-31,Land And Improvements,29613000.0
+SFER.MI,balance_sheet,2022-12-31,Properties,0.0
+SFER.MI,balance_sheet,2022-12-31,Current Assets,849153000.0
+SFER.MI,balance_sheet,2022-12-31,Other Current Assets,5703000.0
+SFER.MI,balance_sheet,2022-12-31,Hedging Assets Current,7507000.0
+SFER.MI,balance_sheet,2022-12-31,Assets Held For Sale Current,0.0
+SFER.MI,balance_sheet,2022-12-31,Prepaid Assets,9040000.0
+SFER.MI,balance_sheet,2022-12-31,Inventory,275323000.0
+SFER.MI,balance_sheet,2022-12-31,Finished Goods,252538000.0
+SFER.MI,balance_sheet,2022-12-31,Raw Materials,22785000.0
+SFER.MI,balance_sheet,2022-12-31,Other Receivables,25156000.0
+SFER.MI,balance_sheet,2022-12-31,Taxes Receivable,30581000.0
+SFER.MI,balance_sheet,2022-12-31,Accounts Receivable,94490000.0
+SFER.MI,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-3579000.0
+SFER.MI,balance_sheet,2022-12-31,Gross Accounts Receivable,98069000.0
+SFER.MI,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,401353000.0
+SFER.MI,balance_sheet,2022-12-31,Other Short Term Investments,9999000.0
+SFER.MI,balance_sheet,2022-12-31,Cash And Cash Equivalents,391354000.0
+SFER.MI,balance_sheet,2022-12-31,Cash Equivalents,389613000.0
+SFER.MI,balance_sheet,2022-12-31,Cash Financial,1741000.0
+SFER.MI,balance_sheet,2021-12-31,Treasury Shares Number,774163.0
+SFER.MI,balance_sheet,2021-12-31,Ordinary Shares Number,168015837.0
+SFER.MI,balance_sheet,2021-12-31,Share Issued,168790000.0
+SFER.MI,balance_sheet,2021-12-31,Total Debt,736362000.0
+SFER.MI,balance_sheet,2021-12-31,Tangible Book Value,724211000.0
+SFER.MI,balance_sheet,2021-12-31,Invested Capital,903433000.0
+SFER.MI,balance_sheet,2021-12-31,Working Capital,501078000.0
+SFER.MI,balance_sheet,2021-12-31,Net Tangible Assets,724211000.0
+SFER.MI,balance_sheet,2021-12-31,Capital Lease Obligations,597242000.0
+SFER.MI,balance_sheet,2021-12-31,Common Stock Equity,764313000.0
+SFER.MI,balance_sheet,2021-12-31,Total Capitalization,827829000.0
+SFER.MI,balance_sheet,2021-12-31,Total Equity Gross Minority Interest,785879000.0
+SFER.MI,balance_sheet,2021-12-31,Minority Interest,21566000.0
+SFER.MI,balance_sheet,2021-12-31,Stockholders Equity,764313000.0
+SFER.MI,balance_sheet,2021-12-31,Treasury Stock,15532000.0
+SFER.MI,balance_sheet,2021-12-31,Retained Earnings,177323000.0
+SFER.MI,balance_sheet,2021-12-31,Additional Paid In Capital,2995000.0
+SFER.MI,balance_sheet,2021-12-31,Capital Stock,16879000.0
+SFER.MI,balance_sheet,2021-12-31,Common Stock,16879000.0
+SFER.MI,balance_sheet,2021-12-31,Total Liabilities Net Minority Interest,1063176000.0
+SFER.MI,balance_sheet,2021-12-31,Total Non Current Liabilities Net Minority Interest,599284000.0
+SFER.MI,balance_sheet,2021-12-31,Other Non Current Liabilities,15106000.0
+SFER.MI,balance_sheet,2021-12-31,Non Current Pension And Other Postretirement Benefit Plans,8970000.0
+SFER.MI,balance_sheet,2021-12-31,Tradeand Other Payables Non Current,15456000.0
+SFER.MI,balance_sheet,2021-12-31,Non Current Deferred Taxes Liabilities,3380000.0
+SFER.MI,balance_sheet,2021-12-31,Long Term Debt And Capital Lease Obligation,550746000.0
+SFER.MI,balance_sheet,2021-12-31,Long Term Capital Lease Obligation,487230000.0
+SFER.MI,balance_sheet,2021-12-31,Long Term Debt,63516000.0
+SFER.MI,balance_sheet,2021-12-31,Long Term Provisions,20732000.0
+SFER.MI,balance_sheet,2021-12-31,Current Liabilities,463892000.0
+SFER.MI,balance_sheet,2021-12-31,Other Current Liabilities,9310000.0
+SFER.MI,balance_sheet,2021-12-31,Current Debt And Capital Lease Obligation,185616000.0
+SFER.MI,balance_sheet,2021-12-31,Current Capital Lease Obligation,110012000.0
+SFER.MI,balance_sheet,2021-12-31,Current Debt,75604000.0
+SFER.MI,balance_sheet,2021-12-31,Pensionand Other Post Retirement Benefit Plans Current,4621000.0
+SFER.MI,balance_sheet,2021-12-31,Payables,245193000.0
+SFER.MI,balance_sheet,2021-12-31,Other Payable,38710000.0
+SFER.MI,balance_sheet,2021-12-31,Total Tax Payable,25732000.0
+SFER.MI,balance_sheet,2021-12-31,Accounts Payable,180751000.0
+SFER.MI,balance_sheet,2021-12-31,Total Assets,1849055000.0
+SFER.MI,balance_sheet,2021-12-31,Total Non Current Assets,884085000.0
+SFER.MI,balance_sheet,2021-12-31,Other Non Current Assets,3817000.0
+SFER.MI,balance_sheet,2021-12-31,Non Current Prepaid Assets,0.0
+SFER.MI,balance_sheet,2021-12-31,Non Current Deferred Taxes Assets,105468000.0
+SFER.MI,balance_sheet,2021-12-31,Investmentin Financial Assets,15659000.0
+SFER.MI,balance_sheet,2021-12-31,Available For Sale Securities,15659000.0
+SFER.MI,balance_sheet,2021-12-31,Investment Properties,30223000.0
+SFER.MI,balance_sheet,2021-12-31,Goodwill And Other Intangible Assets,40102000.0
+SFER.MI,balance_sheet,2021-12-31,Other Intangible Assets,33423000.0
+SFER.MI,balance_sheet,2021-12-31,Goodwill,6679000.0
+SFER.MI,balance_sheet,2021-12-31,Net PPE,686901000.0
+SFER.MI,balance_sheet,2021-12-31,Accumulated Depreciation,-820440000.0
+SFER.MI,balance_sheet,2021-12-31,Gross PPE,1507341000.0
+SFER.MI,balance_sheet,2021-12-31,Construction In Progress,7946000.0
+SFER.MI,balance_sheet,2021-12-31,Other Properties,205501000.0
+SFER.MI,balance_sheet,2021-12-31,Machinery Furniture Equipment,61960000.0
+SFER.MI,balance_sheet,2021-12-31,Buildings And Improvements,1202563000.0
+SFER.MI,balance_sheet,2021-12-31,Land And Improvements,29371000.0
+SFER.MI,balance_sheet,2021-12-31,Properties,0.0
+SFER.MI,balance_sheet,2021-12-31,Current Assets,964970000.0
+SFER.MI,balance_sheet,2021-12-31,Other Current Assets,5224000.0
+SFER.MI,balance_sheet,2021-12-31,Hedging Assets Current,922000.0
+SFER.MI,balance_sheet,2021-12-31,Prepaid Assets,9772000.0
+SFER.MI,balance_sheet,2021-12-31,Inventory,274566000.0
+SFER.MI,balance_sheet,2021-12-31,Finished Goods,237507000.0
+SFER.MI,balance_sheet,2021-12-31,Raw Materials,37059000.0
+SFER.MI,balance_sheet,2021-12-31,Other Receivables,22508000.0
+SFER.MI,balance_sheet,2021-12-31,Taxes Receivable,27512000.0
+SFER.MI,balance_sheet,2021-12-31,Accounts Receivable,112670000.0
+SFER.MI,balance_sheet,2021-12-31,Allowance For Doubtful Accounts Receivable,-3302000.0
+SFER.MI,balance_sheet,2021-12-31,Gross Accounts Receivable,115972000.0
+SFER.MI,balance_sheet,2021-12-31,Cash Cash Equivalents And Short Term Investments,511796000.0
+SFER.MI,balance_sheet,2021-12-31,Cash And Cash Equivalents,511796000.0
+SFER.MI,balance_sheet,2021-12-31,Cash Equivalents,510475000.0
+SFER.MI,balance_sheet,2021-12-31,Cash Financial,1321000.0
+BOSS.DE,balance_sheet,2025-12-31,Treasury Shares Number,1383833.0
+BOSS.DE,balance_sheet,2025-12-31,Ordinary Shares Number,69016167.0
+BOSS.DE,balance_sheet,2025-12-31,Share Issued,70400000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Debt,1182029000.0
+BOSS.DE,balance_sheet,2025-12-31,Tangible Book Value,1282753000.0
+BOSS.DE,balance_sheet,2025-12-31,Invested Capital,1832567000.0
+BOSS.DE,balance_sheet,2025-12-31,Working Capital,720281000.0
+BOSS.DE,balance_sheet,2025-12-31,Net Tangible Assets,1282753000.0
+BOSS.DE,balance_sheet,2025-12-31,Capital Lease Obligations,886895000.0
+BOSS.DE,balance_sheet,2025-12-31,Common Stock Equity,1537433000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Capitalization,1739945000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Equity Gross Minority Interest,1557676000.0
+BOSS.DE,balance_sheet,2025-12-31,Minority Interest,20243000.0
+BOSS.DE,balance_sheet,2025-12-31,Stockholders Equity,1537433000.0
+BOSS.DE,balance_sheet,2025-12-31,Treasury Stock,42363000.0
+BOSS.DE,balance_sheet,2025-12-31,Retained Earnings,1479429000.0
+BOSS.DE,balance_sheet,2025-12-31,Additional Paid In Capital,399000.0
+BOSS.DE,balance_sheet,2025-12-31,Capital Stock,70400000.0
+BOSS.DE,balance_sheet,2025-12-31,Common Stock,70400000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Liabilities Net Minority Interest,2163493000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Non Current Liabilities Net Minority Interest,1020730000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Non Current Liabilities,4517000.0
+BOSS.DE,balance_sheet,2025-12-31,Non Current Pension And Other Postretirement Benefit Plans,0.0
+BOSS.DE,balance_sheet,2025-12-31,Non Current Deferred Taxes Liabilities,35592000.0
+BOSS.DE,balance_sheet,2025-12-31,Long Term Debt And Capital Lease Obligation,890724000.0
+BOSS.DE,balance_sheet,2025-12-31,Long Term Capital Lease Obligation,688212000.0
+BOSS.DE,balance_sheet,2025-12-31,Long Term Debt,202512000.0
+BOSS.DE,balance_sheet,2025-12-31,Long Term Provisions,89897000.0
+BOSS.DE,balance_sheet,2025-12-31,Current Liabilities,1142763000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Current Liabilities,143948000.0
+BOSS.DE,balance_sheet,2025-12-31,Current Debt And Capital Lease Obligation,291305000.0
+BOSS.DE,balance_sheet,2025-12-31,Current Capital Lease Obligation,198683000.0
+BOSS.DE,balance_sheet,2025-12-31,Current Debt,92622000.0
+BOSS.DE,balance_sheet,2025-12-31,Pensionand Other Post Retirement Benefit Plans Current,0.0
+BOSS.DE,balance_sheet,2025-12-31,Current Provisions,76173000.0
+BOSS.DE,balance_sheet,2025-12-31,Payables,630701000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Tax Payable,101639000.0
+BOSS.DE,balance_sheet,2025-12-31,Accounts Payable,529062000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Assets,3721169000.0
+BOSS.DE,balance_sheet,2025-12-31,Total Non Current Assets,1858124000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Non Current Assets,412000.0
+BOSS.DE,balance_sheet,2025-12-31,Non Current Deferred Taxes Assets,128123000.0
+BOSS.DE,balance_sheet,2025-12-31,Investmentin Financial Assets,29454000.0
+BOSS.DE,balance_sheet,2025-12-31,Available For Sale Securities,29454000.0
+BOSS.DE,balance_sheet,2025-12-31,Goodwill And Other Intangible Assets,254680000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Intangible Assets,202566000.0
+BOSS.DE,balance_sheet,2025-12-31,Goodwill,52114000.0
+BOSS.DE,balance_sheet,2025-12-31,Net PPE,1445455000.0
+BOSS.DE,balance_sheet,2025-12-31,Accumulated Depreciation,-1062641000.0
+BOSS.DE,balance_sheet,2025-12-31,Gross PPE,2508096000.0
+BOSS.DE,balance_sheet,2025-12-31,Construction In Progress,111063000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Properties,750196000.0
+BOSS.DE,balance_sheet,2025-12-31,Machinery Furniture Equipment,1240370000.0
+BOSS.DE,balance_sheet,2025-12-31,Buildings And Improvements,49692000.0
+BOSS.DE,balance_sheet,2025-12-31,Land And Improvements,356775000.0
+BOSS.DE,balance_sheet,2025-12-31,Properties,0.0
+BOSS.DE,balance_sheet,2025-12-31,Current Assets,1863044000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Current Assets,107667000.0
+BOSS.DE,balance_sheet,2025-12-31,Inventory,918374000.0
+BOSS.DE,balance_sheet,2025-12-31,Finished Goods,866537000.0
+BOSS.DE,balance_sheet,2025-12-31,Work In Process,9851000.0
+BOSS.DE,balance_sheet,2025-12-31,Raw Materials,41986000.0
+BOSS.DE,balance_sheet,2025-12-31,Taxes Receivable,57240000.0
+BOSS.DE,balance_sheet,2025-12-31,Accounts Receivable,386018000.0
+BOSS.DE,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-27842000.0
+BOSS.DE,balance_sheet,2025-12-31,Gross Accounts Receivable,413860000.0
+BOSS.DE,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,393745000.0
+BOSS.DE,balance_sheet,2025-12-31,Other Short Term Investments,50619000.0
+BOSS.DE,balance_sheet,2025-12-31,Cash And Cash Equivalents,343126000.0
+BOSS.DE,balance_sheet,2025-12-31,Cash Financial,343127000.0
+BOSS.DE,balance_sheet,2024-12-31,Treasury Shares Number,1383833.0
+BOSS.DE,balance_sheet,2024-12-31,Ordinary Shares Number,69016167.0
+BOSS.DE,balance_sheet,2024-12-31,Share Issued,70400000.0
+BOSS.DE,balance_sheet,2024-12-31,Net Debt,78407000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Debt,1248211000.0
+BOSS.DE,balance_sheet,2024-12-31,Tangible Book Value,1196729000.0
+BOSS.DE,balance_sheet,2024-12-31,Invested Capital,1716001000.0
+BOSS.DE,balance_sheet,2024-12-31,Working Capital,648449000.0
+BOSS.DE,balance_sheet,2024-12-31,Net Tangible Assets,1196729000.0
+BOSS.DE,balance_sheet,2024-12-31,Capital Lease Obligations,959182000.0
+BOSS.DE,balance_sheet,2024-12-31,Common Stock Equity,1426972000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Capitalization,1703380000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Equity Gross Minority Interest,1450111000.0
+BOSS.DE,balance_sheet,2024-12-31,Minority Interest,23139000.0
+BOSS.DE,balance_sheet,2024-12-31,Stockholders Equity,1426972000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Equity Interest,1000.0
+BOSS.DE,balance_sheet,2024-12-31,Treasury Stock,42363000.0
+BOSS.DE,balance_sheet,2024-12-31,Retained Earnings,1320218000.0
+BOSS.DE,balance_sheet,2024-12-31,Additional Paid In Capital,6677000.0
+BOSS.DE,balance_sheet,2024-12-31,Capital Stock,70400000.0
+BOSS.DE,balance_sheet,2024-12-31,Common Stock,70400000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Liabilities Net Minority Interest,2332310000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Non Current Liabilities Net Minority Interest,1128179000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Non Current Liabilities,2515000.0
+BOSS.DE,balance_sheet,2024-12-31,Non Current Pension And Other Postretirement Benefit Plans,0.0
+BOSS.DE,balance_sheet,2024-12-31,Non Current Deferred Taxes Liabilities,18450000.0
+BOSS.DE,balance_sheet,2024-12-31,Long Term Debt And Capital Lease Obligation,1007369000.0
+BOSS.DE,balance_sheet,2024-12-31,Long Term Capital Lease Obligation,730961000.0
+BOSS.DE,balance_sheet,2024-12-31,Long Term Debt,276408000.0
+BOSS.DE,balance_sheet,2024-12-31,Long Term Provisions,99845000.0
+BOSS.DE,balance_sheet,2024-12-31,Current Liabilities,1204131000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Current Liabilities,96849000.0
+BOSS.DE,balance_sheet,2024-12-31,Current Debt And Capital Lease Obligation,240842000.0
+BOSS.DE,balance_sheet,2024-12-31,Current Capital Lease Obligation,228221000.0
+BOSS.DE,balance_sheet,2024-12-31,Current Debt,12621000.0
+BOSS.DE,balance_sheet,2024-12-31,Pensionand Other Post Retirement Benefit Plans Current,64519000.0
+BOSS.DE,balance_sheet,2024-12-31,Current Provisions,68430000.0
+BOSS.DE,balance_sheet,2024-12-31,Payables,725702000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Tax Payable,82962000.0
+BOSS.DE,balance_sheet,2024-12-31,Accounts Payable,642740000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Assets,3782421000.0
+BOSS.DE,balance_sheet,2024-12-31,Total Non Current Assets,1929841000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Non Current Assets,605000.0
+BOSS.DE,balance_sheet,2024-12-31,Non Current Deferred Taxes Assets,123856000.0
+BOSS.DE,balance_sheet,2024-12-31,Investmentin Financial Assets,30801000.0
+BOSS.DE,balance_sheet,2024-12-31,Available For Sale Securities,30801000.0
+BOSS.DE,balance_sheet,2024-12-31,Goodwill And Other Intangible Assets,230243000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Intangible Assets,174704000.0
+BOSS.DE,balance_sheet,2024-12-31,Goodwill,55539000.0
+BOSS.DE,balance_sheet,2024-12-31,Net PPE,1544336000.0
+BOSS.DE,balance_sheet,2024-12-31,Accumulated Depreciation,-1052209000.0
+BOSS.DE,balance_sheet,2024-12-31,Gross PPE,2596545000.0
+BOSS.DE,balance_sheet,2024-12-31,Construction In Progress,101041000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Properties,811634000.0
+BOSS.DE,balance_sheet,2024-12-31,Machinery Furniture Equipment,1300825000.0
+BOSS.DE,balance_sheet,2024-12-31,Buildings And Improvements,65575000.0
+BOSS.DE,balance_sheet,2024-12-31,Land And Improvements,317470000.0
+BOSS.DE,balance_sheet,2024-12-31,Properties,0.0
+BOSS.DE,balance_sheet,2024-12-31,Current Assets,1852580000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Current Assets,112319000.0
+BOSS.DE,balance_sheet,2024-12-31,Assets Held For Sale Current,0.0
+BOSS.DE,balance_sheet,2024-12-31,Inventory,1071561000.0
+BOSS.DE,balance_sheet,2024-12-31,Finished Goods,996439000.0
+BOSS.DE,balance_sheet,2024-12-31,Work In Process,10075000.0
+BOSS.DE,balance_sheet,2024-12-31,Raw Materials,65047000.0
+BOSS.DE,balance_sheet,2024-12-31,Taxes Receivable,46831000.0
+BOSS.DE,balance_sheet,2024-12-31,Accounts Receivable,361906000.0
+BOSS.DE,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-22885000.0
+BOSS.DE,balance_sheet,2024-12-31,Gross Accounts Receivable,384791000.0
+BOSS.DE,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,259963000.0
+BOSS.DE,balance_sheet,2024-12-31,Other Short Term Investments,49341000.0
+BOSS.DE,balance_sheet,2024-12-31,Cash And Cash Equivalents,210622000.0
+BOSS.DE,balance_sheet,2024-12-31,Cash Financial,210622000.0
+BOSS.DE,balance_sheet,2023-12-31,Treasury Shares Number,1383833.0
+BOSS.DE,balance_sheet,2023-12-31,Ordinary Shares Number,69016167.0
+BOSS.DE,balance_sheet,2023-12-31,Share Issued,70400000.0
+BOSS.DE,balance_sheet,2023-12-31,Net Debt,212550000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Debt,1124121000.0
+BOSS.DE,balance_sheet,2023-12-31,Tangible Book Value,1096893000.0
+BOSS.DE,balance_sheet,2023-12-31,Invested Capital,1623540000.0
+BOSS.DE,balance_sheet,2023-12-31,Working Capital,700929000.0
+BOSS.DE,balance_sheet,2023-12-31,Net Tangible Assets,1096893000.0
+BOSS.DE,balance_sheet,2023-12-31,Capital Lease Obligations,793244000.0
+BOSS.DE,balance_sheet,2023-12-31,Common Stock Equity,1292663000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Capitalization,1609091000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Equity Gross Minority Interest,1310777000.0
+BOSS.DE,balance_sheet,2023-12-31,Minority Interest,18114000.0
+BOSS.DE,balance_sheet,2023-12-31,Stockholders Equity,1292663000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Equity Interest,1000.0
+BOSS.DE,balance_sheet,2023-12-31,Treasury Stock,42363000.0
+BOSS.DE,balance_sheet,2023-12-31,Retained Earnings,1200765000.0
+BOSS.DE,balance_sheet,2023-12-31,Additional Paid In Capital,4107000.0
+BOSS.DE,balance_sheet,2023-12-31,Capital Stock,70400000.0
+BOSS.DE,balance_sheet,2023-12-31,Common Stock,70400000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Liabilities Net Minority Interest,2160890000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Non Current Liabilities Net Minority Interest,1070746000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Non Current Liabilities,2314000.0
+BOSS.DE,balance_sheet,2023-12-31,Non Current Pension And Other Postretirement Benefit Plans,0.0
+BOSS.DE,balance_sheet,2023-12-31,Non Current Deferred Taxes Liabilities,18969000.0
+BOSS.DE,balance_sheet,2023-12-31,Long Term Debt And Capital Lease Obligation,940662000.0
+BOSS.DE,balance_sheet,2023-12-31,Long Term Capital Lease Obligation,624234000.0
+BOSS.DE,balance_sheet,2023-12-31,Long Term Debt,316428000.0
+BOSS.DE,balance_sheet,2023-12-31,Long Term Provisions,108801000.0
+BOSS.DE,balance_sheet,2023-12-31,Current Liabilities,1090144000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Current Liabilities,85218000.0
+BOSS.DE,balance_sheet,2023-12-31,Current Debt And Capital Lease Obligation,183459000.0
+BOSS.DE,balance_sheet,2023-12-31,Current Capital Lease Obligation,169010000.0
+BOSS.DE,balance_sheet,2023-12-31,Current Debt,14449000.0
+BOSS.DE,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,56114000.0
+BOSS.DE,balance_sheet,2023-12-31,Current Provisions,92448000.0
+BOSS.DE,balance_sheet,2023-12-31,Payables,644273000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Tax Payable,72451000.0
+BOSS.DE,balance_sheet,2023-12-31,Accounts Payable,571822000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Assets,3471667000.0
+BOSS.DE,balance_sheet,2023-12-31,Total Non Current Assets,1680594000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Non Current Assets,2058000.0
+BOSS.DE,balance_sheet,2023-12-31,Non Current Deferred Taxes Assets,130496000.0
+BOSS.DE,balance_sheet,2023-12-31,Investmentin Financial Assets,26637000.0
+BOSS.DE,balance_sheet,2023-12-31,Available For Sale Securities,26637000.0
+BOSS.DE,balance_sheet,2023-12-31,Goodwill And Other Intangible Assets,195770000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Intangible Assets,141018000.0
+BOSS.DE,balance_sheet,2023-12-31,Goodwill,54752000.0
+BOSS.DE,balance_sheet,2023-12-31,Net PPE,1325633000.0
+BOSS.DE,balance_sheet,2023-12-31,Accumulated Depreciation,-958069000.0
+BOSS.DE,balance_sheet,2023-12-31,Gross PPE,2283702000.0
+BOSS.DE,balance_sheet,2023-12-31,Construction In Progress,59434000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Properties,686147000.0
+BOSS.DE,balance_sheet,2023-12-31,Machinery Furniture Equipment,1186932000.0
+BOSS.DE,balance_sheet,2023-12-31,Buildings And Improvements,35954000.0
+BOSS.DE,balance_sheet,2023-12-31,Land And Improvements,315235000.0
+BOSS.DE,balance_sheet,2023-12-31,Properties,0.0
+BOSS.DE,balance_sheet,2023-12-31,Current Assets,1791073000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Current Assets,93573000.0
+BOSS.DE,balance_sheet,2023-12-31,Assets Held For Sale Current,26936000.0
+BOSS.DE,balance_sheet,2023-12-31,Inventory,1066044000.0
+BOSS.DE,balance_sheet,2023-12-31,Finished Goods,993776000.0
+BOSS.DE,balance_sheet,2023-12-31,Work In Process,9372000.0
+BOSS.DE,balance_sheet,2023-12-31,Raw Materials,62896000.0
+BOSS.DE,balance_sheet,2023-12-31,Taxes Receivable,56441000.0
+BOSS.DE,balance_sheet,2023-12-31,Accounts Receivable,375620000.0
+BOSS.DE,balance_sheet,2023-12-31,Allowance For Doubtful Accounts Receivable,-17595000.0
+BOSS.DE,balance_sheet,2023-12-31,Gross Accounts Receivable,393215000.0
+BOSS.DE,balance_sheet,2023-12-31,Cash Cash Equivalents And Short Term Investments,172459000.0
+BOSS.DE,balance_sheet,2023-12-31,Other Short Term Investments,54132000.0
+BOSS.DE,balance_sheet,2023-12-31,Cash And Cash Equivalents,118327000.0
+BOSS.DE,balance_sheet,2023-12-31,Cash Financial,118327000.0
+BOSS.DE,balance_sheet,2022-12-31,Treasury Shares Number,1383833.0
+BOSS.DE,balance_sheet,2022-12-31,Ordinary Shares Number,69016167.0
+BOSS.DE,balance_sheet,2022-12-31,Share Issued,70400000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Debt,914098000.0
+BOSS.DE,balance_sheet,2022-12-31,Tangible Book Value,939962000.0
+BOSS.DE,balance_sheet,2022-12-31,Invested Capital,1226461000.0
+BOSS.DE,balance_sheet,2022-12-31,Working Capital,398374000.0
+BOSS.DE,balance_sheet,2022-12-31,Net Tangible Assets,939962000.0
+BOSS.DE,balance_sheet,2022-12-31,Capital Lease Obligations,804218000.0
+BOSS.DE,balance_sheet,2022-12-31,Common Stock Equity,1116581000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Capitalization,1205113000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Equity Gross Minority Interest,1135433000.0
+BOSS.DE,balance_sheet,2022-12-31,Minority Interest,18852000.0
+BOSS.DE,balance_sheet,2022-12-31,Stockholders Equity,1116581000.0
+BOSS.DE,balance_sheet,2022-12-31,Treasury Stock,42363000.0
+BOSS.DE,balance_sheet,2022-12-31,Retained Earnings,1022142000.0
+BOSS.DE,balance_sheet,2022-12-31,Additional Paid In Capital,1582000.0
+BOSS.DE,balance_sheet,2022-12-31,Capital Stock,70400000.0
+BOSS.DE,balance_sheet,2022-12-31,Common Stock,70400000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Liabilities Net Minority Interest,1991169000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Non Current Liabilities Net Minority Interest,797756000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Non Current Liabilities,1703000.0
+BOSS.DE,balance_sheet,2022-12-31,Non Current Pension And Other Postretirement Benefit Plans,0.0
+BOSS.DE,balance_sheet,2022-12-31,Non Current Deferred Taxes Liabilities,10337000.0
+BOSS.DE,balance_sheet,2022-12-31,Long Term Debt And Capital Lease Obligation,693460000.0
+BOSS.DE,balance_sheet,2022-12-31,Long Term Capital Lease Obligation,604928000.0
+BOSS.DE,balance_sheet,2022-12-31,Long Term Debt,88532000.0
+BOSS.DE,balance_sheet,2022-12-31,Long Term Provisions,91895000.0
+BOSS.DE,balance_sheet,2022-12-31,Current Liabilities,1193413000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Current Liabilities,86290000.0
+BOSS.DE,balance_sheet,2022-12-31,Current Debt And Capital Lease Obligation,220638000.0
+BOSS.DE,balance_sheet,2022-12-31,Current Capital Lease Obligation,199290000.0
+BOSS.DE,balance_sheet,2022-12-31,Current Debt,21348000.0
+BOSS.DE,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,36810000.0
+BOSS.DE,balance_sheet,2022-12-31,Current Provisions,122647000.0
+BOSS.DE,balance_sheet,2022-12-31,Payables,715569000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Tax Payable,98459000.0
+BOSS.DE,balance_sheet,2022-12-31,Accounts Payable,617110000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Assets,3126602000.0
+BOSS.DE,balance_sheet,2022-12-31,Total Non Current Assets,1534815000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Non Current Assets,1707000.0
+BOSS.DE,balance_sheet,2022-12-31,Non Current Deferred Taxes Assets,150636000.0
+BOSS.DE,balance_sheet,2022-12-31,Investmentin Financial Assets,26474000.0
+BOSS.DE,balance_sheet,2022-12-31,Available For Sale Securities,26474000.0
+BOSS.DE,balance_sheet,2022-12-31,Financial Assets Designatedas Fair Value Through Profitor Loss Total,4430000.0
+BOSS.DE,balance_sheet,2022-12-31,Goodwill And Other Intangible Assets,176619000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Intangible Assets,120045000.0
+BOSS.DE,balance_sheet,2022-12-31,Goodwill,56574000.0
+BOSS.DE,balance_sheet,2022-12-31,Net PPE,1179379000.0
+BOSS.DE,balance_sheet,2022-12-31,Accumulated Depreciation,-954662000.0
+BOSS.DE,balance_sheet,2022-12-31,Gross PPE,2134041000.0
+BOSS.DE,balance_sheet,2022-12-31,Construction In Progress,27125000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Properties,668553000.0
+BOSS.DE,balance_sheet,2022-12-31,Machinery Furniture Equipment,1099239000.0
+BOSS.DE,balance_sheet,2022-12-31,Buildings And Improvements,39645000.0
+BOSS.DE,balance_sheet,2022-12-31,Land And Improvements,299479000.0
+BOSS.DE,balance_sheet,2022-12-31,Properties,0.0
+BOSS.DE,balance_sheet,2022-12-31,Current Assets,1591787000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Current Assets,105445000.0
+BOSS.DE,balance_sheet,2022-12-31,Assets Held For Sale Current,0.0
+BOSS.DE,balance_sheet,2022-12-31,Inventory,973560000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Inventories,1000.0
+BOSS.DE,balance_sheet,2022-12-31,Finished Goods,893489000.0
+BOSS.DE,balance_sheet,2022-12-31,Work In Process,9659000.0
+BOSS.DE,balance_sheet,2022-12-31,Raw Materials,70411000.0
+BOSS.DE,balance_sheet,2022-12-31,Taxes Receivable,67608000.0
+BOSS.DE,balance_sheet,2022-12-31,Accounts Receivable,256430000.0
+BOSS.DE,balance_sheet,2022-12-31,Allowance For Doubtful Accounts Receivable,-16228000.0
+BOSS.DE,balance_sheet,2022-12-31,Gross Accounts Receivable,272658000.0
+BOSS.DE,balance_sheet,2022-12-31,Cash Cash Equivalents And Short Term Investments,188744000.0
+BOSS.DE,balance_sheet,2022-12-31,Other Short Term Investments,41341000.0
+BOSS.DE,balance_sheet,2022-12-31,Cash And Cash Equivalents,147403000.0
+BOSS.DE,balance_sheet,2022-12-31,Cash Financial,147402000.0
