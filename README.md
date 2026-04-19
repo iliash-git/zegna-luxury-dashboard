@@ -140,7 +140,7 @@ Follow **[docs/POWERBI_BUILD_GUIDE.md](docs/POWERBI_BUILD_GUIDE.md)** — full s
 
 ## 👤 About
 
-Built by **[Your Name]** as a Power BI portfolio project. I'm Head of Finance at Estro (ecommerce fashion), learning Power BI to deepen my analytics toolkit.
+Built by Ilisa Habbasov as a Power BI portfolio project. I'm Head of Finance at Estro (ecommerce fashion), learning Power BI to deepen my analytics toolkit.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE/).
 
