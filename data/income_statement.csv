@@ -272,7 +272,6 @@ BC.MI,income_statement,2024-12-31,Total Operating Income As Reported,211671000.0
 BC.MI,income_statement,2024-12-31,Diluted Average Shares,67996107.0
 BC.MI,income_statement,2024-12-31,Basic Average Shares,67996107.0
 BC.MI,income_statement,2024-12-31,Diluted EPS,1.75713
-BC.MI,income_statement,2024-12-31,Basic EPS,1.75713
 BC.MI,income_statement,2024-12-31,Diluted NI Availto Com Stockholders,119478000.0
 BC.MI,income_statement,2024-12-31,Net Income Common Stockholders,119478000.0
 BC.MI,income_statement,2024-12-31,Otherunder Preferred Stock Dividend,0.0
@@ -292,7 +291,7 @@ BC.MI,income_statement,2024-12-31,Interest Expense Non Operating,28961000.0
 BC.MI,income_statement,2024-12-31,Interest Income Non Operating,1603000.0
 BC.MI,income_statement,2024-12-31,Operating Income,219660000.0
 BC.MI,income_statement,2024-12-31,Operating Expense,959497000.0
-BC.MI,income_statement,2024-12-31,Other Operating Expenses,390600000.0
+BC.MI,income_statement,2024-12-31,Other Operating Expenses,398069000.0
 BC.MI,income_statement,2024-12-31,Depreciation And Amortization In Income Statement,153004000.0
 BC.MI,income_statement,2024-12-31,Amortization,6572000.0
 BC.MI,income_statement,2024-12-31,Depreciation Income Statement,146432000.0
@@ -304,7 +303,7 @@ BC.MI,income_statement,2024-12-31,Gross Profit,1179157000.0
 BC.MI,income_statement,2024-12-31,Cost Of Revenue,99383000.0
 BC.MI,income_statement,2024-12-31,Total Revenue,1278540000.0
 BC.MI,income_statement,2024-12-31,Operating Revenue,1278540000.0
-BC.MI,income_statement,2023-12-31,Tax Effect Of Unusual Items,-5668288.0
+BC.MI,income_statement,2023-12-31,Tax Effect Of Unusual Items,-5669258.167427
 BC.MI,income_statement,2023-12-31,Tax Rate For Calcs,0.2857
 BC.MI,income_statement,2023-12-31,Normalized EBITDA,350398000.0
 BC.MI,income_statement,2023-12-31,Total Unusual Items,-19840000.0
@@ -317,12 +316,12 @@ BC.MI,income_statement,2023-12-31,EBIT,191713000.0
 BC.MI,income_statement,2023-12-31,Net Interest Income,-17926000.0
 BC.MI,income_statement,2023-12-31,Interest Expense,18372000.0
 BC.MI,income_statement,2023-12-31,Interest Income,749000.0
-BC.MI,income_statement,2023-12-31,Normalized Income,128788712.0
+BC.MI,income_statement,2023-12-31,Normalized Income,128787741.832573
 BC.MI,income_statement,2023-12-31,Net Income From Continuing And Discontinued Operation,114617000.0
 BC.MI,income_statement,2023-12-31,Total Expenses,936435000.0
 BC.MI,income_statement,2023-12-31,Rent Expense Supplemental,50598000.0
 BC.MI,income_statement,2023-12-31,Total Operating Income As Reported,187406000.0
-BC.MI,income_statement,2023-12-31,Diluted Average Shares,67991292.0
+BC.MI,income_statement,2023-12-31,Diluted Average Shares,67991109.0
 BC.MI,income_statement,2023-12-31,Basic Average Shares,67991292.0
 BC.MI,income_statement,2023-12-31,Diluted EPS,1.68576
 BC.MI,income_statement,2023-12-31,Basic EPS,1.68576
@@ -392,13 +391,13 @@ BC.MI,income_statement,2022-12-31,Special Income Charges,-12203000.0
 BC.MI,income_statement,2022-12-31,Write Off,8486000.0
 BC.MI,income_statement,2022-12-31,Impairment Of Capital Assets,8486000.0
 BC.MI,income_statement,2022-12-31,Restructuring And Mergern Acquisition,3717000.0
-BC.MI,income_statement,2022-12-31,Net Non Operating Interest Income Expense,-15041000.0
+BC.MI,income_statement,2022-12-31,Net Non Operating Interest Income Expense,-14800000.0
 BC.MI,income_statement,2022-12-31,Total Other Finance Cost,1094000.0
 BC.MI,income_statement,2022-12-31,Interest Expense Non Operating,14140000.0
 BC.MI,income_statement,2022-12-31,Interest Income Non Operating,193000.0
 BC.MI,income_statement,2022-12-31,Operating Income,146615000.0
 BC.MI,income_statement,2022-12-31,Operating Expense,675208000.0
-BC.MI,income_statement,2022-12-31,Other Operating Expenses,274171000.0
+BC.MI,income_statement,2022-12-31,Other Operating Expenses,281325000.0
 BC.MI,income_statement,2022-12-31,Depreciation And Amortization In Income Statement,131945000.0
 BC.MI,income_statement,2022-12-31,Amortization,6636000.0
 BC.MI,income_statement,2022-12-31,Depreciation Income Statement,125309000.0
@@ -457,8 +456,8 @@ MONC.MI,income_statement,2025-12-31,Operating Revenue,3132128000.0
 MONC.MI,income_statement,2024-12-31,Tax Effect Of Unusual Items,2227497.749528
 MONC.MI,income_statement,2024-12-31,Tax Rate For Calcs,0.297
 MONC.MI,income_statement,2024-12-31,Normalized EBITDA,1242930000.0
-MONC.MI,income_statement,2024-12-31,Total Unusual Items,7500000.0
-MONC.MI,income_statement,2024-12-31,Total Unusual Items Excluding Goodwill,7500000.0
+MONC.MI,income_statement,2024-12-31,Total Unusual Items,-7500000.0
+MONC.MI,income_statement,2024-12-31,Total Unusual Items Excluding Goodwill,-7500000.0
 MONC.MI,income_statement,2024-12-31,Net Income From Continuing Operation Net Minority Interest,639596000.0
 MONC.MI,income_statement,2024-12-31,Reconciled Depreciation,306844000.0
 MONC.MI,income_statement,2024-12-31,Reconciled Cost Of Revenue,682367000.0
@@ -469,7 +468,7 @@ MONC.MI,income_statement,2024-12-31,Interest Expense,33777000.0
 MONC.MI,income_statement,2024-12-31,Interest Income,28965000.0
 MONC.MI,income_statement,2024-12-31,Normalized Income,634323497.749528
 MONC.MI,income_statement,2024-12-31,Net Income From Continuing And Discontinued Operation,639596000.0
-MONC.MI,income_statement,2024-12-31,Total Expenses,2200100000.0
+MONC.MI,income_statement,2024-12-31,Total Expenses,2185100000.0
 MONC.MI,income_statement,2024-12-31,Rent Expense Supplemental,283400000.0
 MONC.MI,income_statement,2024-12-31,Total Operating Income As Reported,916324000.0
 MONC.MI,income_statement,2024-12-31,Diluted Average Shares,270606444.0
@@ -485,16 +484,16 @@ MONC.MI,income_statement,2024-12-31,Net Income Including Noncontrolling Interest
 MONC.MI,income_statement,2024-12-31,Net Income Continuous Operations,639596000.0
 MONC.MI,income_statement,2024-12-31,Tax Provision,270213000.0
 MONC.MI,income_statement,2024-12-31,Pretax Income,909809000.0
-MONC.MI,income_statement,2024-12-31,Special Income Charges,7500000.0
-MONC.MI,income_statement,2024-12-31,Other Special Charges,-7500000.0
+MONC.MI,income_statement,2024-12-31,Special Income Charges,-7500000.0
+MONC.MI,income_statement,2024-12-31,Other Special Charges,7500000.0
 MONC.MI,income_statement,2024-12-31,Net Non Operating Interest Income Expense,-4812000.0
 MONC.MI,income_statement,2024-12-31,Interest Expense Non Operating,33777000.0
 MONC.MI,income_statement,2024-12-31,Interest Income Non Operating,28965000.0
 MONC.MI,income_statement,2024-12-31,Operating Income,908824000.0
-MONC.MI,income_statement,2024-12-31,Operating Expense,1517733000.0
+MONC.MI,income_statement,2024-12-31,Operating Expense,1502733000.0
 MONC.MI,income_statement,2024-12-31,Depreciation And Amortization In Income Statement,253500000.0
 MONC.MI,income_statement,2024-12-31,Depreciation Income Statement,253500000.0
-MONC.MI,income_statement,2024-12-31,Selling General And Administration,704433000.0
+MONC.MI,income_statement,2024-12-31,Selling General And Administration,729033000.0
 MONC.MI,income_statement,2024-12-31,Selling And Marketing Expense,384877000.0
 MONC.MI,income_statement,2024-12-31,General And Administrative Expense,319556000.0
 MONC.MI,income_statement,2024-12-31,Rent And Landing Fees,283400000.0
@@ -537,9 +536,8 @@ MONC.MI,income_statement,2023-12-31,Interest Income Non Operating,11341000.0
 MONC.MI,income_statement,2023-12-31,Operating Income,893839000.0
 MONC.MI,income_statement,2023-12-31,Operating Expense,1406991000.0
 MONC.MI,income_statement,2023-12-31,Depreciation And Amortization In Income Statement,242500000.0
-MONC.MI,income_statement,2023-12-31,Amortization,80200000.0
 MONC.MI,income_statement,2023-12-31,Depreciation Income Statement,242500000.0
-MONC.MI,income_statement,2023-12-31,Selling General And Administration,659391000.0
+MONC.MI,income_statement,2023-12-31,Selling General And Administration,693191000.0
 MONC.MI,income_statement,2023-12-31,Selling And Marketing Expense,361960000.0
 MONC.MI,income_statement,2023-12-31,General And Administrative Expense,297431000.0
 MONC.MI,income_statement,2023-12-31,Rent And Landing Fees,247300000.0
@@ -582,12 +580,9 @@ MONC.MI,income_statement,2022-12-31,Interest Income Non Operating,3537000.0
 MONC.MI,income_statement,2022-12-31,Operating Income,774547000.0
 MONC.MI,income_statement,2022-12-31,Operating Expense,1213296000.0
 MONC.MI,income_statement,2022-12-31,Depreciation And Amortization In Income Statement,224500000.0
-MONC.MI,income_statement,2022-12-31,Amortization,77900000.0
-MONC.MI,income_statement,2022-12-31,Depreciation Income Statement,146600000.0
-MONC.MI,income_statement,2022-12-31,Selling General And Administration,579196000.0
-MONC.MI,income_statement,2022-12-31,Selling And Marketing Expense,326029000.0
-MONC.MI,income_statement,2022-12-31,General And Administrative Expense,253167000.0
-MONC.MI,income_statement,2022-12-31,Rent And Landing Fees,195400000.0
+MONC.MI,income_statement,2022-12-31,Selling General And Administration,1213296000.0
+MONC.MI,income_statement,2022-12-31,Selling And Marketing Expense,929329000.0
+MONC.MI,income_statement,2022-12-31,General And Administrative Expense,283967000.0
 MONC.MI,income_statement,2022-12-31,Gross Profit,1987843000.0
 MONC.MI,income_statement,2022-12-31,Cost Of Revenue,615047000.0
 MONC.MI,income_statement,2022-12-31,Total Revenue,2602890000.0
@@ -763,6 +758,55 @@ MONC.MI,income_statement,2022-12-31,Operating Revenue,2602890000.0
 1913.HK,income_statement,2022-12-31,Cost Of Revenue,888580000.0
 1913.HK,income_statement,2022-12-31,Total Revenue,4200674000.0
 1913.HK,income_statement,2022-12-31,Operating Revenue,4200674000.0
+SFER.MI,income_statement,2025-12-31,Tax Effect Of Unusual Items,602268.742857
+SFER.MI,income_statement,2025-12-31,Tax Rate For Calcs,0.063752
+SFER.MI,income_statement,2025-12-31,Normalized EBITDA,104305000.0
+SFER.MI,income_statement,2025-12-31,Total Unusual Items,9447000.0
+SFER.MI,income_statement,2025-12-31,Total Unusual Items Excluding Goodwill,9447000.0
+SFER.MI,income_statement,2025-12-31,Net Income From Continuing Operation Net Minority Interest,-49431000.0
+SFER.MI,income_statement,2025-12-31,Reconciled Depreciation,141397000.0
+SFER.MI,income_statement,2025-12-31,Reconciled Cost Of Revenue,311531000.0
+SFER.MI,income_statement,2025-12-31,EBITDA,113752000.0
+SFER.MI,income_statement,2025-12-31,EBIT,-27645000.0
+SFER.MI,income_statement,2025-12-31,Net Interest Income,-19550000.0
+SFER.MI,income_statement,2025-12-31,Interest Expense,24855000.0
+SFER.MI,income_statement,2025-12-31,Interest Income,6774000.0
+SFER.MI,income_statement,2025-12-31,Normalized Income,-58275731.257143
+SFER.MI,income_statement,2025-12-31,Net Income From Continuing And Discontinued Operation,-49431000.0
+SFER.MI,income_statement,2025-12-31,Total Expenses,1007931000.0
+SFER.MI,income_statement,2025-12-31,Total Operating Income As Reported,-21427000.0
+SFER.MI,income_statement,2025-12-31,Diluted Average Shares,165629069.0
+SFER.MI,income_statement,2025-12-31,Basic Average Shares,165629069.0
+SFER.MI,income_statement,2025-12-31,Diluted EPS,-0.298
+SFER.MI,income_statement,2025-12-31,Basic EPS,-0.298
+SFER.MI,income_statement,2025-12-31,Diluted NI Availto Com Stockholders,-49431000.0
+SFER.MI,income_statement,2025-12-31,Net Income Common Stockholders,-49431000.0
+SFER.MI,income_statement,2025-12-31,Otherunder Preferred Stock Dividend,0.0
+SFER.MI,income_statement,2025-12-31,Net Income,-49431000.0
+SFER.MI,income_statement,2025-12-31,Minority Interests,-278000.0
+SFER.MI,income_statement,2025-12-31,Net Income Including Noncontrolling Interests,-49153000.0
+SFER.MI,income_statement,2025-12-31,Net Income Continuous Operations,-49153000.0
+SFER.MI,income_statement,2025-12-31,Tax Provision,-3347000.0
+SFER.MI,income_statement,2025-12-31,Pretax Income,-52500000.0
+SFER.MI,income_statement,2025-12-31,Other Non Operating Income Expenses,18257000.0
+SFER.MI,income_statement,2025-12-31,Special Income Charges,-8284000.0
+SFER.MI,income_statement,2025-12-31,Other Special Charges,608000.0
+SFER.MI,income_statement,2025-12-31,Write Off,7676000.0
+SFER.MI,income_statement,2025-12-31,Net Non Operating Interest Income Expense,-19550000.0
+SFER.MI,income_statement,2025-12-31,Total Other Finance Cost,1469000.0
+SFER.MI,income_statement,2025-12-31,Interest Expense Non Operating,24855000.0
+SFER.MI,income_statement,2025-12-31,Interest Income Non Operating,6774000.0
+SFER.MI,income_statement,2025-12-31,Operating Income,-31400000.0
+SFER.MI,income_statement,2025-12-31,Operating Expense,696400000.0
+SFER.MI,income_statement,2025-12-31,Other Operating Expenses,21375000.0
+SFER.MI,income_statement,2025-12-31,Research And Development,42000000.0
+SFER.MI,income_statement,2025-12-31,Selling General And Administration,633025000.0
+SFER.MI,income_statement,2025-12-31,Selling And Marketing Expense,508210000.0
+SFER.MI,income_statement,2025-12-31,General And Administrative Expense,124815000.0
+SFER.MI,income_statement,2025-12-31,Gross Profit,665000000.0
+SFER.MI,income_statement,2025-12-31,Cost Of Revenue,311531000.0
+SFER.MI,income_statement,2025-12-31,Total Revenue,976531000.0
+SFER.MI,income_statement,2025-12-31,Operating Revenue,976531000.0
 SFER.MI,income_statement,2024-12-31,Tax Effect Of Unusual Items,-1557192.002858
 SFER.MI,income_statement,2024-12-31,Tax Rate For Calcs,0.099342
 SFER.MI,income_statement,2024-12-31,Normalized EBITDA,146175000.0
@@ -914,59 +958,6 @@ SFER.MI,income_statement,2022-12-31,Gross Profit,901115000.0
 SFER.MI,income_statement,2022-12-31,Cost Of Revenue,350693000.0
 SFER.MI,income_statement,2022-12-31,Total Revenue,1251808000.0
 SFER.MI,income_statement,2022-12-31,Operating Revenue,1251808000.0
-SFER.MI,income_statement,2021-12-31,Tax Effect Of Unusual Items,-5221736.0
-SFER.MI,income_statement,2021-12-31,Tax Rate For Calcs,0.296
-SFER.MI,income_statement,2021-12-31,Normalized EBITDA,318793000.0
-SFER.MI,income_statement,2021-12-31,Total Unusual Items,-17641000.0
-SFER.MI,income_statement,2021-12-31,Total Unusual Items Excluding Goodwill,-17641000.0
-SFER.MI,income_statement,2021-12-31,Net Income From Continuing Operation Net Minority Interest,83839000.0
-SFER.MI,income_statement,2021-12-31,Reconciled Depreciation,163172000.0
-SFER.MI,income_statement,2021-12-31,Reconciled Cost Of Revenue,354576000.0
-SFER.MI,income_statement,2021-12-31,EBITDA,301152000.0
-SFER.MI,income_statement,2021-12-31,EBIT,137980000.0
-SFER.MI,income_statement,2021-12-31,Net Interest Income,-16843000.0
-SFER.MI,income_statement,2021-12-31,Interest Expense,15362000.0
-SFER.MI,income_statement,2021-12-31,Interest Income,1263000.0
-SFER.MI,income_statement,2021-12-31,Normalized Income,96258264.0
-SFER.MI,income_statement,2021-12-31,Net Income From Continuing And Discontinued Operation,78647000.0
-SFER.MI,income_statement,2021-12-31,Total Expenses,1017319000.0
-SFER.MI,income_statement,2021-12-31,Total Operating Income As Reported,143480000.0
-SFER.MI,income_statement,2021-12-31,Diluted Average Shares,168585596.0
-SFER.MI,income_statement,2021-12-31,Basic Average Shares,168585596.0
-SFER.MI,income_statement,2021-12-31,Diluted EPS,0.467
-SFER.MI,income_statement,2021-12-31,Basic EPS,0.467
-SFER.MI,income_statement,2021-12-31,Diluted NI Availto Com Stockholders,78647000.0
-SFER.MI,income_statement,2021-12-31,Net Income Common Stockholders,78647000.0
-SFER.MI,income_statement,2021-12-31,Otherunder Preferred Stock Dividend,0.0
-SFER.MI,income_statement,2021-12-31,Net Income,78647000.0
-SFER.MI,income_statement,2021-12-31,Minority Interests,-2490000.0
-SFER.MI,income_statement,2021-12-31,Net Income Including Noncontrolling Interests,81137000.0
-SFER.MI,income_statement,2021-12-31,Net Income Discontinuous Operations,-5192000.0
-SFER.MI,income_statement,2021-12-31,Net Income Continuous Operations,86329000.0
-SFER.MI,income_statement,2021-12-31,Tax Provision,36289000.0
-SFER.MI,income_statement,2021-12-31,Pretax Income,122618000.0
-SFER.MI,income_statement,2021-12-31,Other Non Operating Income Expenses,26636000.0
-SFER.MI,income_statement,2021-12-31,Special Income Charges,-1357000.0
-SFER.MI,income_statement,2021-12-31,Other Special Charges,685000.0
-SFER.MI,income_statement,2021-12-31,Write Off,672000.0
-SFER.MI,income_statement,2021-12-31,Impairment Of Capital Assets,0.0
-SFER.MI,income_statement,2021-12-31,Net Non Operating Interest Income Expense,-16843000.0
-SFER.MI,income_statement,2021-12-31,Total Other Finance Cost,2744000.0
-SFER.MI,income_statement,2021-12-31,Interest Expense Non Operating,15362000.0
-SFER.MI,income_statement,2021-12-31,Interest Income Non Operating,1263000.0
-SFER.MI,income_statement,2021-12-31,Operating Income,118201000.0
-SFER.MI,income_statement,2021-12-31,Operating Expense,662743000.0
-SFER.MI,income_statement,2021-12-31,Other Operating Expenses,21308000.0
-SFER.MI,income_statement,2021-12-31,Depreciation And Amortization In Income Statement,157944000.0
-SFER.MI,income_statement,2021-12-31,Depreciation Income Statement,157944000.0
-SFER.MI,income_statement,2021-12-31,Research And Development,40908000.0
-SFER.MI,income_statement,2021-12-31,Selling General And Administration,259042000.0
-SFER.MI,income_statement,2021-12-31,Selling And Marketing Expense,207145000.0
-SFER.MI,income_statement,2021-12-31,General And Administrative Expense,51897000.0
-SFER.MI,income_statement,2021-12-31,Gross Profit,780944000.0
-SFER.MI,income_statement,2021-12-31,Cost Of Revenue,354576000.0
-SFER.MI,income_statement,2021-12-31,Total Revenue,1135520000.0
-SFER.MI,income_statement,2021-12-31,Operating Revenue,1135520000.0
 BOSS.DE,income_statement,2025-12-31,Tax Effect Of Unusual Items,-8508750.0
 BOSS.DE,income_statement,2025-12-31,Tax Rate For Calcs,0.25
 BOSS.DE,income_statement,2025-12-31,Normalized EBITDA,822883000.0

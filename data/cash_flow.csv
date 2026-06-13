@@ -748,6 +748,39 @@ MONC.MI,cash_flow,2022-12-31,Net Income From Continuing Operations,606706000.0
 1913.HK,cash_flow,2022-12-31,Depreciation And Amortization,662424000.0
 1913.HK,cash_flow,2022-12-31,Depreciation,662424000.0
 1913.HK,cash_flow,2022-12-31,Net Income From Continuing Operations,710975000.0
+SFER.MI,cash_flow,2025-12-31,Free Cash Flow,63736000.0
+SFER.MI,cash_flow,2025-12-31,Capital Expenditure,-45583000.0
+SFER.MI,cash_flow,2025-12-31,End Cash Position,201739000.0
+SFER.MI,cash_flow,2025-12-31,Beginning Cash Position,237085000.0
+SFER.MI,cash_flow,2025-12-31,Effect Of Exchange Rate Changes,17218000.0
+SFER.MI,cash_flow,2025-12-31,Changes In Cash,-52564000.0
+SFER.MI,cash_flow,2025-12-31,Financing Cash Flow,-125819000.0
+SFER.MI,cash_flow,2025-12-31,Common Stock Dividend Paid,0.0
+SFER.MI,cash_flow,2025-12-31,Net Issuance Payments Of Debt,-3023000.0
+SFER.MI,cash_flow,2025-12-31,Net Long Term Debt Issuance,-3023000.0
+SFER.MI,cash_flow,2025-12-31,Investing Cash Flow,-36064000.0
+SFER.MI,cash_flow,2025-12-31,Net Investment Purchase And Sale,9506000.0
+SFER.MI,cash_flow,2025-12-31,Net Intangibles Purchase And Sale,-6001000.0
+SFER.MI,cash_flow,2025-12-31,Purchase Of Intangibles,-6001000.0
+SFER.MI,cash_flow,2025-12-31,Net PPE Purchase And Sale,-39569000.0
+SFER.MI,cash_flow,2025-12-31,Sale Of PPE,13000.0
+SFER.MI,cash_flow,2025-12-31,Purchase Of PPE,-39582000.0
+SFER.MI,cash_flow,2025-12-31,Operating Cash Flow,109319000.0
+SFER.MI,cash_flow,2025-12-31,Taxes Refund Paid,-14659000.0
+SFER.MI,cash_flow,2025-12-31,Interest Received Cfo,5571000.0
+SFER.MI,cash_flow,2025-12-31,Interest Paid Cfo,-25055000.0
+SFER.MI,cash_flow,2025-12-31,Change In Working Capital,-13657000.0
+SFER.MI,cash_flow,2025-12-31,Change In Other Current Assets,-9982000.0
+SFER.MI,cash_flow,2025-12-31,Change In Payable,-33056000.0
+SFER.MI,cash_flow,2025-12-31,Change In Inventory,20686000.0
+SFER.MI,cash_flow,2025-12-31,Change In Receivables,8695000.0
+SFER.MI,cash_flow,2025-12-31,Other Non Cash Items,12907000.0
+SFER.MI,cash_flow,2025-12-31,Deferred Tax,-3347000.0
+SFER.MI,cash_flow,2025-12-31,Depreciation And Amortization,141397000.0
+SFER.MI,cash_flow,2025-12-31,Depreciation,141397000.0
+SFER.MI,cash_flow,2025-12-31,Pension And Employee Benefit Expense,402000.0
+SFER.MI,cash_flow,2025-12-31,Gain Loss On Sale Of PPE,608000.0
+SFER.MI,cash_flow,2025-12-31,Net Income From Continuing Operations,-49153000.0
 SFER.MI,cash_flow,2024-12-31,Free Cash Flow,99886000.0
 SFER.MI,cash_flow,2024-12-31,Capital Expenditure,-70738000.0
 SFER.MI,cash_flow,2024-12-31,End Cash Position,237085000.0
@@ -860,46 +893,6 @@ SFER.MI,cash_flow,2022-12-31,Depreciation,170962000.0
 SFER.MI,cash_flow,2022-12-31,Pension And Employee Benefit Expense,564000.0
 SFER.MI,cash_flow,2022-12-31,Gain Loss On Sale Of PPE,1334000.0
 SFER.MI,cash_flow,2022-12-31,Net Income From Continuing Operations,65352000.0
-SFER.MI,cash_flow,2021-12-31,Free Cash Flow,331642000.0
-SFER.MI,cash_flow,2021-12-31,Repurchase Of Capital Stock,-12756000.0
-SFER.MI,cash_flow,2021-12-31,Capital Expenditure,-44489000.0
-SFER.MI,cash_flow,2021-12-31,End Cash Position,511796000.0
-SFER.MI,cash_flow,2021-12-31,Beginning Cash Position,327880000.0
-SFER.MI,cash_flow,2021-12-31,Effect Of Exchange Rate Changes,-1037000.0
-SFER.MI,cash_flow,2021-12-31,Changes In Cash,184953000.0
-SFER.MI,cash_flow,2021-12-31,Financing Cash Flow,-160286000.0
-SFER.MI,cash_flow,2021-12-31,Net Other Financing Charges,291000.0
-SFER.MI,cash_flow,2021-12-31,Common Stock Dividend Paid,0.0
-SFER.MI,cash_flow,2021-12-31,Net Common Stock Issuance,-12756000.0
-SFER.MI,cash_flow,2021-12-31,Common Stock Payments,-12756000.0
-SFER.MI,cash_flow,2021-12-31,Net Issuance Payments Of Debt,-47152000.0
-SFER.MI,cash_flow,2021-12-31,Net Long Term Debt Issuance,-47152000.0
-SFER.MI,cash_flow,2021-12-31,Investing Cash Flow,-30892000.0
-SFER.MI,cash_flow,2021-12-31,Net Investment Purchase And Sale,0.0
-SFER.MI,cash_flow,2021-12-31,Net Business Purchase And Sale,13499000.0
-SFER.MI,cash_flow,2021-12-31,Sale Of Business,17128000.0
-SFER.MI,cash_flow,2021-12-31,Purchase Of Business,-3629000.0
-SFER.MI,cash_flow,2021-12-31,Net Intangibles Purchase And Sale,-7689000.0
-SFER.MI,cash_flow,2021-12-31,Purchase Of Intangibles,-7689000.0
-SFER.MI,cash_flow,2021-12-31,Net PPE Purchase And Sale,-36702000.0
-SFER.MI,cash_flow,2021-12-31,Sale Of PPE,98000.0
-SFER.MI,cash_flow,2021-12-31,Purchase Of PPE,-36800000.0
-SFER.MI,cash_flow,2021-12-31,Operating Cash Flow,376131000.0
-SFER.MI,cash_flow,2021-12-31,Taxes Refund Paid,-22709000.0
-SFER.MI,cash_flow,2021-12-31,Interest Received Cfo,841000.0
-SFER.MI,cash_flow,2021-12-31,Interest Paid Cfo,-15240000.0
-SFER.MI,cash_flow,2021-12-31,Change In Working Capital,128091000.0
-SFER.MI,cash_flow,2021-12-31,Change In Other Current Assets,1293000.0
-SFER.MI,cash_flow,2021-12-31,Change In Payable,45228000.0
-SFER.MI,cash_flow,2021-12-31,Change In Inventory,71618000.0
-SFER.MI,cash_flow,2021-12-31,Change In Receivables,9952000.0
-SFER.MI,cash_flow,2021-12-31,Other Non Cash Items,8610000.0
-SFER.MI,cash_flow,2021-12-31,Deferred Tax,36451000.0
-SFER.MI,cash_flow,2021-12-31,Depreciation And Amortization,163172000.0
-SFER.MI,cash_flow,2021-12-31,Depreciation,163172000.0
-SFER.MI,cash_flow,2021-12-31,Pension And Employee Benefit Expense,681000.0
-SFER.MI,cash_flow,2021-12-31,Gain Loss On Sale Of PPE,707000.0
-SFER.MI,cash_flow,2021-12-31,Net Income From Continuing Operations,81137000.0
 BOSS.DE,cash_flow,2025-12-31,Free Cash Flow,499220000.0
 BOSS.DE,cash_flow,2025-12-31,Capital Expenditure,-192606000.0
 BOSS.DE,cash_flow,2025-12-31,End Cash Position,343126000.0
