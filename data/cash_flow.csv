@@ -1,4 +1,237 @@
 ticker,statement,fiscal_date,metric,value
+ZGN,cash_flow,2025-12-31,Free Cash Flow,232663000.0
+ZGN,cash_flow,2025-12-31,Repayment Of Debt,-335495000.0
+ZGN,cash_flow,2025-12-31,Issuance Of Debt,49937000.0
+ZGN,cash_flow,2025-12-31,Issuance Of Capital Stock,107216000.0
+ZGN,cash_flow,2025-12-31,Capital Expenditure,-102896000.0
+ZGN,cash_flow,2025-12-31,End Cash Position,220121000.0
+ZGN,cash_flow,2025-12-31,Beginning Cash Position,219130000.0
+ZGN,cash_flow,2025-12-31,Effect Of Exchange Rate Changes,-9599000.0
+ZGN,cash_flow,2025-12-31,Changes In Cash,10590000.0
+ZGN,cash_flow,2025-12-31,Financing Cash Flow,-215054000.0
+ZGN,cash_flow,2025-12-31,Cash Flow From Continuing Financing Activities,-215054000.0
+ZGN,cash_flow,2025-12-31,Net Other Financing Charges,-6221000.0
+ZGN,cash_flow,2025-12-31,Proceeds From Stock Option Exercised,0.0
+ZGN,cash_flow,2025-12-31,Cash Dividends Paid,-30491000.0
+ZGN,cash_flow,2025-12-31,Net Common Stock Issuance,107216000.0
+ZGN,cash_flow,2025-12-31,Common Stock Issuance,107216000.0
+ZGN,cash_flow,2025-12-31,Net Issuance Payments Of Debt,-285558000.0
+ZGN,cash_flow,2025-12-31,Net Long Term Debt Issuance,-285558000.0
+ZGN,cash_flow,2025-12-31,Long Term Debt Payments,-335495000.0
+ZGN,cash_flow,2025-12-31,Long Term Debt Issuance,49937000.0
+ZGN,cash_flow,2025-12-31,Investing Cash Flow,-109915000.0
+ZGN,cash_flow,2025-12-31,Cash Flow From Continuing Investing Activities,-109915000.0
+ZGN,cash_flow,2025-12-31,Net Other Investing Changes,-3796000.0
+ZGN,cash_flow,2025-12-31,Net Investment Purchase And Sale,1171000.0
+ZGN,cash_flow,2025-12-31,Sale Of Investment,16306000.0
+ZGN,cash_flow,2025-12-31,Purchase Of Investment,-15135000.0
+ZGN,cash_flow,2025-12-31,Net Business Purchase And Sale,-4394000.0
+ZGN,cash_flow,2025-12-31,Purchase Of Business,-4394000.0
+ZGN,cash_flow,2025-12-31,Net Intangibles Purchase And Sale,-22392000.0
+ZGN,cash_flow,2025-12-31,Purchase Of Intangibles,-22392000.0
+ZGN,cash_flow,2025-12-31,Net PPE Purchase And Sale,-80504000.0
+ZGN,cash_flow,2025-12-31,Purchase Of PPE,-80504000.0
+ZGN,cash_flow,2025-12-31,Operating Cash Flow,335559000.0
+ZGN,cash_flow,2025-12-31,Cash Flow From Continuing Operating Activities,335559000.0
+ZGN,cash_flow,2025-12-31,Taxes Refund Paid,-37450000.0
+ZGN,cash_flow,2025-12-31,Interest Paid Cfo,-39590000.0
+ZGN,cash_flow,2025-12-31,Change In Working Capital,-45459000.0
+ZGN,cash_flow,2025-12-31,Change In Other Working Capital,-42971000.0
+ZGN,cash_flow,2025-12-31,Change In Payables And Accrued Expense,24166000.0
+ZGN,cash_flow,2025-12-31,Change In Payable,24166000.0
+ZGN,cash_flow,2025-12-31,Change In Account Payable,24166000.0
+ZGN,cash_flow,2025-12-31,Change In Inventory,-23606000.0
+ZGN,cash_flow,2025-12-31,Change In Receivables,-3048000.0
+ZGN,cash_flow,2025-12-31,Changes In Account Receivables,-3048000.0
+ZGN,cash_flow,2025-12-31,Other Non Cash Items,56700000.0
+ZGN,cash_flow,2025-12-31,Asset Impairment Charge,10917000.0
+ZGN,cash_flow,2025-12-31,Deferred Tax,30555000.0
+ZGN,cash_flow,2025-12-31,Deferred Income Tax,30555000.0
+ZGN,cash_flow,2025-12-31,Depreciation Amortization Depletion,259923000.0
+ZGN,cash_flow,2025-12-31,Depreciation And Amortization,259923000.0
+ZGN,cash_flow,2025-12-31,Depreciation,259923000.0
+ZGN,cash_flow,2025-12-31,Operating Gains Losses,-9524000.0
+ZGN,cash_flow,2025-12-31,Earnings Losses From Equity Investments,-524000.0
+ZGN,cash_flow,2025-12-31,Net Foreign Currency Exchange Gain Loss,-9000000.0
+ZGN,cash_flow,2025-12-31,Net Income From Continuing Operations,109487000.0
+ZGN,cash_flow,2024-12-31,Free Cash Flow,153600000.0
+ZGN,cash_flow,2024-12-31,Repayment Of Debt,-434330000.0
+ZGN,cash_flow,2024-12-31,Issuance Of Debt,259720000.0
+ZGN,cash_flow,2024-12-31,Issuance Of Capital Stock,0.0
+ZGN,cash_flow,2024-12-31,Capital Expenditure,-125529000.0
+ZGN,cash_flow,2024-12-31,End Cash Position,219130000.0
+ZGN,cash_flow,2024-12-31,Beginning Cash Position,296279000.0
+ZGN,cash_flow,2024-12-31,Effect Of Exchange Rate Changes,4270000.0
+ZGN,cash_flow,2024-12-31,Changes In Cash,-81419000.0
+ZGN,cash_flow,2024-12-31,Financing Cash Flow,-234534000.0
+ZGN,cash_flow,2024-12-31,Cash Flow From Continuing Financing Activities,-234534000.0
+ZGN,cash_flow,2024-12-31,Net Other Financing Charges,-29634000.0
+ZGN,cash_flow,2024-12-31,Proceeds From Stock Option Exercised,0.0
+ZGN,cash_flow,2024-12-31,Cash Dividends Paid,-30290000.0
+ZGN,cash_flow,2024-12-31,Net Common Stock Issuance,0.0
+ZGN,cash_flow,2024-12-31,Common Stock Issuance,0.0
+ZGN,cash_flow,2024-12-31,Net Issuance Payments Of Debt,-174610000.0
+ZGN,cash_flow,2024-12-31,Net Long Term Debt Issuance,-174610000.0
+ZGN,cash_flow,2024-12-31,Long Term Debt Payments,-434330000.0
+ZGN,cash_flow,2024-12-31,Long Term Debt Issuance,259720000.0
+ZGN,cash_flow,2024-12-31,Investing Cash Flow,-126014000.0
+ZGN,cash_flow,2024-12-31,Cash Flow From Continuing Investing Activities,-126014000.0
+ZGN,cash_flow,2024-12-31,Net Other Investing Changes,-3840000.0
+ZGN,cash_flow,2024-12-31,Net Investment Purchase And Sale,22662000.0
+ZGN,cash_flow,2024-12-31,Sale Of Investment,49003000.0
+ZGN,cash_flow,2024-12-31,Purchase Of Investment,-26341000.0
+ZGN,cash_flow,2024-12-31,Net Business Purchase And Sale,-19307000.0
+ZGN,cash_flow,2024-12-31,Purchase Of Business,-19307000.0
+ZGN,cash_flow,2024-12-31,Net Intangibles Purchase And Sale,-25425000.0
+ZGN,cash_flow,2024-12-31,Purchase Of Intangibles,-25425000.0
+ZGN,cash_flow,2024-12-31,Net PPE Purchase And Sale,-100104000.0
+ZGN,cash_flow,2024-12-31,Purchase Of PPE,-100104000.0
+ZGN,cash_flow,2024-12-31,Operating Cash Flow,279129000.0
+ZGN,cash_flow,2024-12-31,Cash Flow From Continuing Operating Activities,279129000.0
+ZGN,cash_flow,2024-12-31,Taxes Refund Paid,-52772000.0
+ZGN,cash_flow,2024-12-31,Interest Paid Cfo,-38140000.0
+ZGN,cash_flow,2024-12-31,Change In Working Capital,-117939000.0
+ZGN,cash_flow,2024-12-31,Change In Other Working Capital,-86373000.0
+ZGN,cash_flow,2024-12-31,Change In Payables And Accrued Expense,-13098000.0
+ZGN,cash_flow,2024-12-31,Change In Payable,-13098000.0
+ZGN,cash_flow,2024-12-31,Change In Account Payable,-13098000.0
+ZGN,cash_flow,2024-12-31,Change In Inventory,-5896000.0
+ZGN,cash_flow,2024-12-31,Change In Receivables,-12572000.0
+ZGN,cash_flow,2024-12-31,Changes In Account Receivables,-12572000.0
+ZGN,cash_flow,2024-12-31,Other Non Cash Items,77220000.0
+ZGN,cash_flow,2024-12-31,Asset Impairment Charge,33925000.0
+ZGN,cash_flow,2024-12-31,Deferred Tax,39747000.0
+ZGN,cash_flow,2024-12-31,Deferred Income Tax,39747000.0
+ZGN,cash_flow,2024-12-31,Depreciation Amortization Depletion,235950000.0
+ZGN,cash_flow,2024-12-31,Depreciation And Amortization,235950000.0
+ZGN,cash_flow,2024-12-31,Depreciation,235950000.0
+ZGN,cash_flow,2024-12-31,Operating Gains Losses,10277000.0
+ZGN,cash_flow,2024-12-31,Earnings Losses From Equity Investments,-1061000.0
+ZGN,cash_flow,2024-12-31,Net Foreign Currency Exchange Gain Loss,11338000.0
+ZGN,cash_flow,2024-12-31,Gain Loss On Sale Of PPE,0.0
+ZGN,cash_flow,2024-12-31,Net Income From Continuing Operations,90861000.0
+ZGN,cash_flow,2023-12-31,Free Cash Flow,197505000.0
+ZGN,cash_flow,2023-12-31,Repurchase Of Capital Stock,0.0
+ZGN,cash_flow,2023-12-31,Repayment Of Debt,-431882000.0
+ZGN,cash_flow,2023-12-31,Issuance Of Debt,204424000.0
+ZGN,cash_flow,2023-12-31,Issuance Of Capital Stock,3654000.0
+ZGN,cash_flow,2023-12-31,Capital Expenditure,-77877000.0
+ZGN,cash_flow,2023-12-31,End Cash Position,296279000.0
+ZGN,cash_flow,2023-12-31,Beginning Cash Position,254321000.0
+ZGN,cash_flow,2023-12-31,Effect Of Exchange Rate Changes,-4716000.0
+ZGN,cash_flow,2023-12-31,Changes In Cash,46674000.0
+ZGN,cash_flow,2023-12-31,Financing Cash Flow,-250494000.0
+ZGN,cash_flow,2023-12-31,Cash Flow From Continuing Financing Activities,-250494000.0
+ZGN,cash_flow,2023-12-31,Net Other Financing Charges,-6068000.0
+ZGN,cash_flow,2023-12-31,Proceeds From Stock Option Exercised,4409000.0
+ZGN,cash_flow,2023-12-31,Cash Dividends Paid,-25031000.0
+ZGN,cash_flow,2023-12-31,Net Common Stock Issuance,3654000.0
+ZGN,cash_flow,2023-12-31,Common Stock Payments,0.0
+ZGN,cash_flow,2023-12-31,Common Stock Issuance,3654000.0
+ZGN,cash_flow,2023-12-31,Net Issuance Payments Of Debt,-227458000.0
+ZGN,cash_flow,2023-12-31,Net Long Term Debt Issuance,-227458000.0
+ZGN,cash_flow,2023-12-31,Long Term Debt Payments,-431882000.0
+ZGN,cash_flow,2023-12-31,Long Term Debt Issuance,204424000.0
+ZGN,cash_flow,2023-12-31,Investing Cash Flow,21786000.0
+ZGN,cash_flow,2023-12-31,Cash Flow From Continuing Investing Activities,21786000.0
+ZGN,cash_flow,2023-12-31,Net Other Investing Changes,-278000.0
+ZGN,cash_flow,2023-12-31,Net Investment Purchase And Sale,233361000.0
+ZGN,cash_flow,2023-12-31,Sale Of Investment,270317000.0
+ZGN,cash_flow,2023-12-31,Purchase Of Investment,-36956000.0
+ZGN,cash_flow,2023-12-31,Net Business Purchase And Sale,-133420000.0
+ZGN,cash_flow,2023-12-31,Purchase Of Business,-133420000.0
+ZGN,cash_flow,2023-12-31,Net Intangibles Purchase And Sale,-20843000.0
+ZGN,cash_flow,2023-12-31,Purchase Of Intangibles,-20843000.0
+ZGN,cash_flow,2023-12-31,Net PPE Purchase And Sale,-57034000.0
+ZGN,cash_flow,2023-12-31,Sale Of PPE,0.0
+ZGN,cash_flow,2023-12-31,Purchase Of PPE,-57034000.0
+ZGN,cash_flow,2023-12-31,Operating Cash Flow,275382000.0
+ZGN,cash_flow,2023-12-31,Cash Flow From Continuing Operating Activities,275382000.0
+ZGN,cash_flow,2023-12-31,Taxes Refund Paid,-53988000.0
+ZGN,cash_flow,2023-12-31,Interest Paid Cfo,-29166000.0
+ZGN,cash_flow,2023-12-31,Change In Working Capital,-141887000.0
+ZGN,cash_flow,2023-12-31,Change In Other Working Capital,-29765000.0
+ZGN,cash_flow,2023-12-31,Change In Payables And Accrued Expense,11670000.0
+ZGN,cash_flow,2023-12-31,Change In Payable,11670000.0
+ZGN,cash_flow,2023-12-31,Change In Account Payable,11670000.0
+ZGN,cash_flow,2023-12-31,Change In Inventory,-72770000.0
+ZGN,cash_flow,2023-12-31,Change In Receivables,-51022000.0
+ZGN,cash_flow,2023-12-31,Changes In Account Receivables,-51022000.0
+ZGN,cash_flow,2023-12-31,Other Non Cash Items,97480000.0
+ZGN,cash_flow,2023-12-31,Asset Impairment Charge,30682000.0
+ZGN,cash_flow,2023-12-31,Deferred Tax,33433000.0
+ZGN,cash_flow,2023-12-31,Deferred Income Tax,33433000.0
+ZGN,cash_flow,2023-12-31,Depreciation Amortization Depletion,194952000.0
+ZGN,cash_flow,2023-12-31,Depreciation And Amortization,194952000.0
+ZGN,cash_flow,2023-12-31,Amortization Cash Flow,19153000.0
+ZGN,cash_flow,2023-12-31,Amortization Of Intangibles,19153000.0
+ZGN,cash_flow,2023-12-31,Depreciation,194952000.0
+ZGN,cash_flow,2023-12-31,Operating Gains Losses,8215000.0
+ZGN,cash_flow,2023-12-31,Earnings Losses From Equity Investments,2953000.0
+ZGN,cash_flow,2023-12-31,Net Foreign Currency Exchange Gain Loss,5262000.0
+ZGN,cash_flow,2023-12-31,Gain Loss On Sale Of PPE,0.0
+ZGN,cash_flow,2023-12-31,Net Income From Continuing Operations,135661000.0
+ZGN,cash_flow,2022-12-31,Free Cash Flow,73099000.0
+ZGN,cash_flow,2022-12-31,Repurchase Of Capital Stock,0.0
+ZGN,cash_flow,2022-12-31,Repayment Of Debt,-281352000.0
+ZGN,cash_flow,2022-12-31,Issuance Of Debt,0.0
+ZGN,cash_flow,2022-12-31,Issuance Of Capital Stock,14313000.0
+ZGN,cash_flow,2022-12-31,Capital Expenditure,-73299000.0
+ZGN,cash_flow,2022-12-31,End Cash Position,254321000.0
+ZGN,cash_flow,2022-12-31,Beginning Cash Position,459791000.0
+ZGN,cash_flow,2022-12-31,Effect Of Exchange Rate Changes,2464000.0
+ZGN,cash_flow,2022-12-31,Changes In Cash,-207934000.0
+ZGN,cash_flow,2022-12-31,Financing Cash Flow,-296997000.0
+ZGN,cash_flow,2022-12-31,Cash Flow From Continuing Financing Activities,-296997000.0
+ZGN,cash_flow,2022-12-31,Net Other Financing Charges,-8106000.0
+ZGN,cash_flow,2022-12-31,Proceeds From Stock Option Exercised,0.0
+ZGN,cash_flow,2022-12-31,Cash Dividends Paid,-21852000.0
+ZGN,cash_flow,2022-12-31,Net Common Stock Issuance,14313000.0
+ZGN,cash_flow,2022-12-31,Common Stock Payments,0.0
+ZGN,cash_flow,2022-12-31,Common Stock Issuance,14313000.0
+ZGN,cash_flow,2022-12-31,Net Issuance Payments Of Debt,-281352000.0
+ZGN,cash_flow,2022-12-31,Net Long Term Debt Issuance,-281352000.0
+ZGN,cash_flow,2022-12-31,Long Term Debt Payments,-281352000.0
+ZGN,cash_flow,2022-12-31,Long Term Debt Issuance,0.0
+ZGN,cash_flow,2022-12-31,Investing Cash Flow,-57335000.0
+ZGN,cash_flow,2022-12-31,Cash Flow From Continuing Investing Activities,-57335000.0
+ZGN,cash_flow,2022-12-31,Net Other Investing Changes,2474000.0
+ZGN,cash_flow,2022-12-31,Net Investment Purchase And Sale,14075000.0
+ZGN,cash_flow,2022-12-31,Sale Of Investment,46487000.0
+ZGN,cash_flow,2022-12-31,Purchase Of Investment,-32412000.0
+ZGN,cash_flow,2022-12-31,Net Business Purchase And Sale,-585000.0
+ZGN,cash_flow,2022-12-31,Purchase Of Business,-585000.0
+ZGN,cash_flow,2022-12-31,Net Intangibles Purchase And Sale,-24185000.0
+ZGN,cash_flow,2022-12-31,Purchase Of Intangibles,-24185000.0
+ZGN,cash_flow,2022-12-31,Net PPE Purchase And Sale,-49114000.0
+ZGN,cash_flow,2022-12-31,Sale Of PPE,0.0
+ZGN,cash_flow,2022-12-31,Purchase Of PPE,-49114000.0
+ZGN,cash_flow,2022-12-31,Operating Cash Flow,146398000.0
+ZGN,cash_flow,2022-12-31,Cash Flow From Continuing Operating Activities,146398000.0
+ZGN,cash_flow,2022-12-31,Taxes Refund Paid,-49258000.0
+ZGN,cash_flow,2022-12-31,Interest Paid Cfo,-24938000.0
+ZGN,cash_flow,2022-12-31,Change In Working Capital,-151218000.0
+ZGN,cash_flow,2022-12-31,Change In Other Working Capital,-75994000.0
+ZGN,cash_flow,2022-12-31,Change In Payables And Accrued Expense,43511000.0
+ZGN,cash_flow,2022-12-31,Change In Payable,43511000.0
+ZGN,cash_flow,2022-12-31,Change In Account Payable,43511000.0
+ZGN,cash_flow,2022-12-31,Change In Inventory,-103112000.0
+ZGN,cash_flow,2022-12-31,Change In Receivables,-15623000.0
+ZGN,cash_flow,2022-12-31,Changes In Account Receivables,-15623000.0
+ZGN,cash_flow,2022-12-31,Other Non Cash Items,64089000.0
+ZGN,cash_flow,2022-12-31,Asset Impairment Charge,28575000.0
+ZGN,cash_flow,2022-12-31,Deferred Tax,35802000.0
+ZGN,cash_flow,2022-12-31,Deferred Income Tax,35802000.0
+ZGN,cash_flow,2022-12-31,Depreciation Amortization Depletion,173521000.0
+ZGN,cash_flow,2022-12-31,Depreciation And Amortization,173521000.0
+ZGN,cash_flow,2022-12-31,Amortization Cash Flow,12383000.0
+ZGN,cash_flow,2022-12-31,Amortization Of Intangibles,12383000.0
+ZGN,cash_flow,2022-12-31,Depreciation,173521000.0
+ZGN,cash_flow,2022-12-31,Operating Gains Losses,4546000.0
+ZGN,cash_flow,2022-12-31,Earnings Losses From Equity Investments,-2199000.0
+ZGN,cash_flow,2022-12-31,Net Foreign Currency Exchange Gain Loss,7869000.0
+ZGN,cash_flow,2022-12-31,Gain Loss On Sale Of PPE,-1124000.0
+ZGN,cash_flow,2022-12-31,Net Income From Continuing Operations,65279000.0
 BC.MI,cash_flow,2025-12-31,Free Cash Flow,100921000.0
 BC.MI,cash_flow,2025-12-31,Repurchase Of Capital Stock,-7973000.0
 BC.MI,cash_flow,2025-12-31,Repayment Of Debt,-87687000.0
