@@ -471,7 +471,7 @@ BC.MI,balance_sheet,2024-12-31,Current Capital Lease Obligation,106134000.0
 BC.MI,balance_sheet,2024-12-31,Current Debt,124676000.0
 BC.MI,balance_sheet,2024-12-31,Pensionand Other Post Retirement Benefit Plans Current,8244000.0
 BC.MI,balance_sheet,2024-12-31,Payables,222280000.0
-BC.MI,balance_sheet,2024-12-31,Other Payable,40673000.0
+BC.MI,balance_sheet,2024-12-31,Other Payable,32429000.0
 BC.MI,balance_sheet,2024-12-31,Total Tax Payable,20634000.0
 BC.MI,balance_sheet,2024-12-31,Accounts Payable,169217000.0
 BC.MI,balance_sheet,2024-12-31,Total Assets,1744893000.0
@@ -547,7 +547,7 @@ BC.MI,balance_sheet,2023-12-31,Current Capital Lease Obligation,97498000.0
 BC.MI,balance_sheet,2023-12-31,Current Debt,86943000.0
 BC.MI,balance_sheet,2023-12-31,Pensionand Other Post Retirement Benefit Plans Current,7154000.0
 BC.MI,balance_sheet,2023-12-31,Payables,218964000.0
-BC.MI,balance_sheet,2023-12-31,Other Payable,32789000.0
+BC.MI,balance_sheet,2023-12-31,Other Payable,25635000.0
 BC.MI,balance_sheet,2023-12-31,Total Tax Payable,27085000.0
 BC.MI,balance_sheet,2023-12-31,Accounts Payable,166244000.0
 BC.MI,balance_sheet,2023-12-31,Total Assets,1379880000.0
@@ -622,7 +622,7 @@ BC.MI,balance_sheet,2022-12-31,Current Capital Lease Obligation,90066000.0
 BC.MI,balance_sheet,2022-12-31,Current Debt,75006000.0
 BC.MI,balance_sheet,2022-12-31,Pensionand Other Post Retirement Benefit Plans Current,5715000.0
 BC.MI,balance_sheet,2022-12-31,Payables,203863000.0
-BC.MI,balance_sheet,2022-12-31,Other Payable,27931000.0
+BC.MI,balance_sheet,2022-12-31,Other Payable,22216000.0
 BC.MI,balance_sheet,2022-12-31,Total Tax Payable,44607000.0
 BC.MI,balance_sheet,2022-12-31,Accounts Payable,137040000.0
 BC.MI,balance_sheet,2022-12-31,Total Assets,1322988000.0
@@ -732,8 +732,8 @@ MONC.MI,balance_sheet,2025-12-31,Taxes Receivable,8028000.0
 MONC.MI,balance_sheet,2025-12-31,Accounts Receivable,292133000.0
 MONC.MI,balance_sheet,2025-12-31,Allowance For Doubtful Accounts Receivable,-15325000.0
 MONC.MI,balance_sheet,2025-12-31,Gross Accounts Receivable,307458000.0
-MONC.MI,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,1246277000.0
-MONC.MI,balance_sheet,2025-12-31,Other Short Term Investments,20000000.0
+MONC.MI,balance_sheet,2025-12-31,Cash Cash Equivalents And Short Term Investments,1461277000.0
+MONC.MI,balance_sheet,2025-12-31,Other Short Term Investments,235000000.0
 MONC.MI,balance_sheet,2025-12-31,Cash And Cash Equivalents,1226277000.0
 MONC.MI,balance_sheet,2024-12-31,Treasury Shares Number,4199510.0
 MONC.MI,balance_sheet,2024-12-31,Ordinary Shares Number,270606444.0
@@ -804,8 +804,8 @@ MONC.MI,balance_sheet,2024-12-31,Taxes Receivable,12207000.0
 MONC.MI,balance_sheet,2024-12-31,Accounts Receivable,326382000.0
 MONC.MI,balance_sheet,2024-12-31,Allowance For Doubtful Accounts Receivable,-15400000.0
 MONC.MI,balance_sheet,2024-12-31,Gross Accounts Receivable,341782000.0
-MONC.MI,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,1257378000.0
-MONC.MI,balance_sheet,2024-12-31,Other Short Term Investments,69400000.0
+MONC.MI,balance_sheet,2024-12-31,Cash Cash Equivalents And Short Term Investments,1337378000.0
+MONC.MI,balance_sheet,2024-12-31,Other Short Term Investments,149400000.0
 MONC.MI,balance_sheet,2024-12-31,Cash And Cash Equivalents,1187978000.0
 MONC.MI,balance_sheet,2023-12-31,Treasury Shares Number,4490875.0
 MONC.MI,balance_sheet,2023-12-31,Ordinary Shares Number,270136798.0
