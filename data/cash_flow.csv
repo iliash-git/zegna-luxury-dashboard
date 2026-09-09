@@ -1,6 +1,6 @@
 ticker,statement,fiscal_date,metric,value
 ZGN,cash_flow,2025-12-31,Free Cash Flow,232663000.0
-ZGN,cash_flow,2025-12-31,Repayment Of Debt,-335495000.0
+ZGN,cash_flow,2025-12-31,Repayment Of Debt,-326409000.0
 ZGN,cash_flow,2025-12-31,Issuance Of Debt,49937000.0
 ZGN,cash_flow,2025-12-31,Issuance Of Capital Stock,107216000.0
 ZGN,cash_flow,2025-12-31,Capital Expenditure,-102896000.0
@@ -10,14 +10,14 @@ ZGN,cash_flow,2025-12-31,Effect Of Exchange Rate Changes,-9599000.0
 ZGN,cash_flow,2025-12-31,Changes In Cash,10590000.0
 ZGN,cash_flow,2025-12-31,Financing Cash Flow,-215054000.0
 ZGN,cash_flow,2025-12-31,Cash Flow From Continuing Financing Activities,-215054000.0
-ZGN,cash_flow,2025-12-31,Net Other Financing Charges,-6221000.0
+ZGN,cash_flow,2025-12-31,Net Other Financing Charges,-15307000.0
 ZGN,cash_flow,2025-12-31,Proceeds From Stock Option Exercised,0.0
 ZGN,cash_flow,2025-12-31,Cash Dividends Paid,-30491000.0
 ZGN,cash_flow,2025-12-31,Net Common Stock Issuance,107216000.0
 ZGN,cash_flow,2025-12-31,Common Stock Issuance,107216000.0
-ZGN,cash_flow,2025-12-31,Net Issuance Payments Of Debt,-285558000.0
-ZGN,cash_flow,2025-12-31,Net Long Term Debt Issuance,-285558000.0
-ZGN,cash_flow,2025-12-31,Long Term Debt Payments,-335495000.0
+ZGN,cash_flow,2025-12-31,Net Issuance Payments Of Debt,-276472000.0
+ZGN,cash_flow,2025-12-31,Net Long Term Debt Issuance,-276472000.0
+ZGN,cash_flow,2025-12-31,Long Term Debt Payments,-326409000.0
 ZGN,cash_flow,2025-12-31,Long Term Debt Issuance,49937000.0
 ZGN,cash_flow,2025-12-31,Investing Cash Flow,-109915000.0
 ZGN,cash_flow,2025-12-31,Cash Flow From Continuing Investing Activities,-109915000.0
