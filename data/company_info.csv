@@ -1,7 +1,7 @@
 ticker,company_name,country,is_focus,currency,exchange,sector,industry,website,employees,market_cap,enterprise_value,current_price,52w_high,52w_low
-ZGN,Ermenegildo Zegna,Italy,True,USD,NYQ,Consumer Cyclical,Apparel Manufacturing,https://www.zegnagroup.com,7600,3344983808,4294841088,12.44,15.95,8.64
-BC.MI,Brunello Cucinelli,Italy,False,EUR,MIL,Consumer Cyclical,Luxury Goods,https://www.brunellocucinelli.it,3542,5493040128,6593076224,80.78,105.9,69.02
-MONC.MI,Moncler,Italy,False,EUR,MIL,Consumer Cyclical,Apparel Manufacturing,https://www.monclergroup.com,8032,12008346624,12148075520,44.15,59.4,42.77
-1913.HK,Prada,Italy,False,HKD,HKG,Consumer Cyclical,Luxury Goods,https://www.pradagroup.com,18000,97798250496,101424144384,38.22,52.0,34.52
-SFER.MI,Salvatore Ferragamo,Italy,False,EUR,MIL,Consumer Cyclical,Luxury Goods,https://group.ferragamo.com,3275,1268498688,1698204416,7.685,11.21,5.005
-BOSS.DE,Hugo Boss,Germany,False,EUR,GER,Consumer Cyclical,Apparel Manufacturing,https://www.hugoboss.com,16809,2637107712,3446037248,38.21,42.37,33.85
+ZGN,Ermenegildo Zegna,Italy,True,USD,NYQ,Consumer Cyclical,Apparel Manufacturing,https://www.zegnagroup.com,7600,3353050624,4302907904,12.47,15.95,8.64
+BC.MI,Brunello Cucinelli,Italy,False,EUR,MIL,Consumer Cyclical,Luxury Goods,https://www.brunellocucinelli.it,3542,5554240000,6568595968,81.68,102.4,69.02
+MONC.MI,Moncler,Italy,False,EUR,MIL,Consumer Cyclical,Apparel Manufacturing,https://www.monclergroup.com,8032,12024666112,11954962432,44.21,59.4,42.77
+1913.HK,Prada,Italy,False,HKD,HKG,Consumer Cyclical,Luxury Goods,https://www.pradagroup.com,18000,98975309824,101628854272,38.68,52.0,34.52
+SFER.MI,Salvatore Ferragamo,Italy,False,EUR,MIL,Consumer Cyclical,Luxury Goods,https://group.ferragamo.com,3275,1214355840,1684946944,7.37,11.21,5.005
+BOSS.DE,Hugo Boss,Germany,False,EUR,GER,Consumer Cyclical,Apparel Manufacturing,https://www.hugoboss.com,16809,2647460352,3450868480,38.36,42.31,33.85
